@@ -1,0 +1,58 @@
+[
+    {
+        "resource": "atcoder.jp",
+        "start": "2024-02-17T21:00:00+09:00",
+        "href": "http://atcoder.jp/contests/abc341",
+        "event": "Toyota Programming Contest 2024#2（AtCoder Beginner Contest 341）",
+        "duration": 6000,
+        "end": "2024-02-17T22:40:00+09:00"
+    },
+    {
+        "resource": "atcoder.jp",
+        "start": "2024-02-18T21:00:00+09:00",
+        "href": "http://atcoder.jp/contests/arc172",
+        "event": "AtCoder Regular Contest 172",
+        "duration": 7200,
+        "end": "2024-02-18T23:00:00+09:00"
+    },
+    {
+        "resource": "atcoder.jp",
+        "start": "2024-02-24T21:00:00+09:00",
+        "href": "http://atcoder.jp/contests/abc342",
+        "event": "HUAWEI Programming Contest 2024（AtCoder Beginner Contest 342）",
+        "duration": 6000,
+        "end": "2024-02-24T22:40:00+09:00"
+    },
+    {
+        "resource": "atcoder.jp",
+        "start": "2024-03-03T13:00:00+09:00",
+        "href": "http://atcoder.jp/contests/masters-qual",
+        "event": "The 1st Masters Championship-qual-",
+        "duration": 21600,
+        "end": "2024-03-03T19:00:00+09:00"
+    },
+    {
+        "resource": "atcoder.jp",
+        "start": "2024-03-10T21:00:00+09:00",
+        "href": "http://atcoder.jp/contests/arc173",
+        "event": "AtCoder Regular Contest 173",
+        "duration": 7200,
+        "end": "2024-03-10T23:00:00+09:00"
+    },
+    {
+        "resource": "atcoder.jp",
+        "start": "2024-03-17T21:00:00+09:00",
+        "href": "http://atcoder.jp/contests/arc174",
+        "event": "AtCoder Regular Contest 174",
+        "duration": 7200,
+        "end": "2024-03-17T23:00:00+09:00"
+    },
+    {
+        "resource": "atcoder.jp",
+        "start": "2024-03-22T19:00:00+09:00",
+        "href": "http://atcoder.jp/contests/ahc031",
+        "event": "MC Digital Programming Contest 2024（AtCoder Heuristic Contest 031）",
+        "duration": 864000,
+        "end": "2024-04-01T19:00:00+09:00"
+    }
+]
