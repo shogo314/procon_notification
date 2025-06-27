@@ -1,0 +1,65 @@
+{
+  "abc412": {
+    "resource": "atcoder.jp",
+    "id": "abc412",
+    "event": "日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 412）",
+    "href": "https://atcoder.jp/contests/abc412",
+    "start": "2025-06-28T12:00:00+00:00",
+    "end": "2025-06-28T13:40:00+00:00",
+    "duration": 6000
+  },
+  "abc413": {
+    "resource": "atcoder.jp",
+    "id": "abc413",
+    "event": "デンソークリエイトプログラミングコンテスト2025（AtCoder Beginner Contest 413）",
+    "href": "https://atcoder.jp/contests/abc413",
+    "start": "2025-07-05T12:00:00+00:00",
+    "end": "2025-07-05T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc050": {
+    "resource": "atcoder.jp",
+    "id": "ahc050",
+    "event": "AtCoder Heuristic Contest 050",
+    "href": "https://atcoder.jp/contests/ahc050",
+    "start": "2025-07-06T10:00:00+00:00",
+    "end": "2025-07-06T14:00:00+00:00",
+    "duration": 14400
+  },
+  "abc414": {
+    "resource": "atcoder.jp",
+    "id": "abc414",
+    "event": "ミラティブ プログラミングコンテスト2025（AtCoder Beginner Contest 414）",
+    "href": "https://atcoder.jp/contests/abc414",
+    "start": "2025-07-12T12:00:00+00:00",
+    "end": "2025-07-12T13:40:00+00:00",
+    "duration": 6000
+  },
+  "awtf2025algo": {
+    "resource": "atcoder.jp",
+    "id": "awtf2025algo",
+    "event": "World Tour Finals 2025 Algorithm",
+    "href": "https://atcoder.jp/contests/awtf2025algo",
+    "start": "2025-07-17T03:00:00+00:00",
+    "end": "2025-07-17T08:00:00+00:00",
+    "duration": 18000
+  },
+  "awtf2025algo-open": {
+    "resource": "atcoder.jp",
+    "id": "awtf2025algo-open",
+    "event": "World Tour Finals 2025 Algorithm（Open Contest）",
+    "href": "https://atcoder.jp/contests/awtf2025algo-open",
+    "start": "2025-07-17T03:00:00+00:00",
+    "end": "2025-07-17T08:00:00+00:00",
+    "duration": 18000
+  },
+  "abc415": {
+    "resource": "atcoder.jp",
+    "id": "abc415",
+    "event": "日本レジストリサービス（JPRS）プログラミングコンテスト2025#2（AtCoder Beginner Contest 415）",
+    "href": "https://atcoder.jp/contests/abc415",
+    "start": "2025-07-19T12:00:00+00:00",
+    "end": "2025-07-19T13:40:00+00:00",
+    "duration": 6000
+  }
+}

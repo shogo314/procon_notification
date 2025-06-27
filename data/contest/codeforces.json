@@ -1,0 +1,38 @@
+{
+  "2124": {
+    "resource": "codeforces.com",
+    "id": "2124",
+    "event": "Codeforces Round (Div. 1 + Div. 2)",
+    "href": "https://codeforces.com/contests/2124",
+    "start": "2025-07-06T14:35:00+00:00",
+    "end": "2025-07-06T17:35:00+00:00",
+    "duration": 10800
+  },
+  "2122": {
+    "resource": "codeforces.com",
+    "id": "2122",
+    "event": "Codeforces Round (Div. 1 + Div. 2)",
+    "href": "https://codeforces.com/contests/2122",
+    "start": "2025-07-19T14:35:00+00:00",
+    "end": "2025-07-19T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2123": {
+    "resource": "codeforces.com",
+    "id": "2123",
+    "event": "Codeforces Round 1034 (Div. 3)",
+    "href": "https://codeforces.com/contests/2123",
+    "start": "2025-07-01T14:35:00+00:00",
+    "end": "2025-07-01T16:50:00+00:00",
+    "duration": 8100
+  },
+  "2119": {
+    "resource": "codeforces.com",
+    "id": "2119",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2119",
+    "start": "2025-07-05T14:35:00+00:00",
+    "end": "2025-07-05T16:35:00+00:00",
+    "duration": 7200
+  }
+}
