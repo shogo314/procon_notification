@@ -52,59 +52,5 @@
     "start": "2025-07-05T14:30:00+00:00",
     "end": "2025-07-05T16:00:00+00:00",
     "duration": 5400
-  },
-  "START193C": {
-    "resource": "codechef.com",
-    "id": "START193C",
-    "event": "Starters 193",
-    "href": "https://www.codechef.com/START193C",
-    "start": "2025-07-02T14:30:00+00:00",
-    "end": "2025-07-02T16:30:00+00:00",
-    "duration": 7200
-  },
-  "START193A": {
-    "resource": "codechef.com",
-    "id": "START193A",
-    "event": "Starters 193",
-    "href": "https://www.codechef.com/START193A",
-    "start": "2025-07-02T14:30:00+00:00",
-    "end": "2025-07-02T16:30:00+00:00",
-    "duration": 7200
-  },
-  "DEVWEEKEND04": {
-    "resource": "codechef.com",
-    "id": "DEVWEEKEND04",
-    "event": "Weekend Dev Challenge 04: Projects in Python & Flask",
-    "href": "https://www.codechef.com/DEVWEEKEND04",
-    "start": "2025-06-27T18:30:00+00:00",
-    "end": "2025-06-28T18:30:00+00:00",
-    "duration": 86400
-  },
-  "START193D": {
-    "resource": "codechef.com",
-    "id": "START193D",
-    "event": "Starters 193",
-    "href": "https://www.codechef.com/START193D",
-    "start": "2025-07-02T14:30:00+00:00",
-    "end": "2025-07-02T16:30:00+00:00",
-    "duration": 7200
-  },
-  "START193B": {
-    "resource": "codechef.com",
-    "id": "START193B",
-    "event": "Starters 193",
-    "href": "https://www.codechef.com/START193B",
-    "start": "2025-07-02T14:30:00+00:00",
-    "end": "2025-07-02T16:30:00+00:00",
-    "duration": 7200
-  },
-  "START193": {
-    "resource": "codechef.com",
-    "id": "START193",
-    "event": "Starters 193",
-    "href": "https://www.codechef.com/START193",
-    "start": "2025-07-02T14:30:00+00:00",
-    "end": "2025-07-02T16:30:00+00:00",
-    "duration": 7200
   }
 }
