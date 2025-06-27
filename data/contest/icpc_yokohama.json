@@ -1,0 +1,11 @@
+{
+    "2025_domestic": {
+    "resource": "icpc.jp",
+    "id": "2025_domestic",
+    "event": "2025 年度 模擬国内予選",
+    "href": "https://icpc.jp/2025/domestic/",
+    "start": "2025-07-04T07:30:00+00:00",
+    "end": "2025-07-04T10:30:00+00:00",
+    "duration": 10800
+  }
+}

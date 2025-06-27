@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { ContestData } from '@/types/contest';
 import { format, formatDistanceToNow } from 'date-fns';
+import { formatInTimeZone } from 'date-fns-tz';
 import { ja } from 'date-fns/locale';
 
 export default async function Home() {
@@ -45,7 +46,7 @@ export default async function Home() {
               return (
                 <tr key={contest.id} className="hover:bg-gray-50">
                   <td className="px-4 py-2 border whitespace-nowrap">
-                    {format(start, 'yyyy-MM-dd HH:mm', { locale: ja })}
+                    {formatInTimeZone(start, 'Asia/Tokyo', 'yyyy-MM-dd HH:mm', { locale: ja })}
                   </td>
                   <td className="px-4 py-2 border whitespace-nowrap">
                     {formatDistanceToNow(start, {
