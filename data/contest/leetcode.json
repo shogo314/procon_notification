@@ -1,1 +1,110 @@
-{}
+{
+  "biweekly-contest-161": {
+    "resource": "leetcode.com",
+    "id": "biweekly-contest-161",
+    "event": "Biweekly Contest 161",
+    "href": "https://leetcode.com/contest/biweekly-contest-161",
+    "start": "2025-07-19T14:30:00+00:00",
+    "end": "2025-07-19T16:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-458": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-458",
+    "event": "Weekly Contest 458",
+    "href": "https://leetcode.com/contest/weekly-contest-458",
+    "start": "2025-07-13T02:30:00+00:00",
+    "end": "2025-07-13T04:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-457": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-457",
+    "event": "Weekly Contest 457",
+    "href": "https://leetcode.com/contest/weekly-contest-457",
+    "start": "2025-07-06T02:30:00+00:00",
+    "end": "2025-07-06T04:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-459": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-459",
+    "event": "Weekly Contest 459",
+    "href": "https://leetcode.com/contest/weekly-contest-459",
+    "start": "2025-07-20T02:30:00+00:00",
+    "end": "2025-07-20T04:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-456": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-456",
+    "event": "Weekly Contest 456",
+    "href": "https://leetcode.com/contest/weekly-contest-456",
+    "start": "2025-06-29T02:30:00+00:00",
+    "end": "2025-06-29T04:00:00+00:00",
+    "duration": 5400
+  },
+  "biweekly-contest-160": {
+    "resource": "leetcode.com",
+    "id": "biweekly-contest-160",
+    "event": "Biweekly Contest 160",
+    "href": "https://leetcode.com/contest/biweekly-contest-160",
+    "start": "2025-07-05T14:30:00+00:00",
+    "end": "2025-07-05T16:00:00+00:00",
+    "duration": 5400
+  },
+  "START193C": {
+    "resource": "codechef.com",
+    "id": "START193C",
+    "event": "Starters 193",
+    "href": "https://www.codechef.com/START193C",
+    "start": "2025-07-02T14:30:00+00:00",
+    "end": "2025-07-02T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START193A": {
+    "resource": "codechef.com",
+    "id": "START193A",
+    "event": "Starters 193",
+    "href": "https://www.codechef.com/START193A",
+    "start": "2025-07-02T14:30:00+00:00",
+    "end": "2025-07-02T16:30:00+00:00",
+    "duration": 7200
+  },
+  "DEVWEEKEND04": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND04",
+    "event": "Weekend Dev Challenge 04: Projects in Python & Flask",
+    "href": "https://www.codechef.com/DEVWEEKEND04",
+    "start": "2025-06-27T18:30:00+00:00",
+    "end": "2025-06-28T18:30:00+00:00",
+    "duration": 86400
+  },
+  "START193D": {
+    "resource": "codechef.com",
+    "id": "START193D",
+    "event": "Starters 193",
+    "href": "https://www.codechef.com/START193D",
+    "start": "2025-07-02T14:30:00+00:00",
+    "end": "2025-07-02T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START193B": {
+    "resource": "codechef.com",
+    "id": "START193B",
+    "event": "Starters 193",
+    "href": "https://www.codechef.com/START193B",
+    "start": "2025-07-02T14:30:00+00:00",
+    "end": "2025-07-02T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START193": {
+    "resource": "codechef.com",
+    "id": "START193",
+    "event": "Starters 193",
+    "href": "https://www.codechef.com/START193",
+    "start": "2025-07-02T14:30:00+00:00",
+    "end": "2025-07-02T16:30:00+00:00",
+    "duration": 7200
+  }
+}
