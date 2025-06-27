@@ -1,4 +1,5 @@
 import { loadAllContests } from '@/lib/loadContests';
+import { loadMeta } from '@/lib/loadMeta';
 import { formatDistanceToNow } from 'date-fns';
 import { formatInTimeZone } from 'date-fns-tz';
 import { ja } from 'date-fns/locale';
@@ -66,6 +67,7 @@ function ContestTable({
 
 export default function Home() {
   const allContests = loadAllContests();
+  const meta = loadMeta();
 
   const now = new Date();
   const ongoing: ContestEntry[] = [];
@@ -93,6 +95,9 @@ export default function Home() {
   return (
     <main className="p-6">
       <h1 className="text-2xl font-bold mb-8">プログラミングコンテスト一覧</h1>
+      <p className="mb-8 text-gray-600">
+        最終更新日時: {formatInTimeZone(new Date(meta.updatedAt), 'Asia/Tokyo', 'yyyy-MM-dd HH:mm', { locale: ja })}
+      </p>
 
       <ContestTable title="⏳ 現在進行中のコンテスト" contests={ongoing} />
       <ContestTable title="🕓 終了したコンテスト（24時間以内）" contests={recentlyEnded} />
