@@ -52,5 +52,14 @@
     "start": "2025-10-05T04:30:00+00:00",
     "end": "2025-10-05T07:30:00+00:00",
     "duration": 10800
+  },
+  "553": {
+    "resource": "yukicoder.me",
+    "id": "553",
+    "event": "yukicoder contest (ゆるCafe)",
+    "href": "https://yukicoder.me/contests/553",
+    "start": "2025-07-25T12:20:00+00:00",
+    "end": "2025-07-25T14:20:00+00:00",
+    "duration": 7200
   }
 }
