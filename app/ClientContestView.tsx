@@ -28,12 +28,17 @@ function ContestTable({
   contests,
   locale,
   timeZone,
+  timeTarget,
 }: {
   title: string;
   contests: ContestEntry[];
   locale: Locale;
   timeZone: string;
+  timeTarget: 'start' | 'end';
 }) {
+  const timeLabel =
+    timeTarget === 'start' ? 'Starts in' : 'Ends / Ended';
+
   return (
     <section className="mb-12">
       <h2 className="text-xl font-bold mb-3">{title}</h2>
@@ -45,7 +50,7 @@ function ContestTable({
             <thead>
               <tr className="bg-gray-100 text-left">
                 <th className="px-4 py-2 border">Start time</th>
-                <th className="px-4 py-2 border">Starts in</th>
+                <th className="px-4 py-2 border">{timeLabel}</th>
                 <th className="px-4 py-2 border">Duration</th>
                 <th className="px-4 py-2 border">Event</th>
                 <th className="px-4 py-2 border">Site</th>
@@ -54,7 +59,9 @@ function ContestTable({
             <tbody>
               {contests.map((contest) => {
                 const start = new Date(contest.start);
+                const end = new Date(contest.end);
                 const durationMin = contest.duration / 60;
+                const targetTime = timeTarget === 'start' ? start : end;
 
                 return (
                   <tr key={contest.id} className="hover:bg-gray-50">
@@ -62,7 +69,7 @@ function ContestTable({
                       {formatInTimeZone(start, timeZone, 'yyyy-MM-dd HH:mm', { locale })}
                     </td>
                     <td className="px-4 py-2 border whitespace-nowrap">
-                      <TimeUntil target={start} locale={locale} />
+                      <TimeUntil target={targetTime} locale={locale} />
                     </td>
                     <td className="px-4 py-2 border">{durationMin} 分</td>
                     <td className="px-4 py-2 border">
@@ -140,9 +147,9 @@ export default function ClientContestView() {
 
   return (
     <>
-      <ContestTable title="⏳ 現在進行中のコンテスト" contests={ongoing} locale={locale} timeZone={timeZone} />
-      <ContestTable title="🕓 終了したコンテスト（24時間以内）" contests={recentlyEnded} locale={locale} timeZone={timeZone} />
-      <ContestTable title="📅 今後のコンテスト" contests={upcoming} locale={locale} timeZone={timeZone} />
+      <ContestTable title="⏳ 現在進行中のコンテスト" contests={ongoing} locale={locale} timeZone={timeZone} timeTarget="end" />
+      <ContestTable title="🕓 終了したコンテスト（24時間以内）" contests={recentlyEnded} locale={locale} timeZone={timeZone} timeTarget="end" />
+      <ContestTable title="📅 今後のコンテスト" contests={upcoming} locale={locale} timeZone={timeZone} timeTarget="start" />
     </>
   );
 }
