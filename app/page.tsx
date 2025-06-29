@@ -7,7 +7,6 @@ import ClientContestView from './ClientContestView';
 export const revalidate = 600;
 
 export default async function Home() {
-  const allContests = loadAllContests();
   const meta = loadMeta();
 
   return (
@@ -17,7 +16,7 @@ export default async function Home() {
         最終更新日時: {formatInTimeZone(new Date(meta.updatedAt), 'Asia/Tokyo', 'yyyy-MM-dd HH:mm', { locale: ja })}
       </p>
 
-      <ClientContestView contests={allContests} />
+      <ClientContestView />
     </main>
   );
 }
