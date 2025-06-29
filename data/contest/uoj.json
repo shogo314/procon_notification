@@ -1,0 +1,38 @@
+{
+  "98": {
+    "resource": "uoj.ac",
+    "id": "98",
+    "event": "UOJ Round #31",
+    "href": "https://uoj.ac/contest/98",
+    "start": "2025-06-29T10:00:00+00:00",
+    "end": "2025-06-29T14:00:00+00:00",
+    "duration": 14400
+  },
+  "99": {
+    "resource": "uoj.ac",
+    "id": "99",
+    "event": "UOJ NOI Round #9 笔试",
+    "href": "https://uoj.ac/contest/99",
+    "start": "2025-07-06T11:00:00+00:00",
+    "end": "2025-07-06T11:30:00+00:00",
+    "duration": 1800
+  },
+  "100": {
+    "resource": "uoj.ac",
+    "id": "100",
+    "event": "UOJ NOI Round #9 Day1",
+    "href": "https://uoj.ac/contest/100",
+    "start": "2025-07-07T00:30:00+00:00",
+    "end": "2025-07-07T05:30:00+00:00",
+    "duration": 18000
+  },
+  "101": {
+    "resource": "uoj.ac",
+    "id": "101",
+    "event": "UOJ NOI Round #9 Day2",
+    "href": "https://uoj.ac/contest/101",
+    "start": "2025-07-08T00:30:00+00:00",
+    "end": "2025-07-08T05:30:00+00:00",
+    "duration": 18000
+  }
+}

@@ -2,10 +2,19 @@
   "START193": {
     "resource": "codechef.com",
     "id": "START193",
-    "event": "Starters 193",
+    "event": "Starters 193 (Rated for all)",
     "href": "https://www.codechef.com/START193",
     "start": "2025-07-02T14:30:00+00:00",
     "end": "2025-07-02T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START194": {
+    "resource": "codechef.com",
+    "id": "START194",
+    "event": "Starters 194",
+    "href": "https://www.codechef.com/START194",
+    "start": "2025-07-09T14:30:00+00:00",
+    "end": "2025-07-09T16:30:00+00:00",
     "duration": 7200
   }
 }

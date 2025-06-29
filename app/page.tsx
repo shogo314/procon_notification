@@ -1,4 +1,3 @@
-import { loadAllContests } from '@/lib/loadContests';
 import { loadMeta } from '@/lib/loadMeta';
 import { formatInTimeZone } from 'date-fns-tz';
 import { ja } from 'date-fns/locale';
