@@ -151,7 +151,7 @@ export default function ClientContestView() {
     <>
       <p className="mb-6 text-sm text-gray-600">
         現在時刻: {formatInTimeZone(new Date(), timeZone, "yyyy-MM-dd'T'HH:mm:ssXXX")}
-      </p>1111111111111
+      </p>
       <ContestTable title="⏳ 現在進行中のコンテスト" contests={ongoing} locale={locale} timeZone={timeZone} timeTarget="end" />
       <ContestTable title="🕓 終了したコンテスト（24時間以内）" contests={recentlyEnded} locale={locale} timeZone={timeZone} timeTarget="end" />
       <ContestTable title="📅 今後のコンテスト" contests={upcoming} locale={locale} timeZone={timeZone} timeTarget="start" />
