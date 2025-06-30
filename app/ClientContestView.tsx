@@ -49,7 +49,9 @@ function ContestTable({
           <table className="min-w-full border border-gray-300">
             <thead>
               <tr className="bg-gray-100 text-left">
-                <th className="px-4 py-2 border">Start time</th>
+                <th className="px-4 py-2 border">
+                  {timeTarget === 'start' ? 'Start time' : 'End time'}
+                </th>
                 <th className="px-4 py-2 border">{timeLabel}</th>
                 <th className="px-4 py-2 border">Duration</th>
                 <th className="px-4 py-2 border">Event</th>
@@ -66,7 +68,7 @@ function ContestTable({
                 return (
                   <tr key={contest.id} className="hover:bg-gray-50">
                     <td className="px-4 py-2 border whitespace-nowrap">
-                      {formatInTimeZone(start, timeZone, 'yyyy-MM-dd HH:mm', { locale })}
+                      {formatInTimeZone(targetTime, timeZone, 'yyyy-MM-dd HH:mm', { locale })}
                     </td>
                     <td className="px-4 py-2 border whitespace-nowrap">
                       <TimeUntil target={targetTime} locale={locale} />
@@ -134,7 +136,7 @@ export default function ClientContestView() {
       }
     }
 
-    ongoing.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
+    ongoing.sort((a, b) => new Date(a.end).getTime() - new Date(b.end).getTime());
     recentlyEnded.sort((a, b) => new Date(b.end).getTime() - new Date(a.end).getTime());
     upcoming.sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
 
@@ -147,6 +149,9 @@ export default function ClientContestView() {
 
   return (
     <>
+      <p className="mb-6 text-sm text-gray-600">
+        現在時刻: {formatInTimeZone(new Date(), timeZone, "yyyy-MM-dd'T'HH:mm:ssXXX")}
+      </p>1111111111111
       <ContestTable title="⏳ 現在進行中のコンテスト" contests={ongoing} locale={locale} timeZone={timeZone} timeTarget="end" />
       <ContestTable title="🕓 終了したコンテスト（24時間以内）" contests={recentlyEnded} locale={locale} timeZone={timeZone} timeTarget="end" />
       <ContestTable title="📅 今後のコンテスト" contests={upcoming} locale={locale} timeZone={timeZone} timeTarget="start" />
