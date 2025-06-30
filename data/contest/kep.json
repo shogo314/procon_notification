@@ -1,0 +1,65 @@
+{
+  "441": {
+    "resource": "olympicode.rs",
+    "id": "441",
+    "event": "KEPPY Birthday Contest",
+    "href": "https://kep.uz/competitions/contests/contest/441",
+    "start": "2025-07-07T14:35:00+00:00",
+    "end": "2025-07-07T17:35:00+00:00",
+    "duration": 10800
+  },
+  "440": {
+    "resource": "olympicode.rs",
+    "id": "440",
+    "event": "KEP Contest #15",
+    "href": "https://kep.uz/competitions/contests/contest/440",
+    "start": "2025-06-22T14:35:00+00:00",
+    "end": "2025-06-22T17:35:00+00:00",
+    "duration": 10800
+  },
+  "439": {
+    "resource": "olympicode.rs",
+    "id": "439",
+    "event": "Keppy Kep Contest",
+    "href": "https://kep.uz/competitions/contests/contest/439",
+    "start": "2025-05-24T16:36:00+00:00",
+    "end": "2025-05-24T18:36:00+00:00",
+    "duration": 7200
+  },
+  "433": {
+    "resource": "olympicode.rs",
+    "id": "433",
+    "event": "KEP Contest #14 | Based on Revo Cup Final",
+    "href": "https://kep.uz/competitions/contests/contest/433",
+    "start": "2025-04-07T14:35:00+00:00",
+    "end": "2025-04-07T17:05:00+00:00",
+    "duration": 9000
+  },
+  "430": {
+    "resource": "olympicode.rs",
+    "id": "430",
+    "event": "Revo Cup | Final | CTF",
+    "href": "https://kep.uz/competitions/contests/contest/430",
+    "start": "2025-04-05T10:30:00+00:00",
+    "end": "2025-04-05T13:15:00+00:00",
+    "duration": 9900
+  },
+  "427": {
+    "resource": "olympicode.rs",
+    "id": "427",
+    "event": "Revo Cup | Final | CP",
+    "href": "https://kep.uz/competitions/contests/contest/427",
+    "start": "2025-04-05T06:10:00+00:00",
+    "end": "2025-04-05T08:40:00+00:00",
+    "duration": 9000
+  },
+  "424": {
+    "resource": "olympicode.rs",
+    "id": "424",
+    "event": "Revo Cup | Qualification | CTF",
+    "href": "https://kep.uz/competitions/contests/contest/424",
+    "start": "2025-03-30T15:00:00+00:00",
+    "end": "2025-03-30T19:00:00+00:00",
+    "duration": 14400
+  }
+}
