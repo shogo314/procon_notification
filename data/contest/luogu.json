@@ -1,0 +1,182 @@
+{
+  "241770": {
+    "resource": "luogu.com.cn",
+    "id": "241770",
+    "event": "【LGR-232-Div.2】西安三三信奥 7 月月赛 II & WAOI R4, FeOI R3.5",
+    "href": "https://www.luogu.com.cn/contest/241770",
+    "start": "2025-07-16T06:00:00+00:00",
+    "end": "2025-07-16T10:00:00+00:00",
+    "duration": 14400
+  },
+  "252738": {
+    "resource": "luogu.com.cn",
+    "id": "252738",
+    "event": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12",
+    "href": "https://www.luogu.com.cn/contest/252738",
+    "start": "2025-06-29T06:00:00+00:00",
+    "end": "2025-06-29T09:00:00+00:00",
+    "duration": 10800
+  },
+  "252739": {
+    "resource": "luogu.com.cn",
+    "id": "252739",
+    "event": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12",
+    "href": "https://www.luogu.com.cn/contest/252739",
+    "start": "2025-06-29T06:00:00+00:00",
+    "end": "2025-06-29T09:00:00+00:00",
+    "duration": 10800
+  },
+  "235738": {
+    "resource": "luogu.com.cn",
+    "id": "235738",
+    "event": "# IAOI Round 1 旅途 Only one's journey.",
+    "href": "https://www.luogu.com.cn/contest/235738",
+    "start": "2025-06-28T06:00:00+00:00",
+    "end": "2025-06-28T11:00:00+00:00",
+    "duration": 18000
+  },
+  "253194": {
+    "resource": "luogu.com.cn",
+    "id": "253194",
+    "event": "Ynoi 2019 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/253194",
+    "start": "2025-06-24T04:00:00+00:00",
+    "end": "2025-06-25T04:00:00+00:00",
+    "duration": 86400
+  },
+  "246684": {
+    "resource": "luogu.com.cn",
+    "id": "246684",
+    "event": "DLESS Round 2：XOR MASTER #1",
+    "href": "https://www.luogu.com.cn/contest/246684",
+    "start": "2025-06-14T05:30:00+00:00",
+    "end": "2025-06-14T09:30:00+00:00",
+    "duration": 14400
+  },
+  "251050": {
+    "resource": "luogu.com.cn",
+    "id": "251050",
+    "event": "【LGR-230-Div.4】洛谷入门赛 #36",
+    "href": "https://www.luogu.com.cn/contest/251050",
+    "start": "2025-06-13T11:00:00+00:00",
+    "end": "2025-06-13T13:00:00+00:00",
+    "duration": 7200
+  },
+  "233396": {
+    "resource": "luogu.com.cn",
+    "id": "233396",
+    "event": "【LGR-229-Div.2】桃李未来 6 月月赛 I & GMSK - 01",
+    "href": "https://www.luogu.com.cn/contest/233396",
+    "start": "2025-06-07T06:00:00+00:00",
+    "end": "2025-06-07T10:00:00+00:00",
+    "duration": 14400
+  },
+  "230134": {
+    "resource": "luogu.com.cn",
+    "id": "230134",
+    "event": "Algo Beat Contest 002",
+    "href": "https://www.luogu.com.cn/contest/230134",
+    "start": "2025-06-07T02:00:00+00:00",
+    "end": "2025-06-07T03:40:00+00:00",
+    "duration": 6000
+  },
+  "249248": {
+    "resource": "luogu.com.cn",
+    "id": "249248",
+    "event": "【MX-J15】梦熊 J 组 · 儿童节赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/249248",
+    "start": "2025-06-01T06:00:00+00:00",
+    "end": "2025-06-01T09:30:00+00:00",
+    "duration": 12600
+  },
+  "211584": {
+    "resource": "luogu.com.cn",
+    "id": "211584",
+    "event": "Brooklyn Round 1 & NNOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/211584",
+    "start": "2025-06-01T00:30:00+00:00",
+    "end": "2025-06-01T03:30:00+00:00",
+    "duration": 10800
+  },
+  "187787": {
+    "resource": "luogu.com.cn",
+    "id": "187787",
+    "event": "【LGR-228-Div.3】洛谷基础赛 #23 &「LAOI」Round 8",
+    "href": "https://www.luogu.com.cn/contest/187787",
+    "start": "2025-05-31T06:00:00+00:00",
+    "end": "2025-05-31T09:30:00+00:00",
+    "duration": 12600
+  },
+  "245637": {
+    "resource": "luogu.com.cn",
+    "id": "245637",
+    "event": "「TFXOI」Round 2",
+    "href": "https://www.luogu.com.cn/contest/245637",
+    "start": "2025-05-31T00:30:00+00:00",
+    "end": "2025-05-31T04:00:00+00:00",
+    "duration": 12600
+  },
+  "219334": {
+    "resource": "luogu.com.cn",
+    "id": "219334",
+    "event": "【LGR-227-Div.2】核桃编程 5 月月赛 II & S2OI Round 1",
+    "href": "https://www.luogu.com.cn/contest/219334",
+    "start": "2025-05-25T06:00:00+00:00",
+    "end": "2025-05-25T10:00:00+00:00",
+    "duration": 14400
+  },
+  "245376": {
+    "resource": "luogu.com.cn",
+    "id": "245376",
+    "event": "【LGR-225-Div.1.5】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #4",
+    "href": "https://www.luogu.com.cn/contest/245376",
+    "start": "2025-05-24T06:00:00+00:00",
+    "end": "2025-05-24T10:00:00+00:00",
+    "duration": 14400
+  },
+  "245921": {
+    "resource": "luogu.com.cn",
+    "id": "245921",
+    "event": "西安交通大学2025年程序设计竞赛校赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/245921",
+    "start": "2025-05-18T05:30:00+00:00",
+    "end": "2025-05-18T10:30:00+00:00",
+    "duration": 18000
+  },
+  "244152": {
+    "resource": "luogu.com.cn",
+    "id": "244152",
+    "event": "Aboi Round 1",
+    "href": "https://www.luogu.com.cn/contest/244152",
+    "start": "2025-05-17T09:00:00+00:00",
+    "end": "2025-05-17T13:30:00+00:00",
+    "duration": 16200
+  },
+  "235872": {
+    "resource": "luogu.com.cn",
+    "id": "235872",
+    "event": "MSTOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/235872",
+    "start": "2025-05-17T05:00:00+00:00",
+    "end": "2025-05-17T08:30:00+00:00",
+    "duration": 12600
+  },
+  "245718": {
+    "resource": "luogu.com.cn",
+    "id": "245718",
+    "event": "【LGR-226-Div.4】洛谷入门赛 #35",
+    "href": "https://www.luogu.com.cn/contest/245718",
+    "start": "2025-05-16T11:00:00+00:00",
+    "end": "2025-05-16T13:00:00+00:00",
+    "duration": 7200
+  },
+  "238488": {
+    "resource": "luogu.com.cn",
+    "id": "238488",
+    "event": "DLESS Round 1",
+    "href": "https://www.luogu.com.cn/contest/238488",
+    "start": "2025-05-11T06:00:00+00:00",
+    "end": "2025-05-11T10:00:00+00:00",
+    "duration": 14400
+  }
+}
