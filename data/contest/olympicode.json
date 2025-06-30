@@ -1,0 +1,30 @@
+{
+  "test_contest": {
+    "resource": "olympicode.rs",
+    "id": "test_contest",
+    "event": "Olympicode Test Contest",
+    "href": "https://olympicode.rs/contest/test_contest",
+    "start": "2025-06-24T10:00:00+00:00",
+    "end": "2025-07-05T10:00:00+00:00",
+    "duration": 950400
+  },
+  "ooo25_day1": {
+    "resource": "olympicode.rs",
+    "id": "ooo25_day1",
+    "event": "Olympicode Open Olympiad 2025 - Day 1",
+    "href": "https://olympicode.rs/contest/ooo25_day1",
+    "start": "2025-07-05T10:00:00+00:00",
+    "end": "2025-07-05T15:00:00+00:00",
+    "duration": 18000
+  },
+  "ooo25_day2": {
+    "resource": "olympicode.rs",
+    "id": "ooo25_day2",
+    "event": "Olympicode Open Olympiad 2025 - Day 2",
+    "href": "https://olympicode.rs/contest/ooo25_day2",
+    "start": "2025-07-06T10:00:00+00:00",
+    "end": "2025-07-06T15:00:00+00:00",
+    "duration": 18000
+  }
+}
+
