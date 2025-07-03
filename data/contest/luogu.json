@@ -196,5 +196,14 @@
     "start": "2025-07-06T05:00:00+00:00",
     "end": "2025-07-06T10:00:00+00:00",
     "duration": 18000
+  },
+  "253736": {
+    "resource": "luogu.com.cn",
+    "id": "253736",
+    "event": "『STAOI』H - Round 1",
+    "href": "https://www.luogu.com.cn/contest/253736",
+    "start": "2025-07-05T06:00:00+00:00",
+    "end": "2025-07-05T11:00:00+00:00",
+    "duration": 18000
   }
 }
