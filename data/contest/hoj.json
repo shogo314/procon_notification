@@ -7,5 +7,14 @@
     "start": "2025-12-27T07:30:00+00:00",
     "end": "2025-12-27T09:00:00+00:00",
     "duration": 5400
+  },
+  "364": {
+    "resource": "hoj.hamako-ths.ed.jp",
+    "id": "364",
+    "event": "C++プロコン（仮名）",
+    "href": "https://hoj.hamako-ths.ed.jp/onlinejudge/contest/364",
+    "start": "2025-07-07T06:40:00+00:00",
+    "end": "2025-07-07T08:20:00+00:00",
+    "duration": 6000
   }
 }

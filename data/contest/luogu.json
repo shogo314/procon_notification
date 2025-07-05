@@ -205,5 +205,14 @@
     "start": "2025-07-05T06:00:00+00:00",
     "end": "2025-07-05T11:00:00+00:00",
     "duration": 18000
+  },
+  "202042": {
+    "resource": "luogu.com.cn",
+    "id": "202042",
+    "event": "2.48sOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/202042",
+    "start": "2025-07-12T06:00:00+00:00",
+    "end": "2025-07-12T10:00:00+00:00",
+    "duration": 14400
   }
 }
