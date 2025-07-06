@@ -16,5 +16,14 @@
     "start": "2025-07-09T14:30:00+00:00",
     "end": "2025-07-09T16:30:00+00:00",
     "duration": 7200
+  },
+  "START195": {
+    "resource": "codechef.com",
+    "id": "START195",
+    "event": "Starters 195",
+    "href": "https://www.codechef.com/START195",
+    "start": "2025-07-16T14:30:00+00:00",
+    "end": "2025-07-16T16:30:00+00:00",
+    "duration": 7200
   }
 }

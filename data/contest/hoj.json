@@ -11,8 +11,17 @@
   "364": {
     "resource": "hoj.hamako-ths.ed.jp",
     "id": "364",
-    "event": "C++プロコン（仮名）",
+    "event": "C++プロコン in 2025",
     "href": "https://hoj.hamako-ths.ed.jp/onlinejudge/contest/364",
+    "start": "2025-07-07T06:40:00+00:00",
+    "end": "2025-07-07T08:20:00+00:00",
+    "duration": 6000
+  },
+  "365": {
+    "resource": "hoj.hamako-ths.ed.jp",
+    "id": "365",
+    "event": "C++ プロコン in 2025 （2, 3年生用）",
+    "href": "https://hoj.hamako-ths.ed.jp/onlinejudge/contest/365",
     "start": "2025-07-07T06:40:00+00:00",
     "end": "2025-07-07T08:20:00+00:00",
     "duration": 6000

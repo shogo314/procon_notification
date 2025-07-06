@@ -214,5 +214,32 @@
     "start": "2025-07-12T06:00:00+00:00",
     "end": "2025-07-12T10:00:00+00:00",
     "duration": 14400
+  },
+  "250226": {
+    "resource": "luogu.com.cn",
+    "id": "250226",
+    "event": "CZOI Easy Round 5",
+    "href": "https://www.luogu.com.cn/contest/250226",
+    "start": "2025-07-20T06:30:00+00:00",
+    "end": "2025-07-20T10:00:00+00:00",
+    "duration": 12600
+  },
+  "251887": {
+    "resource": "luogu.com.cn",
+    "id": "251887",
+    "event": "郑州一中公开赛 2025",
+    "href": "https://www.luogu.com.cn/contest/251887",
+    "start": "2025-07-19T06:00:00+00:00",
+    "end": "2025-07-19T10:30:00+00:00",
+    "duration": 16200
+  },
+  "256033": {
+    "resource": "luogu.com.cn",
+    "id": "256033",
+    "event": "【LGR-233-Div.4】洛谷入门赛 #37",
+    "href": "https://www.luogu.com.cn/contest/256033",
+    "start": "2025-07-18T11:00:00+00:00",
+    "end": "2025-07-18T13:00:00+00:00",
+    "duration": 7200
   }
 }
