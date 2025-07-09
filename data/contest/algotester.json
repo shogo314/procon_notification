@@ -1,11 +1,20 @@
 {
   "110857": {
     "resource": "algotester.com",
-    "id": "424",
+    "id": "110857",
     "event": "The Algo Battles 2025 - Етап 4",
     "href": "https://algotester.com/en/Tournament/Display/10084",
     "start": "2025-07-06T16:00:00+00:00",
     "end": "2025-07-06T18:30:00+00:00",
     "duration": 9000
+  },
+  "110865": {
+    "resource": "algotester.com",
+    "id": "110865",
+    "event": "Algotester Workout 18 (Hard)",
+    "href": "https://algotester.com/en/Tournament/Display/10082",
+    "start": "2025-07-13T07:00:00+00:00",
+    "end": "2025-07-13T12:00:00+00:00",
+    "duration": 18000
   }
 }
