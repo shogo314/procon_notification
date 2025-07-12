@@ -11,11 +11,11 @@
   "2122": {
     "resource": "codeforces.com",
     "id": "2122",
-    "event": "Codeforces Round (Div. 1 + Div. 2)",
+    "event": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
     "href": "https://codeforces.com/contests/2122",
     "start": "2025-07-19T14:35:00+00:00",
-    "end": "2025-07-19T17:05:00+00:00",
-    "duration": 9000
+    "end": "2025-07-19T16:50:00+00:00",
+    "duration": 8100
   },
   "2123": {
     "resource": "codeforces.com",
@@ -34,5 +34,23 @@
     "start": "2025-07-05T14:35:00+00:00",
     "end": "2025-07-05T16:35:00+00:00",
     "duration": 7200
+  },
+  "2125": {
+    "resource": "codeforces.com",
+    "id": "2125",
+    "event": "Educational Codeforces Round 181 (Rated for Div. 2)",
+    "href": "https://codeforces.com/contests/2125",
+    "start": "2025-07-22T14:35:00+00:00",
+    "end": "2025-07-22T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2126": {
+    "resource": "codeforces.com",
+    "id": "2126",
+    "event": "Codeforces Round 1037 (Div. 3)",
+    "href": "https://codeforces.com/contests/2126",
+    "start": "2025-07-17T14:35:00+00:00",
+    "end": "2025-07-17T16:50:00+00:00",
+    "duration": 8100
   }
 }

@@ -61,5 +61,32 @@
     "start": "2025-07-17T04:00:00+00:00",
     "end": "2025-07-17T09:00:00+00:00",
     "duration": 18000
+  },
+  "113313": {
+    "resource": "ac.nowcoder.com",
+    "id": "113313",
+    "event": "牛客周赛 Round 101",
+    "href": "https://ac.nowcoder.com/acm/contest/113313",
+    "start": "2025-07-20T11:00:00+00:00",
+    "end": "2025-07-20T13:00:00+00:00",
+    "duration": 7200
+  },
+  "108300": {
+    "resource": "ac.nowcoder.com",
+    "id": "108300",
+    "event": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营3",
+    "href": "https://ac.nowcoder.com/acm/contest/108300",
+    "start": "2025-07-22T04:00:00+00:00",
+    "end": "2025-07-22T09:00:00+00:00",
+    "duration": 18000
+  },
+  "108301": {
+    "resource": "ac.nowcoder.com",
+    "id": "108301",
+    "event": "2025牛客暑期多校训练营4",
+    "href": "https://ac.nowcoder.com/acm/contest/108301",
+    "start": "2025-07-24T04:00:00+00:00",
+    "end": "2025-07-24T09:00:00+00:00",
+    "duration": 18000
   }
 }

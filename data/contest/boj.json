@@ -1,0 +1,38 @@
+{
+  "1529": {
+    "resource": "acmicpc.net",
+    "id": "1529",
+    "event": "제9회 천하제일 코딩대회 본선 Open Contest",
+    "href": "https://www.acmicpc.net/contest/view/1529",
+    "start": "2025-07-15T05:45:00+00:00",
+    "end": "2025-07-15T09:45:00+00:00",
+    "duration": 14400
+  },
+  "1528": {
+    "resource": "acmicpc.net",
+    "id": "1528",
+    "event": "아니메컵 2기 -chinoaww는 피드백이 아니에요-",
+    "href": "https://www.acmicpc.net/contest/view/1528",
+    "start": "2025-07-27T04:00:00+00:00",
+    "end": "2025-07-27T09:00:00+00:00",
+    "duration": 18000
+  },
+  "1524": {
+    "resource": "acmicpc.net",
+    "id": "1524",
+    "event": "월간 향유회 2025. 07.",
+    "href": "https://www.acmicpc.net/contest/view/1524",
+    "start": "2025-07-27T10:00:00+00:00",
+    "end": "2025-07-27T12:00:00+00:00",
+    "duration": 7200
+  },
+  "1523": {
+    "resource": "acmicpc.net",
+    "id": "1523",
+    "event": "BCF 2025",
+    "href": "https://www.acmicpc.net/contest/view/1523",
+    "start": "2025-08-16T02:01:00+00:00",
+    "end": "2025-08-17T02:01:00+00:00",
+    "duration": 86400
+  }
+}

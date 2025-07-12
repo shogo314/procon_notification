@@ -70,5 +70,23 @@
     "start": "2025-07-11T12:20:00+00:00",
     "end": "2025-07-11T14:20:00+00:00",
     "duration": 7200
+  },
+  "555": {
+    "resource": "yukicoder.me",
+    "id": "555",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/555",
+    "start": "2025-07-26T04:00:00+00:00",
+    "end": "2025-07-26T08:00:00+00:00",
+    "duration": 14400
+  },
+  "556": {
+    "resource": "yukicoder.me",
+    "id": "556",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/556",
+    "start": "2025-08-01T12:20:00+00:00",
+    "end": "2025-08-01T14:20:00+00:00",
+    "duration": 7200
   }
 }
