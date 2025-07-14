@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import Link from "next/link";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Programming Contests",
-  description: "プログラミングコンテスト一覧サイト",
+  title: "Procon Notification",
+  description: "プログラミングコンテスト通知・一覧サービス",
 };
 
 export const viewport: Viewport = {
@@ -29,7 +30,26 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja" className={`${geistSans.variable} ${geistMono.variable}`}>
+    <head>
+      <link rel="icon" href="/favicon.png" type="image/png" />
+    </head>
       <body className="antialiased bg-white text-black min-h-screen">
+        <header className="border-b py-4 px-4 bg-gray-50">
+          <div className="max-w-5xl mx-auto flex items-center justify-between">
+            <h1 className="text-xl font-bold">
+              <Link href="/">Procon Notification</Link>
+            </h1>
+            <nav className="space-x-4 text-sm">
+              <Link href="/" className="hover:underline">
+                コンテスト一覧
+              </Link>
+              <Link href="/about" className="hover:underline">
+                このサイトについて
+              </Link>
+            </nav>
+          </div>
+        </header>
+
         <main className="max-w-5xl mx-auto px-4 py-8">{children}</main>
       </body>
     </html>
