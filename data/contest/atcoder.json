@@ -124,5 +124,14 @@
     "start": "2025-08-09T12:00:00+00:00",
     "end": "2025-08-09T13:40:00+00:00",
     "duration": 6000
+  },
+  "arc203": {
+    "resource": "atcoder.jp",
+    "id": "arc203",
+    "event": "AtCoder Regular Contest 203 (Div. 2)",
+    "href": "https://atcoder.jp/contests/arc203",
+    "start": "2025-08-03T12:00:00+00:00",
+    "end": "2025-08-03T14:00:00+00:00",
+    "duration": 7200
   }
 }
