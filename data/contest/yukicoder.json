@@ -2,7 +2,7 @@
   "549": {
     "resource": "yukicoder.me",
     "id": "549",
-    "event": "yukicoder contest",
+    "event": "yukicoder contest 474",
     "href": "https://yukicoder.me/contests/549",
     "start": "2025-07-18T12:20:00+00:00",
     "end": "2025-07-18T14:20:00+00:00",
@@ -74,7 +74,7 @@
   "555": {
     "resource": "yukicoder.me",
     "id": "555",
-    "event": "yukicoder contest",
+    "event": "yukicoder score contest 11",
     "href": "https://yukicoder.me/contests/555",
     "start": "2025-07-26T04:00:00+00:00",
     "end": "2025-07-26T08:00:00+00:00",
@@ -97,5 +97,14 @@
     "start": "2025-08-08T12:20:00+00:00",
     "end": "2025-08-08T14:20:00+00:00",
     "duration": 7200
+  },
+  "558": {
+    "resource": "yukicoder.me",
+    "id": "558",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/558",
+    "start": "2025-09-07T03:00:00+00:00",
+    "end": "2025-09-07T08:00:00+00:00",
+    "duration": 18000
   }
 }
