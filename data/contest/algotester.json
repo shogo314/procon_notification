@@ -16,5 +16,14 @@
     "start": "2025-07-13T07:00:00+00:00",
     "end": "2025-07-13T12:00:00+00:00",
     "duration": 18000
+  },
+  "110867": {
+    "resource": "algotester.com",
+    "id": "110867",
+    "event": "Algotester Workout 19 (Medium)",
+    "href": "https://algotester.com/en/Tournament/Display/10082",
+    "start": "2025-07-27T07:00:00+00:00",
+    "end": "2025-07-27T11:00:00+00:00",
+    "duration": 14400
   }
 }
