@@ -220,8 +220,8 @@
     "id": "250226",
     "event": "CZOI Easy Round 5",
     "href": "https://www.luogu.com.cn/contest/250226",
-    "start": "2025-07-20T06:30:00+00:00",
-    "end": "2025-07-20T10:00:00+00:00",
+    "start": "2025-08-04T06:30:00+00:00",
+    "end": "2025-08-04T10:00:00+00:00",
     "duration": 12600
   },
   "251887": {
@@ -249,6 +249,42 @@
     "href": "https://www.luogu.com.cn/contest/255793",
     "start": "2025-07-27T06:00:00+00:00",
     "end": "2025-07-27T09:30:00+00:00",
+    "duration": 12600
+  },
+  "232544": {
+    "resource": "luogu.com.cn",
+    "id": "232544",
+    "event": "【LGR-235-Div.2】洛谷 8 月月赛 I & WAOI R2, FeOI R1.5",
+    "href": "https://www.luogu.com.cn/contest/232544",
+    "start": "2025-08-02T06:00:00+00:00",
+    "end": "2025-08-02T10:00:00+00:00",
+    "duration": 14400
+  },
+  "251143": {
+    "resource": "luogu.com.cn",
+    "id": "251143",
+    "event": "emojiOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/251143",
+    "start": "2025-08-02T05:30:00+00:00",
+    "end": "2025-08-02T10:00:00+00:00",
+    "duration": 16200
+  },
+  "261524": {
+    "resource": "luogu.com.cn",
+    "id": "261524",
+    "event": "【MX-X14】梦熊 X 组 · 松鼠赛",
+    "href": "https://www.luogu.com.cn/contest/261524",
+    "start": "2025-07-26T06:00:00+00:00",
+    "end": "2025-07-26T09:30:00+00:00",
+    "duration": 12600
+  },
+  "261525": {
+    "resource": "luogu.com.cn",
+    "id": "261525",
+    "event": "【MX-J17】梦熊 J 组 · 松鼠赛",
+    "href": "https://www.luogu.com.cn/contest/261525",
+    "start": "2025-07-26T06:00:00+00:00",
+    "end": "2025-07-26T09:30:00+00:00",
     "duration": 12600
   }
 }

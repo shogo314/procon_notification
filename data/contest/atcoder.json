@@ -133,5 +133,23 @@
     "start": "2025-08-03T12:00:00+00:00",
     "end": "2025-08-03T14:00:00+00:00",
     "duration": 7200
+  },
+  "arc204": {
+    "resource": "atcoder.jp",
+    "id": "arc204",
+    "event": "AtCoder Regular Contest 204 (Div. 1)",
+    "href": "https://atcoder.jp/contests/arc204",
+    "start": "2025-08-17T12:00:00+00:00",
+    "end": "2025-08-17T14:30:00+00:00",
+    "duration": 9000
+  },
+  "abc420": {
+    "resource": "atcoder.jp",
+    "id": "abc420",
+    "event": "AtCoder Beginner Contest 420",
+    "href": "https://atcoder.jp/contests/abc420",
+    "start": "2025-08-24T12:00:00+00:00",
+    "end": "2025-08-24T13:40:00+00:00",
+    "duration": 6000
   }
 }
