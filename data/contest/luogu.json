@@ -286,5 +286,23 @@
     "start": "2025-07-26T06:00:00+00:00",
     "end": "2025-07-26T09:30:00+00:00",
     "duration": 12600
+  },
+  "261748": {
+    "resource": "luogu.com.cn",
+    "id": "261748",
+    "event": "【LGR-(-27)】SCP 2025 第一轮（初赛 S 组）模拟",
+    "href": "https://www.luogu.com.cn/contest/261748",
+    "start": "2025-08-14T06:30:00+00:00",
+    "end": "2025-08-14T08:30:00+00:00",
+    "duration": 7200
+  },
+  "261747": {
+    "resource": "luogu.com.cn",
+    "id": "261747",
+    "event": "【LGR-(-26)】SCP 2025 第一轮（初赛 J 组）模拟",
+    "href": "https://www.luogu.com.cn/contest/261747",
+    "start": "2025-08-10T01:30:00+00:00",
+    "end": "2025-08-10T03:30:00+00:00",
+    "duration": 7200
   }
 }
