@@ -34,5 +34,59 @@
     "start": "2025-07-23T14:30:00+00:00",
     "end": "2025-07-23T16:30:00+00:00",
     "duration": 7200
+  },
+  "START202": {
+    "resource": "codechef.com",
+    "id": "START202",
+    "event": "Starters 202",
+    "href": "https://www.codechef.com/START202",
+    "start": "2025-09-03T14:30:00+00:00",
+    "end": "2025-09-03T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START198": {
+    "resource": "codechef.com",
+    "id": "START198",
+    "event": "Starters 198",
+    "href": "https://www.codechef.com/START198",
+    "start": "2025-08-06T14:30:00+00:00",
+    "end": "2025-08-06T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START201": {
+    "resource": "codechef.com",
+    "id": "START201",
+    "event": "Starters 201",
+    "href": "https://www.codechef.com/START201",
+    "start": "2025-08-27T14:30:00+00:00",
+    "end": "2025-08-27T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START197": {
+    "resource": "codechef.com",
+    "id": "START197",
+    "event": "Starters 197",
+    "href": "https://www.codechef.com/START197",
+    "start": "2025-07-30T14:30:00+00:00",
+    "end": "2025-07-30T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START199": {
+    "resource": "codechef.com",
+    "id": "START199",
+    "event": "Starters 199",
+    "href": "https://www.codechef.com/START199",
+    "start": "2025-08-13T14:30:00+00:00",
+    "end": "2025-08-13T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START200": {
+    "resource": "codechef.com",
+    "id": "START200",
+    "event": "Starters 200",
+    "href": "https://www.codechef.com/START200",
+    "start": "2025-08-20T14:30:00+00:00",
+    "end": "2025-08-20T16:30:00+00:00",
+    "duration": 7200
   }
 }

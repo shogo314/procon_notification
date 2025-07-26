@@ -265,14 +265,14 @@
     "id": "251143",
     "event": "emojiOI Round 1",
     "href": "https://www.luogu.com.cn/contest/251143",
-    "start": "2025-08-02T05:30:00+00:00",
-    "end": "2025-08-02T10:00:00+00:00",
+    "start": "2025-08-07T05:30:00+00:00",
+    "end": "2025-08-07T10:00:00+00:00",
     "duration": 16200
   },
   "261524": {
     "resource": "luogu.com.cn",
     "id": "261524",
-    "event": "【MX-X14】梦熊 X 组 · 松鼠赛",
+    "event": "【MX-X14】梦熊 X 组 · 松鼠赛（同步赛）",
     "href": "https://www.luogu.com.cn/contest/261524",
     "start": "2025-07-26T06:00:00+00:00",
     "end": "2025-07-26T09:30:00+00:00",
@@ -281,7 +281,7 @@
   "261525": {
     "resource": "luogu.com.cn",
     "id": "261525",
-    "event": "【MX-J17】梦熊 J 组 · 松鼠赛",
+    "event": "【MX-J17】梦熊 J 组 · 松鼠赛（同步赛）",
     "href": "https://www.luogu.com.cn/contest/261525",
     "start": "2025-07-26T06:00:00+00:00",
     "end": "2025-07-26T09:30:00+00:00",
@@ -304,5 +304,14 @@
     "start": "2025-08-10T01:30:00+00:00",
     "end": "2025-08-10T03:30:00+00:00",
     "duration": 7200
+  },
+  "232936": {
+    "resource": "luogu.com.cn",
+    "id": "232936",
+    "event": "【LGR-236-Div.2】洛谷 8 月月赛 II & IAMOI Round #2",
+    "href": "https://www.luogu.com.cn/contest/232936",
+    "start": "2025-08-09T06:00:00+00:00",
+    "end": "2025-08-09T10:00:00+00:00",
+    "duration": 14400
   }
 }
