@@ -70,5 +70,14 @@
     "start": "2025-07-27T02:30:00+00:00",
     "end": "2025-07-27T04:00:00+00:00",
     "duration": 5400
+  },
+  "weekly-contest-461": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-461",
+    "event": "Weekly Contest 461",
+    "href": "https://leetcode.com/contest/weekly-contest-461",
+    "start": "2025-08-03T02:30:00+00:00",
+    "end": "2025-08-03T04:00:00+00:00",
+    "duration": 5400
   }
 }
