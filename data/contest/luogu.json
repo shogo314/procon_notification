@@ -349,5 +349,14 @@
     "start": "2025-07-29T06:00:00+00:00",
     "end": "2025-07-29T08:30:00+00:00",
     "duration": 9000
+  },
+  "143372": {
+    "resource": "luogu.com.cn",
+    "id": "143372",
+    "event": "「WWOI」Round 1",
+    "href": "https://www.luogu.com.cn/contest/143372",
+    "start": "2025-08-03T01:00:00+00:00",
+    "end": "2025-08-03T03:30:00+00:00",
+    "duration": 9000
   }
 }
