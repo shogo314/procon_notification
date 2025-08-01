@@ -1,0 +1,92 @@
+{
+  "monoxercon_202508": {
+    "resource": "mofecoder.com",
+    "id": "monoxercon_202508",
+    "event": "Monoxer Programming Contest for Engineers",
+    "href": "https://mofecoder.com/contests/monoxercon_202508",
+    "start": "2025-08-08T09:30:00+00:00",
+    "end": "2025-08-08T11:30:00+00:00",
+    "duration": 7200
+  },
+  "yurufuwa_onsite_08": {
+    "resource": "mofecoder.com",
+    "id": "yurufuwa_onsite_08",
+    "event": "ゆるふわ競技プログラミングオンサイト at FORCIA #8",
+    "href": "https://mofecoder.com/contests/yurufuwa_onsite_08",
+    "start": "2025-05-31T05:15:00+00:00",
+    "end": "2025-05-31T07:30:00+00:00",
+    "duration": 8100
+  },
+  "tsg_live_14": {
+    "resource": "mofecoder.com",
+    "id": "tsg_live_14",
+    "event": "TSG LIVE! 14 プログラミングコンテスト",
+    "href": "https://mofecoder.com/contests/tsg_live_14",
+    "start": "2025-05-25T07:00:00+00:00",
+    "end": "2025-05-25T08:40:00+00:00",
+    "duration": 6000
+  },
+  "oupc2024day2": {
+    "resource": "mofecoder.com",
+    "id": "oupc2024day2",
+    "event": "OUPC2024 Day2 : 北海道大学セット",
+    "href": "https://mofecoder.com/contests/oupc2024day2",
+    "start": "2025-03-16T03:00:00+00:00",
+    "end": "2025-03-16T07:00:00+00:00",
+    "duration": 14400
+  },
+  "tuatpc2025spring": {
+    "resource": "mofecoder.com",
+    "id": "tuatpc2025spring",
+    "event": "TUATPC 2025 Spring",
+    "href": "https://mofecoder.com/contests/tuatpc2025spring",
+    "start": "2025-03-09T04:30:00+00:00",
+    "end": "2025-03-09T08:00:00+00:00",
+    "duration": 12600
+  },
+  "teracoder2024": {
+    "resource": "mofecoder.com",
+    "id": "teracoder2024",
+    "event": "TeraCoder2024",
+    "href": "https://mofecoder.com/contests/teracoder2024",
+    "start": "2024-12-22T05:00:00+00:00",
+    "end": "2024-12-22T09:00:00+00:00",
+    "duration": 14400
+  },
+  "tsg_live_13": {
+    "resource": "mofecoder.com",
+    "id": "tsg_live_13",
+    "event": "TSG LIVE! 13 プログラミングコンテスト",
+    "href": "https://mofecoder.com/contests/tsg_live_13",
+    "start": "2024-11-23T04:05:00+00:00",
+    "end": "2024-11-23T05:45:00+00:00",
+    "duration": 6000
+  },
+  "itfpc2024": {
+    "resource": "mofecoder.com",
+    "id": "itfpc2024",
+    "event": "筑波大学プログラミングコンテスト2024",
+    "href": "https://mofecoder.com/contests/itfpc2024",
+    "start": "2024-11-17T03:00:00+00:00",
+    "end": "2024-11-17T07:00:00+00:00",
+    "duration": 14400
+  },
+  "otips2024": {
+    "resource": "mofecoder.com",
+    "id": "otips2024",
+    "event": "お茶大徽音祭コンテスト2024",
+    "href": "https://mofecoder.com/contests/otips2024",
+    "start": "2024-11-09T00:00:00+00:00",
+    "end": "2024-11-11T00:00:00+00:00",
+    "duration": 172800
+  },
+  "mercon2024": {
+    "resource": "mofecoder.com",
+    "id": "mercon2024",
+    "event": "メルカリ競プロコンテスト2024",
+    "href": "https://mofecoder.com/contests/mercon2024",
+    "start": "2024-10-05T04:45:00+00:00",
+    "end": "2024-10-05T06:45:00+00:00",
+    "duration": 7200
+  }
+}
