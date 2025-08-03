@@ -61,5 +61,14 @@
     "start": "2025-03-30T15:00:00+00:00",
     "end": "2025-03-30T19:00:00+00:00",
     "duration": 14400
+  },
+  "444": {
+    "resource": "kep.uz",
+    "id": "444",
+    "event": "Algo Quattro Contest",
+    "href": "https://kep.uz/competitions/contests/contest/444",
+    "start": "2025-08-03T15:00:00+00:00",
+    "end": "2025-08-03T17:15:00+00:00",
+    "duration": 8100
   }
 }

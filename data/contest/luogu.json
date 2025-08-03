@@ -358,5 +358,14 @@
     "start": "2025-08-03T01:00:00+00:00",
     "end": "2025-08-03T03:30:00+00:00",
     "duration": 9000
+  },
+  "229569": {
+    "resource": "luogu.com.cn",
+    "id": "229569",
+    "event": "『GTOI』Round 1",
+    "href": "https://www.luogu.com.cn/contest/229569",
+    "start": "2025-08-05T06:00:00+00:00",
+    "end": "2025-08-05T10:00:00+00:00",
+    "duration": 14400
   }
 }
