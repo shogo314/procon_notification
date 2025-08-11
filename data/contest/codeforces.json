@@ -92,10 +92,19 @@
   "2131": {
     "resource": "codeforces.com",
     "id": "2131",
-    "event": "Codeforces Round (Div. 3)",
+    "event": "Codeforces Round 1042 (Div. 3)",
     "href": "https://codeforces.com/contests/2131",
     "start": "2025-08-10T14:35:00+00:00",
     "end": "2025-08-10T16:50:00+00:00",
+    "duration": 8100
+  },
+  "2132": {
+    "resource": "codeforces.com",
+    "id": "2132",
+    "event": "Codeforces Round (Div. 3)",
+    "href": "https://codeforces.com/contests/2132",
+    "start": "2025-08-21T14:35:00+00:00",
+    "end": "2025-08-21T16:50:00+00:00",
     "duration": 8100
   }
 }

@@ -22,8 +22,8 @@
     "id": "541",
     "event": "第2回 岩井星人アンソロジープログラミングコンテスト Div.1",
     "href": "https://yukicoder.me/contests/541",
-    "start": "2025-08-30T04:00:00+00:00",
-    "end": "2025-08-30T09:00:00+00:00",
+    "start": "2025-09-13T04:00:00+00:00",
+    "end": "2025-09-13T09:00:00+00:00",
     "duration": 18000
   },
   "533": {
@@ -106,5 +106,23 @@
     "start": "2025-09-07T03:00:00+00:00",
     "end": "2025-09-07T08:00:00+00:00",
     "duration": 18000
+  },
+  "559": {
+    "resource": "yukicoder.me",
+    "id": "559",
+    "event": "yukicoder contest オムニバス問題募集中",
+    "href": "https://yukicoder.me/contests/559",
+    "start": "2025-08-15T12:20:00+00:00",
+    "end": "2025-08-15T14:20:00+00:00",
+    "duration": 7200
+  },
+  "560": {
+    "resource": "yukicoder.me",
+    "id": "560",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/560",
+    "start": "2025-08-29T12:20:00+00:00",
+    "end": "2025-08-29T14:20:00+00:00",
+    "duration": 7200
   }
 }

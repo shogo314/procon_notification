@@ -371,10 +371,10 @@
   "241168": {
     "resource": "luogu.com.cn",
     "id": "241168",
-    "event": "【LGR-237-Div.3】Diligent-OI Round 2",
+    "event": "【LGR-237-Div.3】洛谷基础赛 #25 & Diligent-OI Round 2",
     "href": "https://www.luogu.com.cn/contest/241168",
-    "start": "2025-08-10T06:00:00+00:00",
-    "end": "2025-08-10T09:30:00+00:00",
+    "start": "2025-08-23T06:00:00+00:00",
+    "end": "2025-08-23T09:30:00+00:00",
     "duration": 12600
   },
   "237166": {
@@ -410,8 +410,8 @@
     "event": "『MGVOI』Round 1 加强赛",
     "href": "https://www.luogu.com.cn/contest/265532",
     "start": "2025-08-16T06:00:00+00:00",
-    "end": "2025-08-16T09:30:00+00:00",
-    "duration": 12600
+    "end": "2025-08-16T10:00:00+00:00",
+    "duration": 14400
   },
   "250409": {
     "resource": "luogu.com.cn",
@@ -447,6 +447,33 @@
     "href": "https://www.luogu.com.cn/contest/244596",
     "start": "2025-08-08T06:00:00+00:00",
     "end": "2025-08-08T10:00:00+00:00",
+    "duration": 14400
+  },
+  "264992": {
+    "resource": "luogu.com.cn",
+    "id": "264992",
+    "event": "MatrixGroup's Unknown Round",
+    "href": "https://www.luogu.com.cn/contest/264992",
+    "start": "2025-08-24T05:00:00+00:00",
+    "end": "2025-08-24T09:30:00+00:00",
+    "duration": 16200
+  },
+  "220842": {
+    "resource": "luogu.com.cn",
+    "id": "220842",
+    "event": "「LDOI」Round #3",
+    "href": "https://www.luogu.com.cn/contest/220842",
+    "start": "2025-08-22T05:30:00+00:00",
+    "end": "2025-08-22T08:30:00+00:00",
+    "duration": 10800
+  },
+  "242562": {
+    "resource": "luogu.com.cn",
+    "id": "242562",
+    "event": "「CyOI」Round 1",
+    "href": "https://www.luogu.com.cn/contest/242562",
+    "start": "2025-08-12T06:00:00+00:00",
+    "end": "2025-08-12T10:00:00+00:00",
     "duration": 14400
   }
 }

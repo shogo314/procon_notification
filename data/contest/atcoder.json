@@ -178,5 +178,23 @@
     "start": "2025-08-23T06:00:00+00:00",
     "end": "2025-08-23T10:00:00+00:00",
     "duration": 14400
+  },
+  "abc421": {
+    "resource": "atcoder.jp",
+    "id": "abc421",
+    "event": "AtCoder Beginner Contest 421",
+    "href": "https://atcoder.jp/contests/abc421",
+    "start": "2025-08-30T12:00:00+00:00",
+    "end": "2025-08-30T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc053": {
+    "resource": "atcoder.jp",
+    "id": "ahc053",
+    "event": "第12回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 053）",
+    "href": "https://atcoder.jp/contests/ahc053",
+    "start": "2025-09-13T10:00:00+00:00",
+    "end": "2025-09-13T14:00:00+00:00",
+    "duration": 14400
   }
 }
