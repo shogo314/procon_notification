@@ -196,5 +196,14 @@
     "start": "2025-09-13T10:00:00+00:00",
     "end": "2025-09-13T14:00:00+00:00",
     "duration": 14400
+  },
+  "arc205": {
+    "resource": "atcoder.jp",
+    "id": "arc205",
+    "event": "AtCoder Regular Contest 205 (Div. 2)",
+    "href": "https://atcoder.jp/contests/arc205",
+    "start": "2025-09-06T12:00:00+00:00",
+    "end": "2025-09-06T14:00:00+00:00",
+    "duration": 7200
   }
 }
