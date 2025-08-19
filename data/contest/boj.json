@@ -70,5 +70,50 @@
     "start": "2025-08-24T04:00:00+00:00",
     "end": "2025-08-24T09:00:00+00:00",
     "duration": 18000
+  },
+  "1543": {
+    "resource": "acmicpc.net",
+    "id": "1543",
+    "event": "나는코더다 2025 반년대회 (Open Contest)",
+    "href": "https://www.acmicpc.net/contest/view/1543",
+    "start": "2025-08-21T08:00:00+00:00",
+    "end": "2025-08-21T14:00:00+00:00",
+    "duration": 21600
+  },
+  "1551": {
+    "resource": "acmicpc.net",
+    "id": "1551",
+    "event": "2025 숭고한 연합 알고리즘 경진대회 예비소집 Open Contest",
+    "href": "https://www.acmicpc.net/contest/view/1551",
+    "start": "2025-08-29T05:00:00+00:00",
+    "end": "2025-08-29T15:00:00+00:00",
+    "duration": 36000
+  },
+  "1539": {
+    "resource": "acmicpc.net",
+    "id": "1539",
+    "event": "2025 신촌지역 대학교 프로그래밍 동아리 연합 여름 대회 (SUAPC 2025 Summer) Open Contest",
+    "href": "https://www.acmicpc.net/contest/view/1539",
+    "start": "2025-08-30T03:00:00+00:00",
+    "end": "2025-08-30T08:00:00+00:00",
+    "duration": 18000
+  },
+  "1548": {
+    "resource": "acmicpc.net",
+    "id": "1548",
+    "event": "2025 숭고한 연합 알고리즘 경진대회 (Div. 1) Open Contest",
+    "href": "https://www.acmicpc.net/contest/view/1548",
+    "start": "2025-08-30T05:00:00+00:00",
+    "end": "2025-08-30T08:00:00+00:00",
+    "duration": 10800
+  },
+  "1549": {
+    "resource": "acmicpc.net",
+    "id": "1549",
+    "event": "2025 숭고한 연합 알고리즘 경진대회 (Div. 2 + Div. 3) Open Contest",
+    "href": "https://www.acmicpc.net/contest/view/1549",
+    "start": "2025-08-30T05:00:00+00:00",
+    "end": "2025-08-30T08:00:00+00:00",
+    "duration": 10800
   }
 }
