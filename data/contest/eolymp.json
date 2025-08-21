@@ -7,5 +7,14 @@
     "start": "2025-07-13T12:00:00+00:00",
     "end": "2025-07-13T14:00:00+00:00",
     "duration": 7200
+  },
+  "3hdr42rsv164r0602arq87cfu8": {
+    "resource": "basecamp.eolymp.com",
+    "id": "3hdr42rsv164r0602arq87cfu8",
+    "event": "Weekend Practice #9",
+    "href": "https://basecamp.eolymp.com/en/contests/3hdr42rsv164r0602arq87cfu8",
+    "start": "2025-08-23T12:00:00+00:00",
+    "end": "2025-08-23T14:00:00+00:00",
+    "duration": 7200
   }
 }

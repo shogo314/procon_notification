@@ -70,5 +70,14 @@
     "start": "2025-08-03T15:00:00+00:00",
     "end": "2025-08-03T17:15:00+00:00",
     "duration": 8100
+  },
+  "452": {
+    "resource": "kep.uz",
+    "id": "452",
+    "event": "KEP Contest #17",
+    "href": "https://kep.uz/competitions/contests/contest/452",
+    "start": "2025-08-23T14:35:00+00:00",
+    "end": "2025-08-23T16:35:00+00:00",
+    "duration": 7200
   }
 }

@@ -391,8 +391,8 @@
     "id": "227926",
     "event": "『Fwb』Round 2 之夏日心动",
     "href": "https://www.luogu.com.cn/contest/227926",
-    "start": "2025-08-21T06:00:00+00:00",
-    "end": "2025-08-21T10:00:00+00:00",
+    "start": "2025-08-20T06:00:00+00:00",
+    "end": "2025-08-20T10:00:00+00:00",
     "duration": 14400
   },
   "249017": {
@@ -502,5 +502,32 @@
     "start": "2025-08-22T11:00:00+00:00",
     "end": "2025-08-22T13:00:00+00:00",
     "duration": 7200
+  },
+  "270369": {
+    "resource": "luogu.com.cn",
+    "id": "270369",
+    "event": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/270369",
+    "start": "2025-08-24T06:00:00+00:00",
+    "end": "2025-08-24T09:30:00+00:00",
+    "duration": 12600
+  },
+  "270370": {
+    "resource": "luogu.com.cn",
+    "id": "270370",
+    "event": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/270370",
+    "start": "2025-08-24T06:00:00+00:00",
+    "end": "2025-08-24T09:30:00+00:00",
+    "duration": 12600
+  },
+  "261069": {
+    "resource": "luogu.com.cn",
+    "id": "261069",
+    "event": "CZOI Round 6",
+    "href": "https://www.luogu.com.cn/contest/261069",
+    "start": "2025-08-21T06:00:00+00:00",
+    "end": "2025-08-21T09:30:00+00:00",
+    "duration": 12600
   }
 }
