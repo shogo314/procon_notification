@@ -227,7 +227,7 @@
   "abc423": {
     "resource": "atcoder.jp",
     "id": "abc423",
-    "event": "AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～予選（AtCoder Beginner Contest 423）",
+    "event": "AtCoder Beginner Contest 423",
     "href": "https://atcoder.jp/contests/abc423",
     "start": "2025-09-14T12:00:00+00:00",
     "end": "2025-09-14T13:40:00+00:00",
@@ -241,5 +241,32 @@
     "start": "2025-09-19T10:00:00+00:00",
     "end": "2025-09-29T10:00:00+00:00",
     "duration": 864000
+  },
+  "abc424": {
+    "resource": "atcoder.jp",
+    "id": "abc424",
+    "event": "AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～予選（AtCoder Beginner Contest 424）",
+    "href": "https://atcoder.jp/contests/abc424",
+    "start": "2025-09-20T12:00:00+00:00",
+    "end": "2025-09-20T13:40:00+00:00",
+    "duration": 6000
+  },
+  "abc425": {
+    "resource": "atcoder.jp",
+    "id": "abc425",
+    "event": "ユニークビジョンプログラミングコンテスト2025 秋（AtCoder Beginner Contest 425）",
+    "href": "https://atcoder.jp/contests/abc425",
+    "start": "2025-09-27T12:00:00+00:00",
+    "end": "2025-09-27T13:40:00+00:00",
+    "duration": 6000
+  },
+  "arc207": {
+    "resource": "atcoder.jp",
+    "id": "arc207",
+    "event": "AtCoder Japan Open -予選-  (AtCoder Regular Contest 207 (Div.1))",
+    "href": "https://atcoder.jp/contests/arc207",
+    "start": "2025-10-05T12:00:00+00:00",
+    "end": "2025-10-05T14:30:00+00:00",
+    "duration": 9000
   }
 }
