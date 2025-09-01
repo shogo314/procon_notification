@@ -529,5 +529,77 @@
     "start": "2025-08-21T06:00:00+00:00",
     "end": "2025-08-21T09:30:00+00:00",
     "duration": 12600
+  },
+  "273609": {
+    "resource": "luogu.com.cn",
+    "id": "273609",
+    "event": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/273609",
+    "start": "2025-09-06T06:00:00+00:00",
+    "end": "2025-09-06T09:30:00+00:00",
+    "duration": 12600
+  },
+  "273610": {
+    "resource": "luogu.com.cn",
+    "id": "273610",
+    "event": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/273610",
+    "start": "2025-09-06T06:00:00+00:00",
+    "end": "2025-09-06T09:30:00+00:00",
+    "duration": 12600
+  },
+  "273805": {
+    "resource": "luogu.com.cn",
+    "id": "273805",
+    "event": "[ICPC2023 Nanjing R] ICPC2023 区域赛南京站重现赛",
+    "href": "https://www.luogu.com.cn/contest/273805",
+    "start": "2025-09-03T05:00:00+00:00",
+    "end": "2025-09-03T10:00:00+00:00",
+    "duration": 18000
+  },
+  "273827": {
+    "resource": "luogu.com.cn",
+    "id": "273827",
+    "event": "[EC Final 2019] ICPC2019 东亚赛区决赛重现赛",
+    "href": "https://www.luogu.com.cn/contest/273827",
+    "start": "2025-09-02T05:00:00+00:00",
+    "end": "2025-09-02T10:00:00+00:00",
+    "duration": 18000
+  },
+  "273457": {
+    "resource": "luogu.com.cn",
+    "id": "273457",
+    "event": "PO Final 2024 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/273457",
+    "start": "2025-08-31T06:30:00+00:00",
+    "end": "2025-08-31T11:30:00+00:00",
+    "duration": 18000
+  },
+  "249974": {
+    "resource": "luogu.com.cn",
+    "id": "249974",
+    "event": "「TFXOI」Round #3",
+    "href": "https://www.luogu.com.cn/contest/249974",
+    "start": "2025-08-30T06:00:00+00:00",
+    "end": "2025-08-30T10:00:00+00:00",
+    "duration": 14400
+  },
+  "231056": {
+    "resource": "luogu.com.cn",
+    "id": "231056",
+    "event": "「KFCOI」Round #2",
+    "href": "https://www.luogu.com.cn/contest/231056",
+    "start": "2025-08-29T06:30:00+00:00",
+    "end": "2025-08-29T10:30:00+00:00",
+    "duration": 14400
+  },
+  "272991": {
+    "resource": "luogu.com.cn",
+    "id": "272991",
+    "event": "SWERC 2020 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/272991",
+    "start": "2025-08-28T05:00:00+00:00",
+    "end": "2025-08-28T10:00:00+00:00",
+    "duration": 18000
   }
 }
