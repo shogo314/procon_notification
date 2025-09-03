@@ -601,5 +601,32 @@
     "start": "2025-08-28T05:00:00+00:00",
     "end": "2025-08-28T10:00:00+00:00",
     "duration": 18000
+  },
+  "228479": {
+    "resource": "luogu.com.cn",
+    "id": "228479",
+    "event": "【LGR-240-Div.2】核桃编程 9 月月赛 I & florr IO Round 1",
+    "href": "https://www.luogu.com.cn/contest/228479",
+    "start": "2025-09-07T06:00:00+00:00",
+    "end": "2025-09-07T10:00:00+00:00",
+    "duration": 14400
+  },
+  "273933": {
+    "resource": "luogu.com.cn",
+    "id": "273933",
+    "event": "【LGR-240-Div.1】核桃编程 9 月月赛 I & florr IO Round 1",
+    "href": "https://www.luogu.com.cn/contest/273933",
+    "start": "2025-09-07T06:00:00+00:00",
+    "end": "2025-09-07T10:00:00+00:00",
+    "duration": 14400
+  },
+  "273919": {
+    "resource": "luogu.com.cn",
+    "id": "273919",
+    "event": "PO Final 2023 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/273919",
+    "start": "2025-09-05T06:30:00+00:00",
+    "end": "2025-09-05T11:30:00+00:00",
+    "duration": 18000
   }
 }

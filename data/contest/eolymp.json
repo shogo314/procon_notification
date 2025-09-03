@@ -16,5 +16,14 @@
     "start": "2025-08-23T12:00:00+00:00",
     "end": "2025-08-23T14:00:00+00:00",
     "duration": 7200
+  },
+  "k4s9lmqljd6ttcsrh0fm71hbec": {
+    "resource": "basecamp.eolymp.com",
+    "id": "k4s9lmqljd6ttcsrh0fm71hbec",
+    "event": "Blitz Round #1",
+    "href": "https://basecamp.eolymp.com/en/contests/k4s9lmqljd6ttcsrh0fm71hbec",
+    "start": "2025-09-06T10:00:00+00:00",
+    "end": "2025-09-06T11:30:00+00:00",
+    "duration": 5400
   }
 }
