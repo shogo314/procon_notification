@@ -257,7 +257,25 @@
     "event": "牛客周赛 Round 109",
     "href": "https://ac.nowcoder.com/acm/contest/116945",
     "start": "2025-09-14T11:00:00+00:00",
-    "end": "2026-09-07T13:00:00+00:00",
-    "duration": 30938400
+    "end": "2025-09-14T13:00:00+00:00",
+    "duration": 7200
+  },
+  "117057": {
+    "resource": "ac.nowcoder.com",
+    "id": "117057",
+    "event": "牛客挑战赛82",
+    "href": "https://ac.nowcoder.com/acm/contest/117057",
+    "start": "2025-09-19T11:00:00+00:00",
+    "end": "2025-09-19T14:00:00+00:00",
+    "duration": 10800
+  },
+  "117163": {
+    "resource": "ac.nowcoder.com",
+    "id": "117163",
+    "event": "牛客周赛 Round 110",
+    "href": "https://ac.nowcoder.com/acm/contest/117163",
+    "start": "2025-09-21T11:00:00+00:00",
+    "end": "2025-09-21T13:00:00+00:00",
+    "duration": 7200
   }
 }

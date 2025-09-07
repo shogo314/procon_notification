@@ -88,5 +88,68 @@
     "start": "2025-08-20T14:30:00+00:00",
     "end": "2025-08-20T17:30:00+00:00",
     "duration": 10800
+  },
+  "START203": {
+    "resource": "codechef.com",
+    "id": "START203",
+    "event": "Starters 203",
+    "href": "https://www.codechef.com/START203",
+    "start": "2025-09-10T14:30:00+00:00",
+    "end": "2025-09-10T16:30:00+00:00",
+    "duration": 7200
+  },
+  "DSAMONDAY02": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY02",
+    "event": "Monday Munch - DSA Challenge 02",
+    "href": "https://www.codechef.com/DSAMONDAY02",
+    "start": "2025-09-08T12:30:00+00:00",
+    "end": "2025-09-08T15:30:00+00:00",
+    "duration": 10800
+  },
+  "START205": {
+    "resource": "codechef.com",
+    "id": "START205",
+    "event": "Starters 205",
+    "href": "https://www.codechef.com/START205",
+    "start": "2025-09-24T14:30:00+00:00",
+    "end": "2025-09-24T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START206": {
+    "resource": "codechef.com",
+    "id": "START206",
+    "event": "Starters 206",
+    "href": "https://www.codechef.com/START206",
+    "start": "2025-10-01T14:30:00+00:00",
+    "end": "2025-10-01T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START207": {
+    "resource": "codechef.com",
+    "id": "START207",
+    "event": "Starters 207",
+    "href": "https://www.codechef.com/START207",
+    "start": "2025-10-08T14:30:00+00:00",
+    "end": "2025-10-08T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START208": {
+    "resource": "codechef.com",
+    "id": "START208",
+    "event": "Starters 208",
+    "href": "https://www.codechef.com/START208",
+    "start": "2025-10-15T14:30:00+00:00",
+    "end": "2025-10-15T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START204": {
+    "resource": "codechef.com",
+    "id": "START204",
+    "event": "Starters 204",
+    "href": "https://www.codechef.com/START204",
+    "start": "2025-09-10T14:30:00+00:00",
+    "end": "2025-09-10T16:30:00+00:00",
+    "duration": 7200
   }
 }

@@ -286,5 +286,14 @@
     "start": "2025-09-21T12:00:00+00:00",
     "end": "2025-09-21T14:00:00+00:00",
     "duration": 7200
+  },
+  "abc427": {
+    "resource": "atcoder.jp",
+    "id": "abc427",
+    "event": "パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）",
+    "href": "https://atcoder.jp/contests/abc427",
+    "start": "2025-10-11T12:00:00+00:00",
+    "end": "2025-10-11T13:40:00+00:00",
+    "duration": 6000
   }
 }
