@@ -637,5 +637,23 @@
     "start": "2025-09-04T05:00:00+00:00",
     "end": "2025-09-04T10:00:00+00:00",
     "duration": 18000
+  },
+  "275088": {
+    "resource": "luogu.com.cn",
+    "id": "275088",
+    "event": "[ICPC2024 Nanjing R] ICPC2024 区域赛南京站重现赛",
+    "href": "https://www.luogu.com.cn/contest/275088",
+    "start": "2025-09-10T05:00:00+00:00",
+    "end": "2025-09-10T10:00:00+00:00",
+    "duration": 18000
+  },
+  "275073": {
+    "resource": "luogu.com.cn",
+    "id": "275073",
+    "event": "POCamp 2023 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/275073",
+    "start": "2025-09-09T06:30:00+00:00",
+    "end": "2025-09-09T11:30:00+00:00",
+    "duration": 18000
   }
 }
