@@ -655,5 +655,23 @@
     "start": "2025-09-09T06:30:00+00:00",
     "end": "2025-09-09T11:30:00+00:00",
     "duration": 18000
+  },
+  "275290": {
+    "resource": "luogu.com.cn",
+    "id": "275290",
+    "event": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/275290",
+    "start": "2025-09-13T06:00:00+00:00",
+    "end": "2025-09-13T09:30:00+00:00",
+    "duration": 12600
+  },
+  "275289": {
+    "resource": "luogu.com.cn",
+    "id": "275289",
+    "event": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/275289",
+    "start": "2025-09-13T06:00:00+00:00",
+    "end": "2025-09-13T09:30:00+00:00",
+    "duration": 12600
   }
 }

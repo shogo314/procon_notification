@@ -160,5 +160,23 @@
     "start": "2025-09-14T02:30:00+00:00",
     "end": "2025-09-14T04:00:00+00:00",
     "duration": 5400
+  },
+  "weekly-contest-468": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-468",
+    "event": "Weekly Contest 468",
+    "href": "https://leetcode.com/contest/weekly-contest-468",
+    "start": "2025-09-21T02:30:00+00:00",
+    "end": "2025-09-21T04:00:00+00:00",
+    "duration": 5400
+  },
+  "biweekly-contest-166": {
+    "resource": "leetcode.com",
+    "id": "biweekly-contest-166",
+    "event": "Biweekly Contest 166",
+    "href": "https://leetcode.com/contest/biweekly-contest-166",
+    "start": "2025-09-27T14:30:00+00:00",
+    "end": "2025-09-27T16:00:00+00:00",
+    "duration": 5400
   }
 }
