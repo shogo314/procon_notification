@@ -169,5 +169,23 @@
     "start": "2025-10-22T14:30:00+00:00",
     "end": "2025-10-22T16:30:00+00:00",
     "duration": 7200
+  },
+  "DEVWEEKEND15": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND15",
+    "event": "Weekend Dev Challenge 15: Classify images using Deep Learning",
+    "href": "https://www.codechef.com/DEVWEEKEND15",
+    "start": "2025-09-12T18:30:00+00:00",
+    "end": "2025-09-13T18:30:00+00:00",
+    "duration": 86400
+  },
+  "DSAMONDAY03": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY03",
+    "event": "Monday Munch - DSA Challenge 03",
+    "href": "https://www.codechef.com/DSAMONDAY03",
+    "start": "2025-09-15T12:30:56+00:00",
+    "end": "2025-09-15T15:30:56+00:00",
+    "duration": 10800
   }
 }
