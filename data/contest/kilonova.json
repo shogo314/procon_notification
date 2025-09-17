@@ -538,5 +538,77 @@
     "start": "2025-09-06T07:00:00+00:00",
     "end": "2025-09-06T11:15:00+00:00",
     "duration": 15300
+  },
+  "1874": {
+    "resource": "kilonova.ro",
+    "id": "1874",
+    "event": "Algolymp Summer School (a 5-a)",
+    "href": "https://kilonova.ro/contests/1874",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
+  },
+  "1875": {
+    "resource": "kilonova.ro",
+    "id": "1875",
+    "event": "Algolymp Summer School (a 6-a)",
+    "href": "https://kilonova.ro/contests/1875",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
+  },
+  "1876": {
+    "resource": "kilonova.ro",
+    "id": "1876",
+    "event": "Algolymp Summer School (a 7-a)",
+    "href": "https://kilonova.ro/contests/1876",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
+  },
+  "1877": {
+    "resource": "kilonova.ro",
+    "id": "1877",
+    "event": "Algolymp Summer School (a 8-a)",
+    "href": "https://kilonova.ro/contests/1877",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
+  },
+  "1878": {
+    "resource": "kilonova.ro",
+    "id": "1878",
+    "event": "Algolymp Summer School (a 9-a)",
+    "href": "https://kilonova.ro/contests/1878",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
+  },
+  "1879": {
+    "resource": "kilonova.ro",
+    "id": "1879",
+    "event": "Algolymp Summer School (a 10-a)",
+    "href": "https://kilonova.ro/contests/1879",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
+  },
+  "1880": {
+    "resource": "kilonova.ro",
+    "id": "1880",
+    "event": "Algolymp Summer School (a 11-a - a 12-a)",
+    "href": "https://kilonova.ro/contests/1880",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
+  },
+  "1881": {
+    "resource": "kilonova.ro",
+    "id": "1881",
+    "event": "Algolymp Summer School (Lot Juniori)",
+    "href": "https://kilonova.ro/contests/1881",
+    "start": "2025-09-15T11:00:00+00:00",
+    "end": "2025-09-21T11:00:00+00:00",
+    "duration": 518400
   }
 }

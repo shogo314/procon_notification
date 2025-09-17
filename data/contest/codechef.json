@@ -38,7 +38,7 @@
   "START202": {
     "resource": "codechef.com",
     "id": "START202",
-    "event": "Starters 202 (Rated till 5-Stars)",
+    "event": "Starters 202 (Rated till 5 star)",
     "href": "https://www.codechef.com/START202",
     "start": "2025-09-03T14:30:00+00:00",
     "end": "2025-09-03T16:30:00+00:00",
@@ -92,7 +92,7 @@
   "START203": {
     "resource": "codechef.com",
     "id": "START203",
-    "event": "Starters 203 (Rated till 5-Stars)",
+    "event": "Starters 203 (Rated till 5 star)",
     "href": "https://www.codechef.com/START203",
     "start": "2025-09-10T14:30:00+00:00",
     "end": "2025-09-10T16:30:00+00:00",
@@ -146,7 +146,7 @@
   "START204": {
     "resource": "codechef.com",
     "id": "START204",
-    "event": "Starters 204",
+    "event": "Starters 204 (Rated till 5 star)",
     "href": "https://www.codechef.com/START204",
     "start": "2025-09-17T14:30:00+00:00",
     "end": "2025-09-17T16:30:00+00:00",
@@ -186,6 +186,15 @@
     "href": "https://www.codechef.com/DSAMONDAY03",
     "start": "2025-09-15T12:30:56+00:00",
     "end": "2025-09-15T15:30:56+00:00",
+    "duration": 10800
+  },
+  "DSAMONDAY04": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY04",
+    "event": "Monday Munch - DSA Challenge 04",
+    "href": "https://www.codechef.com/DSAMONDAY04",
+    "start": "2025-09-22T12:30:00+00:00",
+    "end": "2025-09-22T15:30:00+00:00",
     "duration": 10800
   }
 }
