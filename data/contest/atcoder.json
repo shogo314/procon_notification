@@ -295,5 +295,32 @@
     "start": "2025-10-11T12:00:00+00:00",
     "end": "2025-10-11T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc426": {
+    "resource": "atcoder.jp",
+    "id": "abc426",
+    "event": "AtCoder Beginner Contest 426",
+    "href": "https://atcoder.jp/contests/abc426",
+    "start": "2025-10-04T12:00:00+00:00",
+    "end": "2025-10-04T13:40:00+00:00",
+    "duration": 6000
+  },
+  "abc428": {
+    "resource": "atcoder.jp",
+    "id": "abc428",
+    "event": "AtCoder Beginner Contest 428",
+    "href": "https://atcoder.jp/contests/abc428",
+    "start": "2025-10-18T12:00:00+00:00",
+    "end": "2025-10-18T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc055": {
+    "resource": "atcoder.jp",
+    "id": "ahc055",
+    "event": "RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）",
+    "href": "https://atcoder.jp/contests/ahc055",
+    "start": "2025-10-19T10:00:00+00:00",
+    "end": "2025-10-19T14:00:00+00:00",
+    "duration": 14400
   }
 }

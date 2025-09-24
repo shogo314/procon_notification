@@ -581,8 +581,8 @@
     "event": "Algolymp Summer School (a 9-a)",
     "href": "https://kilonova.ro/contests/1878",
     "start": "2025-09-15T11:00:00+00:00",
-    "end": "2025-09-21T11:00:00+00:00",
-    "duration": 518400
+    "end": "2025-09-21T18:00:00+00:00",
+    "duration": 543600
   },
   "1879": {
     "resource": "kilonova.ro",
@@ -590,8 +590,8 @@
     "event": "Algolymp Summer School (a 10-a)",
     "href": "https://kilonova.ro/contests/1879",
     "start": "2025-09-15T11:00:00+00:00",
-    "end": "2025-09-21T11:00:00+00:00",
-    "duration": 518400
+    "end": "2025-09-21T20:00:00+00:00",
+    "duration": 550800
   },
   "1880": {
     "resource": "kilonova.ro",
