@@ -322,5 +322,14 @@
     "start": "2025-10-19T10:00:00+00:00",
     "end": "2025-10-19T14:00:00+00:00",
     "duration": 14400
+  },
+  "abc429": {
+    "resource": "atcoder.jp",
+    "id": "abc429",
+    "event": "Polaris.AI プログラミングコンテスト 2025（AtCoder Beginner Contest 429）",
+    "href": "https://atcoder.jp/contests/abc429",
+    "start": "2025-10-25T12:00:00+00:00",
+    "end": "2025-10-25T13:40:00+00:00",
+    "duration": 6000
   }
 }

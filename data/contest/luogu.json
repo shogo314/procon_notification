@@ -751,14 +751,14 @@
     "id": "250078",
     "event": "『Raiden Ei』 Round 1",
     "href": "https://www.luogu.com.cn/contest/250078",
-    "start": "2025-10-06T06:00:00+00:00",
-    "end": "2025-10-06T11:00:00+00:00",
-    "duration": 18000
+    "start": "2025-10-05T06:00:00+00:00",
+    "end": "2025-10-05T10:30:00+00:00",
+    "duration": 16200
   },
   "228774": {
     "resource": "luogu.com.cn",
     "id": "228774",
-    "event": "【LGR-245-Div.1】「SFMOI」Round II",
+    "event": "【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II",
     "href": "https://www.luogu.com.cn/contest/228774",
     "start": "2025-10-03T06:00:00+00:00",
     "end": "2025-10-03T10:00:00+00:00",
@@ -767,10 +767,100 @@
   "277395": {
     "resource": "luogu.com.cn",
     "id": "277395",
-    "event": "【LGR-245-Div.2】「SFMOI」Round II",
+    "event": "【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II",
     "href": "https://www.luogu.com.cn/contest/277395",
     "start": "2025-10-03T06:00:00+00:00",
     "end": "2025-10-03T10:00:00+00:00",
+    "duration": 14400
+  },
+  "230741": {
+    "resource": "luogu.com.cn",
+    "id": "230741",
+    "event": "【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8",
+    "href": "https://www.luogu.com.cn/contest/230741",
+    "start": "2025-10-07T06:00:00+00:00",
+    "end": "2025-10-07T10:00:00+00:00",
+    "duration": 14400
+  },
+  "278764": {
+    "resource": "luogu.com.cn",
+    "id": "278764",
+    "event": "【LGR-244-Div.2】洛谷 10 月月赛 II & FAOI-R8",
+    "href": "https://www.luogu.com.cn/contest/278764",
+    "start": "2025-10-07T06:00:00+00:00",
+    "end": "2025-10-07T10:00:00+00:00",
+    "duration": 14400
+  },
+  "278653": {
+    "resource": "luogu.com.cn",
+    "id": "278653",
+    "event": "[ICPC2022 Nanjing R] ICPC2022 区域赛南京站重现赛",
+    "href": "https://www.luogu.com.cn/contest/278653",
+    "start": "2025-10-06T00:30:00+00:00",
+    "end": "2025-10-06T05:30:00+00:00",
+    "duration": 18000
+  },
+  "263244": {
+    "resource": "luogu.com.cn",
+    "id": "263244",
+    "event": "Algo Beat Contest 002.5",
+    "href": "https://www.luogu.com.cn/contest/263244",
+    "start": "2025-10-05T00:30:00+00:00",
+    "end": "2025-10-05T04:00:00+00:00",
+    "duration": 12600
+  },
+  "278458": {
+    "resource": "luogu.com.cn",
+    "id": "278458",
+    "event": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/278458",
+    "start": "2025-10-02T06:00:00+00:00",
+    "end": "2025-10-02T10:30:00+00:00",
+    "duration": 16200
+  },
+  "278459": {
+    "resource": "luogu.com.cn",
+    "id": "278459",
+    "event": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/278459",
+    "start": "2025-10-02T06:00:00+00:00",
+    "end": "2025-10-02T10:30:00+00:00",
+    "duration": 16200
+  },
+  "278652": {
+    "resource": "luogu.com.cn",
+    "id": "278652",
+    "event": "[SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛",
+    "href": "https://www.luogu.com.cn/contest/278652",
+    "start": "2025-10-02T00:30:00+00:00",
+    "end": "2025-10-02T05:30:00+00:00",
+    "duration": 18000
+  },
+  "278448": {
+    "resource": "luogu.com.cn",
+    "id": "278448",
+    "event": "[ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛",
+    "href": "https://www.luogu.com.cn/contest/278448",
+    "start": "2025-09-29T05:00:00+00:00",
+    "end": "2025-09-29T10:00:00+00:00",
+    "duration": 18000
+  },
+  "277913": {
+    "resource": "luogu.com.cn",
+    "id": "277913",
+    "event": "POCamp 2022 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/277913",
+    "start": "2025-09-28T06:30:00+00:00",
+    "end": "2025-09-28T11:30:00+00:00",
+    "duration": 18000
+  },
+  "214471": {
+    "resource": "luogu.com.cn",
+    "id": "214471",
+    "event": "Fortnight Round 1",
+    "href": "https://www.luogu.com.cn/contest/214471",
+    "start": "2025-09-27T00:00:00+00:00",
+    "end": "2025-09-27T04:00:00+00:00",
     "duration": 14400
   }
 }

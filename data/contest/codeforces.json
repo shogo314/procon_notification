@@ -281,7 +281,7 @@
   "2152": {
     "resource": "codeforces.com",
     "id": "2152",
-    "event": "Codeforces Round (Div. 1 + Div. 2)",
+    "event": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
     "href": "https://codeforces.com/contests/2152",
     "start": "2025-10-03T14:35:00+00:00",
     "end": "2025-10-03T17:35:00+00:00",
@@ -294,6 +294,33 @@
     "href": "https://codeforces.com/contests/2153",
     "start": "2025-10-10T14:35:00+00:00",
     "end": "2025-10-10T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2156": {
+    "resource": "codeforces.com",
+    "id": "2156",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2156",
+    "start": "2025-10-26T14:35:00+00:00",
+    "end": "2025-10-26T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2154": {
+    "resource": "codeforces.com",
+    "id": "2154",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2154",
+    "start": "2025-10-19T14:35:00+00:00",
+    "end": "2025-10-19T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2155": {
+    "resource": "codeforces.com",
+    "id": "2155",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2155",
+    "start": "2025-10-05T16:35:00+00:00",
+    "end": "2025-10-05T18:35:00+00:00",
     "duration": 7200
   }
 }

@@ -331,5 +331,59 @@
     "start": "2025-10-05T11:00:00+00:00",
     "end": "2025-10-05T13:00:00+00:00",
     "duration": 7200
+  },
+  "117506": {
+    "resource": "ac.nowcoder.com",
+    "id": "117506",
+    "event": "2025牛客国庆集训派对day3",
+    "href": "https://ac.nowcoder.com/acm/contest/117506",
+    "start": "2025-10-03T04:00:00+00:00",
+    "end": "2025-10-03T09:00:00+00:00",
+    "duration": 18000
+  },
+  "117507": {
+    "resource": "ac.nowcoder.com",
+    "id": "117507",
+    "event": "2025牛客国庆集训派对day4",
+    "href": "https://ac.nowcoder.com/acm/contest/117507",
+    "start": "2025-10-04T04:00:00+00:00",
+    "end": "2025-10-04T09:00:00+00:00",
+    "duration": 18000
+  },
+  "117508": {
+    "resource": "ac.nowcoder.com",
+    "id": "117508",
+    "event": "2025牛客国庆集训派对day5",
+    "href": "https://ac.nowcoder.com/acm/contest/117508",
+    "start": "2025-10-05T04:00:00+00:00",
+    "end": "2025-10-05T09:00:00+00:00",
+    "duration": 18000
+  },
+  "117509": {
+    "resource": "ac.nowcoder.com",
+    "id": "117509",
+    "event": "2025牛客国庆集训派对day6",
+    "href": "https://ac.nowcoder.com/acm/contest/117509",
+    "start": "2025-10-06T04:00:00+00:00",
+    "end": "2025-10-06T09:00:00+00:00",
+    "duration": 18000
+  },
+  "117510": {
+    "resource": "ac.nowcoder.com",
+    "id": "117510",
+    "event": "2025牛客国庆集训派对day7",
+    "href": "https://ac.nowcoder.com/acm/contest/117510",
+    "start": "2025-10-07T04:00:00+00:00",
+    "end": "2025-10-07T09:00:00+00:00",
+    "duration": 18000
+  },
+  "117511": {
+    "resource": "ac.nowcoder.com",
+    "id": "117511",
+    "event": "2025牛客国庆集训派对day8",
+    "href": "https://ac.nowcoder.com/acm/contest/117511",
+    "start": "2025-10-08T04:00:00+00:00",
+    "end": "2025-10-08T09:00:00+00:00",
+    "duration": 18000
   }
 }
