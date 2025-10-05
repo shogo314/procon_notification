@@ -52,5 +52,32 @@
     "start": "2025-10-05T10:00:00+00:00",
     "end": "2025-10-05T11:30:00+00:00",
     "duration": 5400
+  },
+  "7mk1e6onrl4pb69590dkne46j4": {
+    "resource": "basecamp.eolymp.com",
+    "id": "7mk1e6onrl4pb69590dkne46j4",
+    "event": "Blitz Round #4",
+    "href": "https://basecamp.eolymp.com/en/contests/7mk1e6onrl4pb69590dkne46j4",
+    "start": "2025-10-19T10:00:00+00:00",
+    "end": "2025-10-19T11:30:00+00:00",
+    "duration": 5400
+  },
+  "ef86c6tdpp7urd2s606psc6o6k": {
+    "resource": "basecamp.eolymp.com",
+    "id": "ef86c6tdpp7urd2s606psc6o6k",
+    "event": "Weekend Practice #11",
+    "href": "https://basecamp.eolymp.com/en/contests/ef86c6tdpp7urd2s606psc6o6k",
+    "start": "2025-10-11T15:00:00+00:00",
+    "end": "2025-10-11T17:00:00+00:00",
+    "duration": 7200
+  },
+  "b0f0h1n10h679euo6gn2c7821o": {
+    "resource": "basecamp.eolymp.com",
+    "id": "b0f0h1n10h679euo6gn2c7821o",
+    "event": "Educational Round #2",
+    "href": "https://basecamp.eolymp.com/en/contests/b0f0h1n10h679euo6gn2c7821o",
+    "start": "2025-10-05T20:00:00+00:00",
+    "end": "2025-10-12T19:59:00+00:00",
+    "duration": 604740
   }
 }

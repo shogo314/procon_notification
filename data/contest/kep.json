@@ -79,5 +79,14 @@
     "start": "2025-08-23T14:35:00+00:00",
     "end": "2025-08-23T17:35:00+00:00",
     "duration": 10800
+  },
+  "457": {
+    "resource": "kep.uz",
+    "id": "457",
+    "event": "SpeedForces Contest",
+    "href": "https://kep.uz/competitions/contests/contest/457",
+    "start": "2025-10-05T15:00:00+00:00",
+    "end": "2025-10-05T16:00:00+00:00",
+    "duration": 3600
   }
 }

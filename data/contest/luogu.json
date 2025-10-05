@@ -812,19 +812,19 @@
   "278458": {
     "resource": "luogu.com.cn",
     "id": "278458",
-    "event": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+    "event": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
     "href": "https://www.luogu.com.cn/contest/278458",
-    "start": "2025-10-02T06:00:00+00:00",
-    "end": "2025-10-02T10:30:00+00:00",
+    "start": "2025-10-02T06:05:00+00:00",
+    "end": "2025-10-02T10:35:00+00:00",
     "duration": 16200
   },
   "278459": {
     "resource": "luogu.com.cn",
     "id": "278459",
-    "event": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+    "event": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4",
     "href": "https://www.luogu.com.cn/contest/278459",
-    "start": "2025-10-02T06:00:00+00:00",
-    "end": "2025-10-02T10:30:00+00:00",
+    "start": "2025-10-02T06:05:00+00:00",
+    "end": "2025-10-02T10:35:00+00:00",
     "duration": 16200
   },
   "278652": {
@@ -862,5 +862,32 @@
     "start": "2025-09-27T00:00:00+00:00",
     "end": "2025-09-27T04:00:00+00:00",
     "duration": 14400
+  },
+  "270938": {
+    "resource": "luogu.com.cn",
+    "id": "270938",
+    "event": "KismetOI Easy Round 1",
+    "href": "https://www.luogu.com.cn/contest/270938",
+    "start": "2025-10-12T00:30:00+00:00",
+    "end": "2025-10-12T04:30:00+00:00",
+    "duration": 14400
+  },
+  "278945": {
+    "resource": "luogu.com.cn",
+    "id": "278945",
+    "event": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/278945",
+    "start": "2025-10-06T06:00:00+00:00",
+    "end": "2025-10-06T08:30:00+00:00",
+    "duration": 9000
+  },
+  "278944": {
+    "resource": "luogu.com.cn",
+    "id": "278944",
+    "event": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/278944",
+    "start": "2025-10-06T06:00:00+00:00",
+    "end": "2025-10-06T08:30:00+00:00",
+    "duration": 9000
   }
 }

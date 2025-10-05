@@ -223,5 +223,23 @@
     "start": "2025-09-29T12:30:00+00:00",
     "end": "2025-09-29T15:30:00+00:00",
     "duration": 10800
+  },
+  "DEVWEEKEND18": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND18",
+    "event": "Weekend Dev Challenge 18: Full Stack Projects using MERN",
+    "href": "https://www.codechef.com/DEVWEEKEND18",
+    "start": "2025-10-03T18:30:00+00:00",
+    "end": "2025-10-05T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DSAMONDAY06": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY06",
+    "event": "Monday Munch - DSA Challenge 06",
+    "href": "https://www.codechef.com/DSAMONDAY06",
+    "start": "2025-10-06T12:30:02+00:00",
+    "end": "2025-10-06T15:30:02+00:00",
+    "duration": 10800
   }
 }
