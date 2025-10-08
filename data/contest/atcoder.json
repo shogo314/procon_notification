@@ -331,5 +331,41 @@
     "start": "2025-10-25T12:00:00+00:00",
     "end": "2025-10-25T13:40:00+00:00",
     "duration": 6000
+  },
+  "arc208": {
+    "resource": "atcoder.jp",
+    "id": "arc208",
+    "event": "AtCoder Regular Contest 208 (Div. 2)",
+    "href": "https://atcoder.jp/contests/arc208",
+    "start": "2025-10-12T12:00:00+00:00",
+    "end": "2025-10-12T14:00:00+00:00",
+    "duration": 7200
+  },
+  "fps-24": {
+    "resource": "atcoder.jp",
+    "id": "fps-24",
+    "event": "FPS 24 題",
+    "href": "https://atcoder.jp/contests/fps-24",
+    "start": "2025-10-26T04:00:00+00:00",
+    "end": "2025-10-26T09:00:00+00:00",
+    "duration": 18000
+  },
+  "agc074": {
+    "resource": "atcoder.jp",
+    "id": "agc074",
+    "event": "AtCoder Grand Contest 074",
+    "href": "https://atcoder.jp/contests/agc074",
+    "start": "2025-10-26T12:00:00+00:00",
+    "end": "2025-10-26T15:00:00+00:00",
+    "duration": 10800
+  },
+  "ahc056": {
+    "resource": "atcoder.jp",
+    "id": "ahc056",
+    "event": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
+    "href": "https://atcoder.jp/contests/ahc056",
+    "start": "2025-11-07T10:00:00+00:00",
+    "end": "2025-11-17T10:00:00+00:00",
+    "duration": 864000
   }
 }

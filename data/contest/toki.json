@@ -1,0 +1,11 @@
+{
+  "troc-42": {
+    "resource": "tlx.toki.id",
+    "id": "troc-42",
+    "event": "TLX Regular Open Contest #42",
+    "href": "https://tlx.toki.id/contests/troc-42",
+    "start": "2025-10-13T13:05:00+00:00",
+    "end": "2025-10-13T15:35:00+00:00",
+    "duration": 9000
+  }
+}

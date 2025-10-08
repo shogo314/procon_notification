@@ -889,5 +889,68 @@
     "start": "2025-10-06T06:00:00+00:00",
     "end": "2025-10-06T08:30:00+00:00",
     "duration": 9000
+  },
+  "281947": {
+    "resource": "luogu.com.cn",
+    "id": "281947",
+    "event": "【MX-S8】梦熊 CSP-S 2025 模拟赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/281947",
+    "start": "2025-10-25T06:30:00+00:00",
+    "end": "2025-10-25T10:30:00+00:00",
+    "duration": 14400
+  },
+  "281945": {
+    "resource": "luogu.com.cn",
+    "id": "281945",
+    "event": "【MX-J28】梦熊 CSP-J 2025 模拟赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/281945",
+    "start": "2025-10-25T00:30:00+00:00",
+    "end": "2025-10-25T04:00:00+00:00",
+    "duration": 12600
+  },
+  "281663": {
+    "resource": "luogu.com.cn",
+    "id": "281663",
+    "event": "【LGR-247】SCP 2025 第二轮（复赛 J 组）模拟",
+    "href": "https://www.luogu.com.cn/contest/281663",
+    "start": "2025-10-19T00:30:00+00:00",
+    "end": "2025-10-19T04:00:00+00:00",
+    "duration": 12600
+  },
+  "281662": {
+    "resource": "luogu.com.cn",
+    "id": "281662",
+    "event": "【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟",
+    "href": "https://www.luogu.com.cn/contest/281662",
+    "start": "2025-10-18T06:30:00+00:00",
+    "end": "2025-10-18T10:30:00+00:00",
+    "duration": 14400
+  },
+  "281713": {
+    "resource": "luogu.com.cn",
+    "id": "281713",
+    "event": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/281713",
+    "start": "2025-10-12T06:00:00+00:00",
+    "end": "2025-10-12T09:30:00+00:00",
+    "duration": 12600
+  },
+  "281712": {
+    "resource": "luogu.com.cn",
+    "id": "281712",
+    "event": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/281712",
+    "start": "2025-10-12T06:00:00+00:00",
+    "end": "2025-10-12T09:30:00+00:00",
+    "duration": 12600
+  },
+  "281894": {
+    "resource": "luogu.com.cn",
+    "id": "281894",
+    "event": "[ICPC2024 Hangzhou R] ICPC2024 区域赛杭州站重现赛",
+    "href": "https://www.luogu.com.cn/contest/281894",
+    "start": "2025-10-11T05:00:00+00:00",
+    "end": "2025-10-11T10:00:00+00:00",
+    "duration": 18000
   }
 }
