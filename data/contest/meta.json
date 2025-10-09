@@ -1,0 +1,38 @@
+{
+  "2025/practice-round": {
+    "resource": "facebook.com",
+    "id": "2025/practice-round",
+    "event": "Meta Hacker Cup 2025 Practice Round",
+    "href": "https://www.facebook.com/codingcompetitions/hacker-cup/2025/practice-round",
+    "start": "2025-10-10T17:00:00+00:00",
+    "end": "2025-10-15T17:00:00+00:00",
+    "duration": 7200
+  },
+  "2025/round-1": {
+    "resource": "facebook.com",
+    "id": "2025/round-1",
+    "event": "Meta Hacker Cup 2025 Round 1",
+    "href": "https://www.facebook.com/codingcompetitions/hacker-cup/2025/round-1",
+    "start": "2025-10-18T17:00:00+00:00",
+    "end": "2025-10-18T20:00:00+00:00",
+    "duration": 10800
+  },
+  "2025/round-2": {
+    "resource": "facebook.com",
+    "id": "2025/round-2",
+    "event": "Meta Hacker Cup 2025 Round 2",
+    "href": "https://www.facebook.com/codingcompetitions/hacker-cup/2025/round-2",
+    "start": "2025-11-01T17:00:00+00:00",
+    "end": "2025-11-01T20:00:00+00:00",
+    "duration": 10800
+  },
+  "2025/round-3": {
+    "resource": "facebook.com",
+    "id": "2025/round-3",
+    "event": "Meta Hacker Cup 2025 Round 3",
+    "href": "https://www.facebook.com/codingcompetitions/hacker-cup/2025/round-3",
+    "start": "2025-11-15T18:00:00+00:00",
+    "end": "2025-11-15T21:00:00+00:00",
+    "duration": 10800
+  }
+}
