@@ -367,5 +367,32 @@
     "start": "2025-11-07T10:00:00+00:00",
     "end": "2025-11-17T10:00:00+00:00",
     "duration": 864000
+  },
+  "stpc2025_1": {
+    "resource": "atcoder.jp",
+    "id": "stpc2025_1",
+    "event": "東京科学大学プログラミングコンテスト2025 (Div. 1)",
+    "href": "https://atcoder.jp/contests/stpc2025_1",
+    "start": "2025-11-08T04:00:00+00:00",
+    "end": "2025-11-08T09:00:00+00:00",
+    "duration": 18000
+  },
+  "stpc2025_2": {
+    "resource": "atcoder.jp",
+    "id": "stpc2025_2",
+    "event": "東京科学大学プログラミングコンテスト2025 (Div. 2)",
+    "href": "https://atcoder.jp/contests/stpc2025_2",
+    "start": "2025-11-08T04:00:00+00:00",
+    "end": "2025-11-08T09:00:00+00:00",
+    "duration": 18000
+  },
+  "abc431": {
+    "resource": "atcoder.jp",
+    "id": "abc431",
+    "event": "トヨタシステムズプログラミングコンテスト2025（AtCoder Beginner Contest 431）",
+    "href": "https://atcoder.jp/contests/abc431",
+    "start": "2025-11-08T12:00:00+00:00",
+    "end": "2025-11-08T13:40:00+00:00",
+    "duration": 6000
   }
 }

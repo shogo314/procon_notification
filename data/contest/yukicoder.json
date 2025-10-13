@@ -160,5 +160,23 @@
     "start": "2025-09-19T12:20:00+00:00",
     "end": "2025-09-19T14:20:00+00:00",
     "duration": 7200
+  },
+  "565": {
+    "resource": "yukicoder.me",
+    "id": "565",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/565",
+    "start": "2025-11-07T12:00:00+00:00",
+    "end": "2025-11-07T15:00:00+00:00",
+    "duration": 10800
+  },
+  "567": {
+    "resource": "yukicoder.me",
+    "id": "567",
+    "event": "yukicoder contest 小数誤差コンテスト",
+    "href": "https://yukicoder.me/contests/567",
+    "start": "2025-11-14T12:20:00+00:00",
+    "end": "2025-11-14T14:20:00+00:00",
+    "duration": 7200
   }
 }

@@ -385,5 +385,41 @@
     "start": "2025-10-08T04:00:00+00:00",
     "end": "2025-10-08T09:00:00+00:00",
     "duration": 18000
+  },
+  "118654": {
+    "resource": "ac.nowcoder.com",
+    "id": "118654",
+    "event": "牛客2025秋季算法编程训练联赛1-基础组",
+    "href": "https://ac.nowcoder.com/acm/contest/118654",
+    "start": "2025-10-15T11:00:00+00:00",
+    "end": "2025-10-15T13:00:00+00:00",
+    "duration": 7200
+  },
+  "119232": {
+    "resource": "ac.nowcoder.com",
+    "id": "119232",
+    "event": "牛客2025秋季算法编程训练联赛1-提升组",
+    "href": "https://ac.nowcoder.com/acm/contest/119232",
+    "start": "2025-10-15T11:00:00+00:00",
+    "end": "2025-10-15T13:30:00+00:00",
+    "duration": 9000
+  },
+  "119273": {
+    "resource": "ac.nowcoder.com",
+    "id": "119273",
+    "event": "牛客周赛 Round 114",
+    "href": "https://ac.nowcoder.com/acm/contest/119273",
+    "start": "2025-10-19T11:00:00+00:00",
+    "end": "2025-10-19T13:00:00+00:00",
+    "duration": 7200
+  },
+  "117945": {
+    "resource": "ac.nowcoder.com",
+    "id": "117945",
+    "event": "九坤极限 Code 双赛季 · Accepted编程网络预赛",
+    "href": "https://ac.nowcoder.com/acm/contest/117945",
+    "start": "2025-10-28T11:00:00+00:00",
+    "end": "2025-10-28T14:00:00+00:00",
+    "duration": 10800
   }
 }

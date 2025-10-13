@@ -952,5 +952,23 @@
     "start": "2025-10-11T05:00:00+00:00",
     "end": "2025-10-11T10:00:00+00:00",
     "duration": 18000
+  },
+  "278623": {
+    "resource": "luogu.com.cn",
+    "id": "278623",
+    "event": "Aboi Round 2",
+    "href": "https://www.luogu.com.cn/contest/278623",
+    "start": "2025-10-26T06:00:00+00:00",
+    "end": "2025-10-26T10:30:00+00:00",
+    "duration": 16200
+  },
+  "282825": {
+    "resource": "luogu.com.cn",
+    "id": "282825",
+    "event": "[ICPC2024 Kunming I] ICPC2024 邀请赛昆明站重现赛",
+    "href": "https://www.luogu.com.cn/contest/282825",
+    "start": "2025-10-14T05:00:00+00:00",
+    "end": "2025-10-14T10:00:00+00:00",
+    "duration": 18000
   }
 }

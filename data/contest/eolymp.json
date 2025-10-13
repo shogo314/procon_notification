@@ -79,5 +79,14 @@
     "start": "2025-10-05T20:00:00+00:00",
     "end": "2025-10-12T19:59:00+00:00",
     "duration": 604740
+  },
+  "d1vblrqu112ord1d68l1dh4670": {
+    "resource": "basecamp.eolymp.com",
+    "id": "d1vblrqu112ord1d68l1dh4670",
+    "event": "Weekend Practice #12",
+    "href": "https://basecamp.eolymp.com/en/contests/d1vblrqu112ord1d68l1dh4670",
+    "start": "2025-10-26T16:00:00+00:00",
+    "end": "2025-10-26T18:00:00+00:00",
+    "duration": 7200
   }
 }
