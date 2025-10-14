@@ -178,5 +178,14 @@
     "start": "2025-11-14T12:20:00+00:00",
     "end": "2025-11-14T14:20:00+00:00",
     "duration": 7200
+  },
+  "568": {
+    "resource": "yukicoder.me",
+    "id": "568",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/568",
+    "start": "2025-11-21T12:20:00+00:00",
+    "end": "2025-11-21T14:20:00+00:00",
+    "duration": 7200
   }
 }
