@@ -439,5 +439,32 @@
     "start": "2025-10-31T11:00:00+00:00",
     "end": "2025-10-31T13:30:00+00:00",
     "duration": 9000
+  },
+  "118653": {
+    "resource": "ac.nowcoder.com",
+    "id": "118653",
+    "event": "牛客2025秋季算法编程训练联赛2-基础组",
+    "href": "https://ac.nowcoder.com/acm/contest/118653",
+    "start": "2025-10-22T11:00:00+00:00",
+    "end": "2025-10-22T13:00:00+00:00",
+    "duration": 7200
+  },
+  "119774": {
+    "resource": "ac.nowcoder.com",
+    "id": "119774",
+    "event": "牛客2025秋季算法编程训练联赛2-提升组",
+    "href": "https://ac.nowcoder.com/acm/contest/119774",
+    "start": "2025-10-22T11:00:00+00:00",
+    "end": "2025-10-22T13:30:00+00:00",
+    "duration": 9000
+  },
+  "119895": {
+    "resource": "ac.nowcoder.com",
+    "id": "119895",
+    "event": "牛客周赛 Round 115",
+    "href": "https://ac.nowcoder.com/acm/contest/119895",
+    "start": "2025-10-26T11:00:00+00:00",
+    "end": "2025-10-26T13:00:00+00:00",
+    "duration": 7200
   }
 }

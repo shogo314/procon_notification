@@ -403,5 +403,14 @@
     "start": "2025-11-01T12:00:00+00:00",
     "end": "2025-11-01T13:40:00+00:00",
     "duration": 6000
+  },
+  "arc210": {
+    "resource": "atcoder.jp",
+    "id": "arc210",
+    "event": "estie プログラミングコンテスト2025 （AtCoder Regular Contest 210）",
+    "href": "https://atcoder.jp/contests/arc210",
+    "start": "2025-11-16T12:00:00+00:00",
+    "end": "2025-11-16T14:00:00+00:00",
+    "duration": 7200
   }
 }

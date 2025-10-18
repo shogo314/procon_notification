@@ -958,8 +958,8 @@
     "id": "278623",
     "event": "Aboi Round 2",
     "href": "https://www.luogu.com.cn/contest/278623",
-    "start": "2025-10-26T06:00:00+00:00",
-    "end": "2025-10-26T10:30:00+00:00",
+    "start": "2025-10-26T00:00:00+00:00",
+    "end": "2025-10-26T04:30:00+00:00",
     "duration": 16200
   },
   "282825": {
@@ -979,5 +979,32 @@
     "start": "2025-10-17T11:00:00+00:00",
     "end": "2025-10-17T13:00:00+00:00",
     "duration": 7200
+  },
+  "246498": {
+    "resource": "luogu.com.cn",
+    "id": "246498",
+    "event": "【LGR-252-Div.1】洛谷 10 月月赛 III & ALFR Round 11",
+    "href": "https://www.luogu.com.cn/contest/246498",
+    "start": "2025-10-26T06:00:00+00:00",
+    "end": "2025-10-26T10:00:00+00:00",
+    "duration": 14400
+  },
+  "282964": {
+    "resource": "luogu.com.cn",
+    "id": "282964",
+    "event": "【LGR-252-Div.2】洛谷 10 月月赛 III & ALFR Round 11",
+    "href": "https://www.luogu.com.cn/contest/282964",
+    "start": "2025-10-26T06:00:00+00:00",
+    "end": "2025-10-26T10:00:00+00:00",
+    "duration": 14400
+  },
+  "283411": {
+    "resource": "luogu.com.cn",
+    "id": "283411",
+    "event": "[CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛",
+    "href": "https://www.luogu.com.cn/contest/283411",
+    "start": "2025-10-17T05:00:00+00:00",
+    "end": "2025-10-17T10:00:00+00:00",
+    "duration": 18000
   }
 }
