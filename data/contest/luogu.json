@@ -1006,5 +1006,14 @@
     "start": "2025-10-17T05:00:00+00:00",
     "end": "2025-10-17T10:00:00+00:00",
     "duration": 18000
+  },
+  "": {
+    "resource": "luogu.com.cn",
+    "id": "",
+    "event": "zyh_helen's Construction Round",
+    "href": "https://www.luogu.com.cn/",
+    "start": "2025-10-04T06:00:00+00:00",
+    "end": "2025-10-04T10:00:00+00:00",
+    "duration": 14400
   }
 }

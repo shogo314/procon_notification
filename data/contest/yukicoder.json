@@ -193,8 +193,35 @@
     "id": "570",
     "event": "yukicoder contest",
     "href": "https://yukicoder.me/contests/570",
-    "start": "2025-12-12T12:20:00+00:00",
-    "end": "2025-12-12T14:20:00+00:00",
+    "start": "2025-11-28T12:20:00+00:00",
+    "end": "2025-11-28T14:20:00+00:00",
+    "duration": 7200
+  },
+  "571": {
+    "resource": "yukicoder.me",
+    "id": "571",
+    "event": "yukicoder contest 486 オムニバス",
+    "href": "https://yukicoder.me/contests/571",
+    "start": "2025-10-24T12:20:00+00:00",
+    "end": "2025-10-24T14:20:00+00:00",
+    "duration": 7200
+  },
+  "572": {
+    "resource": "yukicoder.me",
+    "id": "572",
+    "event": "yukicoder contest traP 作問ハッカソンコンテスト 003",
+    "href": "https://yukicoder.me/contests/572",
+    "start": "2025-11-13T12:20:00+00:00",
+    "end": "2025-11-13T14:20:00+00:00",
+    "duration": 7200
+  },
+  "573": {
+    "resource": "yukicoder.me",
+    "id": "573",
+    "event": "yukicoder contest 作問ハッカソンコンテスト 003 Day2",
+    "href": "https://yukicoder.me/contests/573",
+    "start": "2025-11-17T12:00:00+00:00",
+    "end": "2025-11-17T14:00:00+00:00",
     "duration": 7200
   }
 }
