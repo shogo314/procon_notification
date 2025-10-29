@@ -1015,5 +1015,59 @@
     "start": "2025-10-04T06:00:00+00:00",
     "end": "2025-10-04T10:00:00+00:00",
     "duration": 14400
+  },
+  "287515": {
+    "resource": "luogu.com.cn",
+    "id": "287515",
+    "event": "【MX-S12】梦熊 NOIP 2025 模拟赛 4（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/287515",
+    "start": "2025-11-22T00:30:00+00:00",
+    "end": "2025-11-22T05:00:00+00:00",
+    "duration": 16200
+  },
+  "287508": {
+    "resource": "luogu.com.cn",
+    "id": "287508",
+    "event": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R4.5（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/287508",
+    "start": "2025-11-16T00:30:00+00:00",
+    "end": "2025-11-16T05:00:00+00:00",
+    "duration": 16200
+  },
+  "230986": {
+    "resource": "luogu.com.cn",
+    "id": "230986",
+    "event": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
+    "href": "https://www.luogu.com.cn/contest/230986",
+    "start": "2025-11-09T06:00:00+00:00",
+    "end": "2025-11-09T10:00:00+00:00",
+    "duration": 14400
+  },
+  "276844": {
+    "resource": "luogu.com.cn",
+    "id": "276844",
+    "event": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
+    "href": "https://www.luogu.com.cn/contest/276844",
+    "start": "2025-11-09T06:00:00+00:00",
+    "end": "2025-11-09T10:00:00+00:00",
+    "duration": 14400
+  },
+  "287507": {
+    "resource": "luogu.com.cn",
+    "id": "287507",
+    "event": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/287507",
+    "start": "2025-11-08T00:30:00+00:00",
+    "end": "2025-11-08T05:00:00+00:00",
+    "duration": 16200
+  },
+  "287506": {
+    "resource": "luogu.com.cn",
+    "id": "287506",
+    "event": "【MX-S9】梦熊 NOIP 2025 模拟赛 1 & LAOI Round 16（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/287506",
+    "start": "2025-11-02T00:30:00+00:00",
+    "end": "2025-11-02T05:00:00+00:00",
+    "duration": 16200
   }
 }

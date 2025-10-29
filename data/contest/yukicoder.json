@@ -223,5 +223,23 @@
     "start": "2025-11-17T12:00:00+00:00",
     "end": "2025-11-17T14:00:00+00:00",
     "duration": 7200
+  },
+  "575": {
+    "resource": "yukicoder.me",
+    "id": "575",
+    "event": "wasd314 さんの単発コンテスト",
+    "href": "https://yukicoder.me/contests/575",
+    "start": "2025-11-02T12:20:00+00:00",
+    "end": "2025-11-02T14:20:00+00:00",
+    "duration": 7200
+  },
+  "574": {
+    "resource": "yukicoder.me",
+    "id": "574",
+    "event": "yukicoder contest Go on Back!!",
+    "href": "https://yukicoder.me/contests/574",
+    "start": "2026-01-09T12:20:00+00:00",
+    "end": "2026-01-09T14:20:00+00:00",
+    "duration": 7200
   }
 }

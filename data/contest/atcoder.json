@@ -421,5 +421,23 @@
     "start": "2025-11-09T12:00:00+00:00",
     "end": "2025-11-09T14:30:00+00:00",
     "duration": 9000
+  },
+  "abc432": {
+    "resource": "atcoder.jp",
+    "id": "abc432",
+    "event": "オムロンプログラミングコンテスト2025 #2（AtCoder Beginner Contest 432）",
+    "href": "https://atcoder.jp/contests/abc432",
+    "start": "2025-11-15T12:00:00+00:00",
+    "end": "2025-11-15T13:40:00+00:00",
+    "duration": 6000
+  },
+  "abc433": {
+    "resource": "atcoder.jp",
+    "id": "abc433",
+    "event": "AtCoder Beginner Contest 433",
+    "href": "https://atcoder.jp/contests/abc433",
+    "start": "2025-11-22T12:00:00+00:00",
+    "end": "2025-11-22T13:40:00+00:00",
+    "duration": 6000
   }
 }
