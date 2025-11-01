@@ -448,5 +448,14 @@
     "start": "2025-11-29T12:00:00+00:00",
     "end": "2025-11-29T13:40:00+00:00",
     "duration": 6000
+  },
+  "arc211": {
+    "resource": "atcoder.jp",
+    "id": "arc211",
+    "event": "AtCoder Regular Contest 211 (Div. 2)",
+    "href": "https://atcoder.jp/contests/arc211",
+    "start": "2025-11-30T12:00:00+00:00",
+    "end": "2025-11-30T14:00:00+00:00",
+    "duration": 7200
   }
 }

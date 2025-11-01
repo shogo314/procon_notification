@@ -1069,5 +1069,23 @@
     "start": "2025-11-02T00:30:00+00:00",
     "end": "2025-11-02T05:00:00+00:00",
     "duration": 16200
+  },
+  "288428": {
+    "resource": "luogu.com.cn",
+    "id": "288428",
+    "event": "CSP-S 2025 自测（民间数据）",
+    "href": "https://www.luogu.com.cn/contest/288428",
+    "start": "2025-11-01T12:30:00+00:00",
+    "end": "2025-11-10T12:30:00+00:00",
+    "duration": 777600
+  },
+  "288427": {
+    "resource": "luogu.com.cn",
+    "id": "288427",
+    "event": "CSP-J 2025 自测（民间数据）",
+    "href": "https://www.luogu.com.cn/contest/288427",
+    "start": "2025-11-01T04:45:00+00:00",
+    "end": "2025-11-10T06:00:00+00:00",
+    "duration": 782100
   }
 }

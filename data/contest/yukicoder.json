@@ -241,5 +241,14 @@
     "start": "2026-01-09T12:20:00+00:00",
     "end": "2026-01-09T14:20:00+00:00",
     "duration": 7200
+  },
+  "576": {
+    "resource": "yukicoder.me",
+    "id": "576",
+    "event": "yukicoder contest TSG LIVE! 15 コードゴルフコンテスト",
+    "href": "https://yukicoder.me/contests/576",
+    "start": "2025-11-22T04:00:00+00:00",
+    "end": "2025-11-22T06:00:00+00:00",
+    "duration": 7200
   }
 }
