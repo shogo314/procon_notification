@@ -610,5 +610,41 @@
     "start": "2025-09-15T11:00:00+00:00",
     "end": "2025-09-21T11:00:00+00:00",
     "duration": 518400
+  },
+  "1969": {
+    "resource": "kilonova.ro",
+    "id": "1969",
+    "event": "Infinity ediția a IV-a, clasa a V-a",
+    "href": "https://kilonova.ro/contests/1969",
+    "start": "2025-11-08T07:00:00+00:00",
+    "end": "2025-11-08T10:00:00+00:00",
+    "duration": 10800
+  },
+  "1970": {
+    "resource": "kilonova.ro",
+    "id": "1970",
+    "event": "Infinity ediția a IV-a, clasa a VI-a",
+    "href": "https://kilonova.ro/contests/1970",
+    "start": "2025-11-08T07:00:00+00:00",
+    "end": "2025-11-08T10:00:00+00:00",
+    "duration": 10800
+  },
+  "1971": {
+    "resource": "kilonova.ro",
+    "id": "1971",
+    "event": "Infinity ediția a IV-a, clasa a VII-a",
+    "href": "https://kilonova.ro/contests/1971",
+    "start": "2025-11-08T07:00:00+00:00",
+    "end": "2025-11-08T10:00:00+00:00",
+    "duration": 10800
+  },
+  "1972": {
+    "resource": "kilonova.ro",
+    "id": "1972",
+    "event": "Infinity ediția a IV-a, clasa a VIII-a",
+    "href": "https://kilonova.ro/contests/1972",
+    "start": "2025-11-08T07:00:00+00:00",
+    "end": "2025-11-08T10:00:00+00:00",
+    "duration": 10800
   }
 }

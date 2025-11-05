@@ -457,5 +457,14 @@
     "start": "2025-11-30T12:00:00+00:00",
     "end": "2025-11-30T14:00:00+00:00",
     "duration": 7200
+  },
+  "abc435": {
+    "resource": "atcoder.jp",
+    "id": "abc435",
+    "event": "AtCoder Beginner Contest 435",
+    "href": "https://atcoder.jp/contests/abc435",
+    "start": "2025-12-06T12:00:00+00:00",
+    "end": "2025-12-06T13:40:00+00:00",
+    "duration": 6000
   }
 }

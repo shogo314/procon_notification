@@ -124,5 +124,14 @@
     "start": "2025-11-02T20:00:00+00:00",
     "end": "2025-11-09T19:59:00+00:00",
     "duration": 604740
+  },
+  "4usu8j57353kj76bh7mj7dv4jk": {
+    "resource": "basecamp.eolymp.com",
+    "id": "4usu8j57353kj76bh7mj7dv4jk",
+    "event": "Weekend Practice #13",
+    "href": "https://basecamp.eolymp.com/en/contests/4usu8j57353kj76bh7mj7dv4jk",
+    "start": "2025-11-09T15:00:00+00:00",
+    "end": "2025-11-09T17:00:00+00:00",
+    "duration": 7200
   }
 }

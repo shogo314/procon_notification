@@ -281,7 +281,7 @@
   "START211": {
     "resource": "codechef.com",
     "id": "START211",
-    "event": "Starters 211",
+    "event": "Starters 211 (Rated till 6 - star)",
     "href": "https://www.codechef.com/START211",
     "start": "2025-11-05T14:30:00+00:00",
     "end": "2025-11-05T16:30:00+00:00",
@@ -321,6 +321,15 @@
     "href": "https://www.codechef.com/DEVWEEKEND22",
     "start": "2025-10-31T18:30:00+00:00",
     "end": "2025-11-02T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DEVWEEKEND23": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND23",
+    "event": "Weekend Dev Challenge 23: Frontend Essentials - HTML,CSS,JS",
+    "href": "https://www.codechef.com/DEVWEEKEND23",
+    "start": "2025-11-07T18:30:00+00:00",
+    "end": "2025-11-09T18:30:00+00:00",
     "duration": 172800
   }
 }

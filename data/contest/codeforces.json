@@ -412,5 +412,23 @@
     "start": "2025-11-10T15:05:00+00:00",
     "end": "2025-11-10T17:05:00+00:00",
     "duration": 7200
+  },
+  "2170": {
+    "resource": "codeforces.com",
+    "id": "2170",
+    "event": "Educational Codeforces Round 185 (Rated for Div. 2)",
+    "href": "https://codeforces.com/contests/2170",
+    "start": "2025-11-28T14:35:00+00:00",
+    "end": "2025-11-28T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2169": {
+    "resource": "codeforces.com",
+    "id": "2169",
+    "event": "Educational Codeforces Round 184 (Rated for Div. 2)",
+    "href": "https://codeforces.com/contests/2169",
+    "start": "2025-11-14T14:35:00+00:00",
+    "end": "2025-11-14T16:35:00+00:00",
+    "duration": 7200
   }
 }
