@@ -646,5 +646,41 @@
     "start": "2025-11-08T07:00:00+00:00",
     "end": "2025-11-08T10:00:00+00:00",
     "duration": 10800
+  },
+  "2029": {
+    "resource": "kilonova.ro",
+    "id": "2029",
+    "event": "Mirror Infinity ediția a IV-a, clasa a V-a",
+    "href": "https://kilonova.ro/contests/2029",
+    "start": "2025-11-08T16:00:00+00:00",
+    "end": "2025-11-16T21:59:00+00:00",
+    "duration": 712740
+  },
+  "2030": {
+    "resource": "kilonova.ro",
+    "id": "2030",
+    "event": "Mirror Infinity ediția a IV-a, clasa a VI-a",
+    "href": "https://kilonova.ro/contests/2030",
+    "start": "2025-11-08T16:00:00+00:00",
+    "end": "2025-11-16T21:59:00+00:00",
+    "duration": 712740
+  },
+  "2031": {
+    "resource": "kilonova.ro",
+    "id": "2031",
+    "event": "Mirror Infinity ediția a IV-a, clasa a VII-a",
+    "href": "https://kilonova.ro/contests/2031",
+    "start": "2025-11-08T16:00:00+00:00",
+    "end": "2025-11-16T21:59:00+00:00",
+    "duration": 712740
+  },
+  "2032": {
+    "resource": "kilonova.ro",
+    "id": "2032",
+    "event": "Mirror Infinity ediția a IV-a, clasa a VIII-a",
+    "href": "https://kilonova.ro/contests/2032",
+    "start": "2025-11-08T16:00:00+00:00",
+    "end": "2025-11-16T21:59:00+00:00",
+    "duration": 712740
   }
 }

@@ -1073,7 +1073,7 @@
   "288428": {
     "resource": "luogu.com.cn",
     "id": "288428",
-    "event": "CSP-S 2025 自测（民间数据）",
+    "event": "CSP-S 2025 自测（官方数据）",
     "href": "https://www.luogu.com.cn/contest/288428",
     "start": "2025-11-01T12:30:00+00:00",
     "end": "2025-11-10T12:30:00+00:00",
@@ -1082,11 +1082,11 @@
   "288427": {
     "resource": "luogu.com.cn",
     "id": "288427",
-    "event": "CSP-J 2025 自测（民间数据）",
+    "event": "CSP-J 2025 自测（官方数据）",
     "href": "https://www.luogu.com.cn/contest/288427",
     "start": "2025-11-01T04:45:00+00:00",
-    "end": "2025-11-10T06:00:00+00:00",
-    "duration": 782100
+    "end": "2025-11-10T12:30:00+00:00",
+    "duration": 805500
   },
   "289075": {
     "resource": "luogu.com.cn",
@@ -1096,5 +1096,59 @@
     "start": "2025-11-15T00:30:00+00:00",
     "end": "2025-11-15T05:00:00+00:00",
     "duration": 16200
+  },
+  "230112": {
+    "resource": "luogu.com.cn",
+    "id": "230112",
+    "event": "Conclusion Masters #3: LAOI-R11",
+    "href": "https://www.luogu.com.cn/contest/230112",
+    "start": "2025-11-22T06:00:00+00:00",
+    "end": "2025-11-22T10:00:00+00:00",
+    "duration": 14400
+  },
+  "261933": {
+    "resource": "luogu.com.cn",
+    "id": "261933",
+    "event": "BYOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/261933",
+    "start": "2025-11-16T06:00:00+00:00",
+    "end": "2025-11-16T10:30:00+00:00",
+    "duration": 16200
+  },
+  "285711": {
+    "resource": "luogu.com.cn",
+    "id": "285711",
+    "event": "NFLSPC #8 重现赛",
+    "href": "https://www.luogu.com.cn/contest/285711",
+    "start": "2025-11-15T06:00:00+00:00",
+    "end": "2025-11-15T10:00:00+00:00",
+    "duration": 14400
+  },
+  "289673": {
+    "resource": "luogu.com.cn",
+    "id": "289673",
+    "event": "[ICPC2025 Xi'an R] ICPC 2025 区域赛西安站重现赛",
+    "href": "https://www.luogu.com.cn/contest/289673",
+    "start": "2025-11-11T05:00:00+00:00",
+    "end": "2025-11-11T10:00:00+00:00",
+    "duration": 18000
+  },
+  "290136": {
+    "resource": "luogu.com.cn",
+    "id": "290136",
+    "event": "测试赛",
+    "href": "https://www.luogu.com.cn/contest/290136",
+    "start": "2025-11-08T14:35:00+00:00",
+    "end": "2025-11-08T16:35:00+00:00",
+    "duration": 7200
+  },
+  "289769": {
+    "resource": "luogu.com.cn",
+    "id": "289769",
+    "event": "COCI 2025/2026 #1 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/289769",
+    "start": "2025-11-08T07:00:00+00:00",
+    "end": "2025-11-08T10:00:00+00:00",
+    "duration": 10800
   }
 }
