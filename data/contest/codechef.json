@@ -353,7 +353,7 @@
   "START212": {
     "resource": "codechef.com",
     "id": "START212",
-    "event": "Starters 212",
+    "event": "Starters 212 (Rated till 6 star)",
     "href": "https://www.codechef.com/START212",
     "start": "2025-11-12T14:30:00+00:00",
     "end": "2025-11-12T16:30:00+00:00",
@@ -412,5 +412,14 @@
     "start": "2025-12-31T14:30:00+00:00",
     "end": "2025-12-31T16:30:00+00:00",
     "duration": 7200
+  },
+  "DEVWEEKEND24": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND24",
+    "event": "Weekend Dev Challenge 24: Frontend Essentials - HTML,CSS,JS",
+    "href": "https://www.codechef.com/DEVWEEKEND24",
+    "start": "2025-11-14T18:30:00+00:00",
+    "end": "2025-11-16T18:30:00+00:00",
+    "duration": 172800
   }
 }

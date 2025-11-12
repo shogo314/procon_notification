@@ -29,10 +29,10 @@
   "10082": {
     "resource": "algotester.com",
     "id": "10082",
-    "event": "Algotester Workout 25 (Easy)",
+    "event": "Algotester Workout 26 (Hard)",
     "href": "https://algotester.com/en/Tournament/Display/10082",
-    "start": "2025-10-26T08:00:00+00:00",
-    "end": "2025-10-26T11:00:00+00:00",
-    "duration": 10800
+    "start": "2025-11-16T08:00:00+00:00",
+    "end": "2025-11-16T13:00:00+00:00",
+    "duration": 18000
   }
 }

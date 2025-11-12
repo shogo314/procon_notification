@@ -439,5 +439,23 @@
     "start": "2025-11-23T09:35:00+00:00",
     "end": "2025-11-23T12:35:00+00:00",
     "duration": 10800
+  },
+  "2171": {
+    "resource": "codeforces.com",
+    "id": "2171",
+    "event": "Codeforces Round (Div. 3)",
+    "href": "https://codeforces.com/contests/2171",
+    "start": "2025-11-18T14:35:00+00:00",
+    "end": "2025-11-18T16:50:00+00:00",
+    "duration": 8100
+  },
+  "2172": {
+    "resource": "codeforces.com",
+    "id": "2172",
+    "event": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+    "href": "https://codeforces.com/contests/2172",
+    "start": "2025-11-16T01:35:00+00:00",
+    "end": "2025-11-16T06:35:00+00:00",
+    "duration": 18000
   }
 }

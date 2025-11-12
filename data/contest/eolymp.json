@@ -133,5 +133,14 @@
     "start": "2025-11-09T15:00:00+00:00",
     "end": "2025-11-09T17:00:00+00:00",
     "duration": 7200
+  },
+  "saaq21a9v514tbj0spj7bmgjpk": {
+    "resource": "basecamp.eolymp.com",
+    "id": "saaq21a9v514tbj0spj7bmgjpk",
+    "event": "Educational Round #5",
+    "href": "https://basecamp.eolymp.com/en/contests/saaq21a9v514tbj0spj7bmgjpk",
+    "start": "2025-11-16T20:00:00+00:00",
+    "end": "2025-11-23T19:59:00+00:00",
+    "duration": 604740
   }
 }

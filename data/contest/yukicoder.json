@@ -209,11 +209,11 @@
   "572": {
     "resource": "yukicoder.me",
     "id": "572",
-    "event": "yukicoder contest traP 作問ハッカソンコンテスト 003",
+    "event": "yukicoder contest 作問ハッカソンコンテスト 003 Day1",
     "href": "https://yukicoder.me/contests/572",
     "start": "2025-11-13T12:20:00+00:00",
-    "end": "2025-11-13T14:20:00+00:00",
-    "duration": 7200
+    "end": "2025-11-13T15:20:00+00:00",
+    "duration": 10800
   },
   "573": {
     "resource": "yukicoder.me",
@@ -221,8 +221,8 @@
     "event": "yukicoder contest 作問ハッカソンコンテスト 003 Day2",
     "href": "https://yukicoder.me/contests/573",
     "start": "2025-11-17T12:00:00+00:00",
-    "end": "2025-11-17T14:00:00+00:00",
-    "duration": 7200
+    "end": "2025-11-17T15:00:00+00:00",
+    "duration": 10800
   },
   "575": {
     "resource": "yukicoder.me",
