@@ -34,5 +34,23 @@
     "start": "2025-11-02T13:00:00+00:00",
     "end": "2025-11-09T13:00:00+00:00",
     "duration": 604800
+  },
+  "edu_prefixsum_diff_array_1": {
+    "resource": "oj.vnoi.info",
+    "id": "edu_prefixsum_diff_array_1",
+    "event": "Educational Prefix Sum & Differential Array Contest - Part 1",
+    "href": "https://oj.vnoi.info/contest/edu_prefixsum_diff_array_1",
+    "start": "2025-11-23T05:00:00+00:00",
+    "end": "2025-11-30T05:00:00+00:00",
+    "duration": 604800
+  },
+  "edu_prefixsum_diff_array_2": {
+    "resource": "oj.vnoi.info",
+    "id": "edu_prefixsum_diff_array_2",
+    "event": "Educational Prefix Sum & Differential Array Contest - Part 2",
+    "href": "https://oj.vnoi.info/contest/edu_prefixsum_diff_array_2",
+    "start": "2025-11-23T05:00:00+00:00",
+    "end": "2025-11-30T05:00:00+00:00",
+    "duration": 604800
   }
 }

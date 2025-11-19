@@ -421,5 +421,14 @@
     "start": "2025-11-14T18:30:00+00:00",
     "end": "2025-11-16T18:30:00+00:00",
     "duration": 172800
+  },
+  "DEVWEEKEND25": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND25",
+    "event": "Weekend Dev Challenge 25: Frontend Essentials - HTML,CSS,JS",
+    "href": "https://www.codechef.com/DEVWEEKEND25",
+    "start": "2025-11-21T18:30:00+00:00",
+    "end": "2025-11-23T18:30:00+00:00",
+    "duration": 172800
   }
 }

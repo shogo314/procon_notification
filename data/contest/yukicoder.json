@@ -250,5 +250,14 @@
     "start": "2025-11-22T04:00:00+00:00",
     "end": "2025-11-22T06:00:00+00:00",
     "duration": 7200
+  },
+  "577": {
+    "resource": "yukicoder.me",
+    "id": "577",
+    "event": "yukicoder contest YNUCPC Contest 2",
+    "href": "https://yukicoder.me/contests/577",
+    "start": "2026-01-11T04:30:00+00:00",
+    "end": "2026-01-11T07:30:00+00:00",
+    "duration": 10800
   }
 }

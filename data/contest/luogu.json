@@ -1159,5 +1159,41 @@
     "start": "2025-11-23T06:00:00+00:00",
     "end": "2025-11-23T09:30:00+00:00",
     "duration": 12600
+  },
+  "251007": {
+    "resource": "luogu.com.cn",
+    "id": "251007",
+    "event": "OIMO Round 1",
+    "href": "https://www.luogu.com.cn/contest/251007",
+    "start": "2025-11-30T05:30:00+00:00",
+    "end": "2025-11-30T08:30:00+00:00",
+    "duration": 10800
+  },
+  "291968": {
+    "resource": "luogu.com.cn",
+    "id": "291968",
+    "event": "第六届辽宁省大学生程序设计竞赛重现赛",
+    "href": "https://www.luogu.com.cn/contest/291968",
+    "start": "2025-11-23T09:00:00+00:00",
+    "end": "2025-11-23T14:00:00+00:00",
+    "duration": 18000
+  },
+  "291890": {
+    "resource": "luogu.com.cn",
+    "id": "291890",
+    "event": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
+    "href": "https://www.luogu.com.cn/contest/291890",
+    "start": "2025-11-21T11:00:00+00:00",
+    "end": "2025-11-21T13:00:00+00:00",
+    "duration": 7200
+  },
+  "292020": {
+    "resource": "luogu.com.cn",
+    "id": "292020",
+    "event": "IO 2024 Round 3（团体赛）Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/292020",
+    "start": "2025-11-19T05:00:00+00:00",
+    "end": "2025-11-19T10:00:00+00:00",
+    "duration": 18000
   }
 }
