@@ -26,13 +26,22 @@
     "end": "2025-07-27T11:00:00+00:00",
     "duration": 14400
   },
-  "10082": {
+  "110925": {
     "resource": "algotester.com",
-    "id": "10082",
+    "id": "110925",
     "event": "Algotester Workout 26 (Hard)",
     "href": "https://algotester.com/en/Tournament/Display/10082",
     "start": "2025-11-16T08:00:00+00:00",
     "end": "2025-11-16T13:00:00+00:00",
+    "duration": 18000
+  },
+  "110938": {
+    "resource": "algotester.com",
+    "id": "110938",
+    "event": "Algotester Workout 27 (Hard)",
+    "href": "https://algotester.com/en/Tournament/Display/10082",
+    "start": "2025-11-30T08:00:00+00:00",
+    "end": "2025-11-30T13:00:00+00:00",
     "duration": 18000
   }
 }

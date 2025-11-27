@@ -430,5 +430,23 @@
     "start": "2025-11-21T18:30:00+00:00",
     "end": "2025-11-23T18:30:00+00:00",
     "duration": 172800
+  },
+  "DEVWEEKEND26": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND26",
+    "event": "Weekend Dev Challenge 26: Frontend Essentials - HTML,CSS,JS",
+    "href": "https://www.codechef.com/DEVWEEKEND26",
+    "start": "2025-11-28T18:30:00+00:00",
+    "end": "2025-11-30T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DSAMONDAY14": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY14",
+    "event": "Monday Munch - DSA Challenge 14",
+    "href": "https://www.codechef.com/DSAMONDAY14",
+    "start": "2025-12-01T12:30:00+00:00",
+    "end": "2025-12-01T15:30:00+00:00",
+    "duration": 10800
   }
 }

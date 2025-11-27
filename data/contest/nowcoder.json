@@ -610,5 +610,41 @@
     "start": "2025-11-23T11:00:00+00:00",
     "end": "2025-11-23T13:00:00+00:00",
     "duration": 7200
+  },
+  "123787": {
+    "resource": "ac.nowcoder.com",
+    "id": "123787",
+    "event": "牛客小白月赛124",
+    "href": "https://ac.nowcoder.com/acm/contest/123787",
+    "start": "2025-11-28T11:00:00+00:00",
+    "end": "2025-11-28T13:00:00+00:00",
+    "duration": 7200
+  },
+  "123788": {
+    "resource": "ac.nowcoder.com",
+    "id": "123788",
+    "event": "牛客周赛 Round 120",
+    "href": "https://ac.nowcoder.com/acm/contest/123788",
+    "start": "2025-11-30T11:00:00+00:00",
+    "end": "2025-11-30T13:00:00+00:00",
+    "duration": 7200
+  },
+  "124146": {
+    "resource": "ac.nowcoder.com",
+    "id": "124146",
+    "event": "牛客挑战赛84",
+    "href": "https://ac.nowcoder.com/acm/contest/124146",
+    "start": "2025-12-05T11:00:00+00:00",
+    "end": "2025-12-05T14:00:00+00:00",
+    "duration": 10800
+  },
+  "124143": {
+    "resource": "ac.nowcoder.com",
+    "id": "124143",
+    "event": "牛客周赛 Round 121",
+    "href": "https://ac.nowcoder.com/acm/contest/124143",
+    "start": "2025-12-07T11:00:00+00:00",
+    "end": "2025-12-07T13:00:00+00:00",
+    "duration": 7200
   }
 }
