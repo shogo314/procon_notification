@@ -151,5 +151,14 @@
     "start": "2025-11-30T11:00:00+00:00",
     "end": "2025-11-30T12:30:00+00:00",
     "duration": 5400
+  },
+  "5369lb3qk5105ae7b710a6eteo": {
+    "resource": "basecamp.eolymp.com",
+    "id": "5369lb3qk5105ae7b710a6eteo",
+    "event": "Blitz Round #8",
+    "href": "https://basecamp.eolymp.com/en/contests/5369lb3qk5105ae7b710a6eteo",
+    "start": "2025-12-14T11:00:00+00:00",
+    "end": "2025-12-14T12:30:00+00:00",
+    "duration": 5400
   }
 }

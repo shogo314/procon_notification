@@ -1,0 +1,20 @@
+{
+  "pre-open": {
+    "resource": "repovive.com",
+    "id": "pre-open",
+    "event": "Repovive Pre-Opening Contest",
+    "href": "https://repovive.com/contests",
+    "start": "2025-12-02T14:35:00+00:00",
+    "end": "2025-12-02T16:35:00+00:00",
+    "duration": 7200
+  },
+  "open": {
+    "resource": "repovive.com",
+    "id": "open",
+    "event": "Repovive Opening Contest",
+    "href": "https://repovive.com/contests",
+    "start": "2025-12-07T14:35:00+00:00",
+    "end": "2025-12-07T16:35:00+00:00",
+    "duration": 7200
+  }
+}
