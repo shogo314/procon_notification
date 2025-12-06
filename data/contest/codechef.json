@@ -448,5 +448,23 @@
     "start": "2025-12-01T12:30:00+00:00",
     "end": "2025-12-01T15:30:00+00:00",
     "duration": 10800
+  },
+  "DEVWEEKEND27": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND27",
+    "event": "Weekend Dev Challenge 27: SQL Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND27",
+    "start": "2025-12-05T18:30:00+00:00",
+    "end": "2025-12-07T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DSAMONDAY15": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY15",
+    "event": "Monday Munch - DSA Challenge 15",
+    "href": "https://www.codechef.com/DSAMONDAY15",
+    "start": "2025-12-08T12:30:00+00:00",
+    "end": "2025-12-08T15:30:00+00:00",
+    "duration": 10800
   }
 }

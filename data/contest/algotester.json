@@ -43,5 +43,14 @@
     "start": "2025-11-30T08:00:00+00:00",
     "end": "2025-11-30T13:00:00+00:00",
     "duration": 18000
+  },
+  "110945": {
+    "resource": "algotester.com",
+    "id": "110945",
+    "event": "Algotester Workout 28 (Hard)",
+    "href": "https://algotester.com/en/Tournament/Display/10082",
+    "start": "2025-12-07T08:00:00+00:00",
+    "end": "2025-12-07T13:00:00+00:00",
+    "duration": 18000
   }
 }

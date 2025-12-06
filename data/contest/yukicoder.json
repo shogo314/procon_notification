@@ -268,5 +268,14 @@
     "start": "2025-11-30T15:00:00+00:00",
     "end": "2025-11-30T17:00:00+00:00",
     "duration": 7200
+  },
+  "579": {
+    "resource": "yukicoder.me",
+    "id": "579",
+    "event": "MMA Contest 021",
+    "href": "https://yukicoder.me/contests/579",
+    "start": "2026-03-01T04:30:00+00:00",
+    "end": "2026-03-01T07:30:00+00:00",
+    "duration": 10800
   }
 }

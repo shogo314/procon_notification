@@ -688,8 +688,8 @@
     "id": "2087",
     "event": "FMI NO STRESS 14",
     "href": "https://kilonova.ro/contests/2087",
-    "start": "2025-12-06T08:00:00+00:00",
-    "end": "2025-12-06T13:00:00+00:00",
+    "start": "2025-12-06T08:25:00+00:00",
+    "end": "2025-12-06T13:25:00+00:00",
     "duration": 18000
   },
   "2107": {
@@ -697,8 +697,8 @@
     "id": "2107",
     "event": "Concursul \"Giorgie Daniel Vlad\", clasa a VI-a",
     "href": "https://kilonova.ro/contests/2107",
-    "start": "2025-12-05T11:00:00+00:00",
-    "end": "2025-12-05T14:00:00+00:00",
+    "start": "2025-12-05T11:30:00+00:00",
+    "end": "2025-12-05T14:30:00+00:00",
     "duration": 10800
   },
   "2108": {
@@ -706,8 +706,8 @@
     "id": "2108",
     "event": "Concursul \"Giorgie Daniel Vlad\", clasa a VII-a",
     "href": "https://kilonova.ro/contests/2108",
-    "start": "2025-12-05T11:00:00+00:00",
-    "end": "2025-12-05T14:00:00+00:00",
+    "start": "2025-12-05T11:30:00+00:00",
+    "end": "2025-12-05T14:30:00+00:00",
     "duration": 10800
   },
   "2109": {
@@ -715,8 +715,8 @@
     "id": "2109",
     "event": "Concursul \"Giorgie Daniel Vlad\", clasa a VIII-a",
     "href": "https://kilonova.ro/contests/2109",
-    "start": "2025-12-05T11:00:00+00:00",
-    "end": "2025-12-05T14:00:00+00:00",
+    "start": "2025-12-05T11:30:00+00:00",
+    "end": "2025-12-05T14:30:00+00:00",
     "duration": 10800
   }
 }
