@@ -1,20 +1,38 @@
 {
-  "pre-open": {
+  "1": {
     "resource": "repovive.com",
-    "id": "pre-open",
-    "event": "Repovive Pre-Opening Contest",
+    "id": "1",
+    "event": "Repovive Testing Round #1",
     "href": "https://repovive.com/contests",
     "start": "2025-12-02T14:35:00+00:00",
     "end": "2025-12-02T16:35:00+00:00",
     "duration": 7200
   },
-  "open": {
+  "2": {
     "resource": "repovive.com",
-    "id": "open",
-    "event": "Repovive Opening Contest",
+    "id": "2",
+    "event": "Repovive Testing Round #2",
     "href": "https://repovive.com/contests",
-    "start": "2025-12-07T14:35:00+00:00",
-    "end": "2025-12-07T16:35:00+00:00",
+    "start": "2025-12-10T14:35:00+00:00",
+    "end": "2025-12-10T16:35:00+00:00",
+    "duration": 7200
+  },
+  "3": {
+    "resource": "repovive.com",
+    "id": "3",
+    "event": "Repovive Testing Round #3",
+    "href": "https://repovive.com/contests",
+    "start": "2025-12-12T14:35:00+00:00",
+    "end": "2025-12-12T16:35:00+00:00",
+    "duration": 7200
+  },
+  "0": {
+    "resource": "repovive.com",
+    "id": "0",
+    "event": "Repovive Opening Round",
+    "href": "https://repovive.com/contests",
+    "start": "2025-12-14T14:35:00+00:00",
+    "end": "2025-12-14T16:35:00+00:00",
     "duration": 7200
   }
 }

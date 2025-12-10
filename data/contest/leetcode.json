@@ -340,5 +340,14 @@
     "start": "2025-12-14T02:30:00+00:00",
     "end": "2025-12-14T04:00:00+00:00",
     "duration": 5400
+  },
+  "weekly-contest-481": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-481",
+    "event": "Weekly Contest 481",
+    "href": "https://leetcode.com/contest/weekly-contest-481",
+    "start": "2025-12-21T02:30:00+00:00",
+    "end": "2025-12-21T04:00:00+00:00",
+    "duration": 5400
   }
 }

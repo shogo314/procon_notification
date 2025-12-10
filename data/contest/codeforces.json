@@ -506,10 +506,37 @@
   "2177": {
     "resource": "codeforces.com",
     "id": "2177",
-    "event": "ICPC 2025 Online Challenge powered by Huawei",
+    "event": "ICPC 2025 Online Winter Challenge powered by Huawei",
     "href": "https://codeforces.com/contests/2177",
-    "start": "2025-12-19T11:00:00+00:00",
-    "end": "2026-01-05T11:00:00+00:00",
-    "duration": 1468800
+    "start": "2025-12-26T11:00:00+00:00",
+    "end": "2026-01-11T11:00:00+00:00",
+    "duration": 1382400
+  },
+  "2180": {
+    "resource": "codeforces.com",
+    "id": "2180",
+    "event": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+    "href": "https://codeforces.com/contests/2180",
+    "start": "2025-12-19T14:35:00+00:00",
+    "end": "2025-12-19T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2179": {
+    "resource": "codeforces.com",
+    "id": "2179",
+    "event": "Codeforces Round (Div. 3)",
+    "href": "https://codeforces.com/contests/2179",
+    "start": "2025-12-23T14:35:00+00:00",
+    "end": "2025-12-23T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2178": {
+    "resource": "codeforces.com",
+    "id": "2178",
+    "event": "Good Bye 2025",
+    "href": "https://codeforces.com/contests/2178",
+    "start": "2025-12-27T14:35:00+00:00",
+    "end": "2025-12-27T17:35:00+00:00",
+    "duration": 10800
   }
 }

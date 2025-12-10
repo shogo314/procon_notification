@@ -344,7 +344,7 @@
   "START216": {
     "resource": "codechef.com",
     "id": "START216",
-    "event": "Starters 216",
+    "event": "Starters 216 (Rated till 5 star)",
     "href": "https://www.codechef.com/START216",
     "start": "2025-12-10T14:30:00+00:00",
     "end": "2025-12-10T16:30:00+00:00",
@@ -466,5 +466,23 @@
     "start": "2025-12-08T12:30:00+00:00",
     "end": "2025-12-08T15:30:00+00:00",
     "duration": 10800
+  },
+  "DSAMONDAY16": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY16",
+    "event": "Monday Munch - DSA Challenge 16",
+    "href": "https://www.codechef.com/DSAMONDAY16",
+    "start": "2025-12-15T12:30:00+00:00",
+    "end": "2025-12-15T15:30:00+00:00",
+    "duration": 10800
+  },
+  "DEVWEEKEND28": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND28",
+    "event": "Weekend Dev Challenge 28: SQL Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND28",
+    "start": "2025-12-12T18:30:00+00:00",
+    "end": "2025-12-14T18:30:00+00:00",
+    "duration": 172800
   }
 }
