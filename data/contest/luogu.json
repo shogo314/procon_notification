@@ -1303,5 +1303,41 @@
     "start": "2025-12-14T06:30:00+00:00",
     "end": "2025-12-14T10:30:00+00:00",
     "duration": 14400
+  },
+  "298165": {
+    "resource": "luogu.com.cn",
+    "id": "298165",
+    "event": "【LGR-259-Div.4】洛谷入门赛 #42",
+    "href": "https://www.luogu.com.cn/contest/298165",
+    "start": "2025-12-26T11:00:00+00:00",
+    "end": "2025-12-26T13:00:00+00:00",
+    "duration": 7200
+  },
+  "298025": {
+    "resource": "luogu.com.cn",
+    "id": "298025",
+    "event": "[CCPC 2024 哈尔滨站] CCPC 2024 分站赛哈尔滨站重现赛",
+    "href": "https://www.luogu.com.cn/contest/298025",
+    "start": "2025-12-20T05:00:00+00:00",
+    "end": "2025-12-20T10:00:00+00:00",
+    "duration": 18000
+  },
+  "296955": {
+    "resource": "luogu.com.cn",
+    "id": "296955",
+    "event": "COCI 2025/2026 #3 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/296955",
+    "start": "2025-12-17T07:00:00+00:00",
+    "end": "2025-12-17T10:00:00+00:00",
+    "duration": 10800
+  },
+  "296933": {
+    "resource": "luogu.com.cn",
+    "id": "296933",
+    "event": "东北大学秦皇岛分校第十三届“图灵杯”程序设计竞赛",
+    "href": "https://www.luogu.com.cn/contest/296933",
+    "start": "2025-12-14T03:30:00+00:00",
+    "end": "2025-12-14T08:30:00+00:00",
+    "duration": 18000
   }
 }

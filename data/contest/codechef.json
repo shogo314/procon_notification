@@ -484,5 +484,14 @@
     "start": "2025-12-12T18:30:00+00:00",
     "end": "2025-12-14T18:30:00+00:00",
     "duration": 172800
+  },
+  "DEVWEEKEND29": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND29",
+    "event": "Weekend Dev Challenge 29: SQL Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND29",
+    "start": "2025-12-19T18:30:00+00:00",
+    "end": "2025-12-21T18:30:00+00:00",
+    "duration": 172800
   }
 }

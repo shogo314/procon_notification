@@ -106,5 +106,14 @@
     "start": "2025-11-23T04:05:00+00:00",
     "end": "2025-11-23T05:45:00+00:00",
     "duration": 6000
+  },
+  "teracoder2025": {
+    "resource": "mofecoder.com",
+    "id": "teracoder2025",
+    "event": "TeraCoder2025",
+    "href": "https://mofecoder.com/contests/teracoder2025",
+    "start": "2025-12-27T05:00:00+00:00",
+    "end": "2025-12-27T06:30:00+00:00",
+    "duration": 5400
   }
 }

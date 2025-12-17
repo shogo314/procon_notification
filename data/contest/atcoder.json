@@ -538,5 +538,41 @@
     "start": "2026-01-03T12:00:00+00:00",
     "end": "2026-01-03T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc440": {
+    "resource": "atcoder.jp",
+    "id": "abc440",
+    "event": "AtCoder Beginner Contest 440 (Promotion of Engineer Guild Fes)",
+    "href": "https://atcoder.jp/contests/abc440",
+    "start": "2026-01-10T12:00:00+00:00",
+    "end": "2026-01-10T13:40:00+00:00",
+    "duration": 6000
+  },
+  "arc212": {
+    "resource": "atcoder.jp",
+    "id": "arc212",
+    "event": "AtCoder Regular Contest 212 (Div. 2)",
+    "href": "https://atcoder.jp/contests/arc212",
+    "start": "2026-01-11T12:00:00+00:00",
+    "end": "2026-01-11T14:00:00+00:00",
+    "duration": 7200
+  },
+  "abc441": {
+    "resource": "atcoder.jp",
+    "id": "abc441",
+    "event": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+    "href": "https://atcoder.jp/contests/abc441",
+    "start": "2026-01-17T12:00:00+00:00",
+    "end": "2026-01-17T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc060": {
+    "resource": "atcoder.jp",
+    "id": "ahc060",
+    "event": "RECRUIT 日本橋ハーフマラソン 2026冬（AtCoder Heuristic Contest 060）",
+    "href": "https://atcoder.jp/contests/ahc060",
+    "start": "2026-02-01T10:00:00+00:00",
+    "end": "2026-02-01T14:00:00+00:00",
+    "duration": 14400
   }
 }
