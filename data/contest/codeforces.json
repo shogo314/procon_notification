@@ -524,7 +524,7 @@
   "2179": {
     "resource": "codeforces.com",
     "id": "2179",
-    "event": "Codeforces Round (Div. 3)",
+    "event": "Codeforces Round 1071 (Div. 3)",
     "href": "https://codeforces.com/contests/2179",
     "start": "2025-12-23T14:35:00+00:00",
     "end": "2025-12-23T17:05:00+00:00",
@@ -547,5 +547,14 @@
     "start": "2025-12-17T08:05:00+00:00",
     "end": "2025-12-17T13:05:00+00:00",
     "duration": 18000
+  },
+  "2182": {
+    "resource": "codeforces.com",
+    "id": "2182",
+    "event": "Educational Codeforces Round 186 (Rated for Div. 2)",
+    "href": "https://codeforces.com/contests/2182",
+    "start": "2025-12-29T14:35:00+00:00",
+    "end": "2025-12-29T16:35:00+00:00",
+    "duration": 7200
   }
 }

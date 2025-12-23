@@ -709,5 +709,23 @@
     "start": "2025-12-26T11:00:00+00:00",
     "end": "2025-12-26T13:00:00+00:00",
     "duration": 7200
+  },
+  "126120": {
+    "resource": "ac.nowcoder.com",
+    "id": "126120",
+    "event": "牛客周赛 Round 124",
+    "href": "https://ac.nowcoder.com/acm/contest/126120",
+    "start": "2025-12-28T11:00:00+00:00",
+    "end": "2025-12-28T13:00:00+00:00",
+    "duration": 7200
+  },
+  "126319": {
+    "resource": "ac.nowcoder.com",
+    "id": "126319",
+    "event": "牛客周赛 Round 125",
+    "href": "https://ac.nowcoder.com/acm/contest/126319",
+    "start": "2026-01-04T11:00:00+00:00",
+    "end": "2026-01-04T13:00:00+00:00",
+    "duration": 7200
   }
 }

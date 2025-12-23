@@ -574,5 +574,32 @@
     "start": "2026-02-01T10:00:00+00:00",
     "end": "2026-02-01T14:00:00+00:00",
     "duration": 14400
+  },
+  "xmascon25": {
+    "resource": "atcoder.jp",
+    "id": "xmascon25",
+    "event": "Xmas Contest 2025",
+    "href": "https://atcoder.jp/contests/xmascon25",
+    "start": "2025-12-24T10:00:00+00:00",
+    "end": "2025-12-24T14:00:00+00:00",
+    "duration": 14400
+  },
+  "ahc059": {
+    "resource": "atcoder.jp",
+    "id": "ahc059",
+    "event": "AtCoder Heuristic Contest 059",
+    "href": "https://atcoder.jp/contests/ahc059",
+    "start": "2026-01-10T06:00:00+00:00",
+    "end": "2026-01-10T10:00:00+00:00",
+    "duration": 14400
+  },
+  "abc442": {
+    "resource": "atcoder.jp",
+    "id": "abc442",
+    "event": "JPRSプログラミングコンテスト2026#1（AtCoder Beginner Contest 442）",
+    "href": "https://atcoder.jp/contests/abc442",
+    "start": "2026-01-24T12:00:00+00:00",
+    "end": "2026-01-24T13:40:00+00:00",
+    "duration": 6000
   }
 }
