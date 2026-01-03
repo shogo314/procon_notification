@@ -556,5 +556,23 @@
     "start": "2025-12-29T14:35:00+00:00",
     "end": "2025-12-29T16:35:00+00:00",
     "duration": 7200
+  },
+  "2183": {
+    "resource": "codeforces.com",
+    "id": "2183",
+    "event": "Hello 2026",
+    "href": "https://codeforces.com/contests/2183",
+    "start": "2026-01-07T14:35:00+00:00",
+    "end": "2026-01-07T17:35:00+00:00",
+    "duration": 10800
+  },
+  "2184": {
+    "resource": "codeforces.com",
+    "id": "2184",
+    "event": "Codeforces Round (Div. 3)",
+    "href": "https://codeforces.com/contests/2184",
+    "start": "2026-01-12T14:35:00+00:00",
+    "end": "2026-01-12T16:50:00+00:00",
+    "duration": 8100
   }
 }

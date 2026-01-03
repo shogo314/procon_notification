@@ -601,5 +601,14 @@
     "start": "2026-01-24T12:00:00+00:00",
     "end": "2026-01-24T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc443": {
+    "resource": "atcoder.jp",
+    "id": "abc443",
+    "event": "デンソークリエイトプログラミングコンテスト2026（AtCoder Beginner Contest 443）",
+    "href": "https://atcoder.jp/contests/abc443",
+    "start": "2026-01-31T12:00:00+00:00",
+    "end": "2026-01-31T13:40:00+00:00",
+    "duration": 6000
   }
 }
