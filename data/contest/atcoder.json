@@ -610,5 +610,23 @@
     "start": "2026-01-31T12:00:00+00:00",
     "end": "2026-01-31T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc444": {
+    "resource": "atcoder.jp",
+    "id": "abc444",
+    "event": "AtCoder Beginner Contest 444",
+    "href": "https://atcoder.jp/contests/abc444",
+    "start": "2026-02-07T12:00:00+00:00",
+    "end": "2026-02-07T13:40:00+00:00",
+    "duration": 6000
+  },
+  "masters2026-qual": {
+    "resource": "atcoder.jp",
+    "id": "masters2026-qual",
+    "event": "第三回マスターズ選手権-予選-",
+    "href": "https://atcoder.jp/contests/masters2026-qual",
+    "start": "2026-03-01T04:00:00+00:00",
+    "end": "2026-03-01T10:00:00+00:00",
+    "duration": 21600
   }
 }

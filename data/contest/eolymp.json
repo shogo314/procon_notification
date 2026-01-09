@@ -196,5 +196,23 @@
     "start": "2026-01-04T15:00:00+00:00",
     "end": "2026-01-04T17:00:00+00:00",
     "duration": 7200
+  },
+  "68ise1j0d17fp04bqe407psjqg": {
+    "resource": "basecamp.eolymp.com",
+    "id": "68ise1j0d17fp04bqe407psjqg",
+    "event": "Weekend Practice #17",
+    "href": "https://basecamp.eolymp.com/en/contests/68ise1j0d17fp04bqe407psjqg",
+    "start": "2026-01-18T15:00:00+00:00",
+    "end": "2026-01-18T17:00:00+00:00",
+    "duration": 7200
+  },
+  "94ulnr964l011arqjc94v5e5sk": {
+    "resource": "basecamp.eolymp.com",
+    "id": "94ulnr964l011arqjc94v5e5sk",
+    "event": "Blitz Round #10",
+    "href": "https://basecamp.eolymp.com/en/contests/94ulnr964l011arqjc94v5e5sk",
+    "start": "2026-01-11T11:00:00+00:00",
+    "end": "2026-01-11T12:30:00+00:00",
+    "duration": 5400
   }
 }

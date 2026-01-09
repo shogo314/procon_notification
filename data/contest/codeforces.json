@@ -569,10 +569,19 @@
   "2184": {
     "resource": "codeforces.com",
     "id": "2184",
-    "event": "Codeforces Round (Div. 3)",
+    "event": "Codeforces Round 1072 (Div. 3)",
     "href": "https://codeforces.com/contests/2184",
     "start": "2026-01-12T14:35:00+00:00",
     "end": "2026-01-12T16:50:00+00:00",
+    "duration": 8100
+  },
+  "2185": {
+    "resource": "codeforces.com",
+    "id": "2185",
+    "event": "Codeforces Round (Div. 4)",
+    "href": "https://codeforces.com/contests/2185",
+    "start": "2026-01-18T14:35:00+00:00",
+    "end": "2026-01-18T16:50:00+00:00",
     "duration": 8100
   }
 }

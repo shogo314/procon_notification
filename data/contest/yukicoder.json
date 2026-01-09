@@ -238,8 +238,8 @@
     "id": "574",
     "event": "yukicoder contest Go on Back!!",
     "href": "https://yukicoder.me/contests/574",
-    "start": "2026-01-09T12:20:00+00:00",
-    "end": "2026-01-09T14:20:00+00:00",
+    "start": "2026-01-23T12:20:00+00:00",
+    "end": "2026-01-23T14:20:00+00:00",
     "duration": 7200
   },
   "576": {
@@ -277,5 +277,23 @@
     "start": "2026-02-28T04:30:00+00:00",
     "end": "2026-02-28T07:30:00+00:00",
     "duration": 10800
+  },
+  "566": {
+    "resource": "yukicoder.me",
+    "id": "566",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/566",
+    "start": "2026-02-13T12:20:00+00:00",
+    "end": "2026-02-13T14:20:00+00:00",
+    "duration": 7200
+  },
+  "569": {
+    "resource": "yukicoder.me",
+    "id": "569",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/569",
+    "start": "2026-02-20T12:20:00+00:00",
+    "end": "2026-02-20T14:20:00+00:00",
+    "duration": 7200
   }
 }
