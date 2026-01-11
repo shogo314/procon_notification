@@ -3,7 +3,7 @@
     "resource": "repovive.com",
     "id": "1",
     "event": "Repovive Testing Round #1",
-    "href": "https://repovive.com/contests",
+    "href": "https://repovive.com/contests/1",
     "start": "2025-12-02T14:35:00+00:00",
     "end": "2025-12-02T16:35:00+00:00",
     "duration": 7200
@@ -12,7 +12,7 @@
     "resource": "repovive.com",
     "id": "2",
     "event": "Repovive Testing Round #2",
-    "href": "https://repovive.com/contests",
+    "href": "https://repovive.com/contests/2",
     "start": "2025-12-10T14:35:00+00:00",
     "end": "2025-12-10T16:35:00+00:00",
     "duration": 7200
@@ -21,7 +21,7 @@
     "resource": "repovive.com",
     "id": "3",
     "event": "Repovive Testing Round #3",
-    "href": "https://repovive.com/contests",
+    "href": "https://repovive.com/contests/3",
     "start": "2025-12-13T14:35:00+00:00",
     "end": "2025-12-13T16:35:00+00:00",
     "duration": 7200
@@ -30,9 +30,27 @@
     "resource": "repovive.com",
     "id": "4",
     "event": "Repovive Opening Round",
-    "href": "https://repovive.com/contests",
+    "href": "https://repovive.com/contests/4",
     "start": "2025-12-14T14:35:00+00:00",
-    "end": "2025-12-14T16:35:00+00:00",
-    "duration": 7200
+    "end": "2025-12-14T17:35:00+00:00",
+    "duration": 10800
+  },
+  "5": {
+    "resource": "repovive.com",
+    "id": "5",
+    "event": "Repovive Goodbye 2025 Round",
+    "href": "https://repovive.com/contests/5",
+    "start": "2025-12-28T15:35:00+00:00",
+    "end": "2025-12-28T18:35:00+00:00",
+    "duration": 10800
+  },
+  "6": {
+    "resource": "repovive.com",
+    "id": "6",
+    "event": "Repovive Hello 2026 Round",
+    "href": "https://repovive.com/contests",
+    "start": "2026-01-18T14:35:00+00:00",
+    "end": "2026-01-18T17:35:00+00:00",
+    "duration": 10800
   }
 }
