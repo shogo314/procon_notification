@@ -1420,5 +1420,23 @@
     "start": "2025-01-18T06:00:00+00:00",
     "end": "2025-01-18T10:00:00+00:00",
     "duration": 14400
+  },
+  "266133": {
+    "resource": "luogu.com.cn",
+    "id": "266133",
+    "event": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9",
+    "href": "https://www.luogu.com.cn/contest/266133",
+    "start": "2025-01-24T06:00:00+00:00",
+    "end": "2025-01-24T10:00:00+00:00",
+    "duration": 14400
+  },
+  "302723": {
+    "resource": "luogu.com.cn",
+    "id": "302723",
+    "event": "『LHB-OI』Round 1",
+    "href": "https://www.luogu.com.cn/contest/302723",
+    "start": "2025-01-17T00:00:00+00:00",
+    "end": "2025-01-17T04:00:00+00:00",
+    "duration": 14400
   }
 }

@@ -628,5 +628,23 @@
     "start": "2026-03-01T04:00:00+00:00",
     "end": "2026-03-01T10:00:00+00:00",
     "duration": 21600
+  },
+  "arc213": {
+    "resource": "atcoder.jp",
+    "id": "arc213",
+    "event": "AtCoder Regular Contest 213 (Div. 1)",
+    "href": "https://atcoder.jp/contests/arc213",
+    "start": "2026-01-25T12:00:00+00:00",
+    "end": "2026-01-25T14:30:00+00:00",
+    "duration": 9000
+  },
+  "ahc061": {
+    "resource": "atcoder.jp",
+    "id": "ahc061",
+    "event": "THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）",
+    "href": "https://atcoder.jp/contests/ahc061",
+    "start": "2026-02-13T10:00:00+00:00",
+    "end": "2026-02-23T10:00:00+00:00",
+    "duration": 864000
   }
 }

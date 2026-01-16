@@ -556,5 +556,14 @@
     "start": "2026-01-09T18:30:00+00:00",
     "end": "2026-01-11T18:30:00+00:00",
     "duration": 172800
+  },
+  "DEVWEEKEND33": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND33",
+    "event": "Weekend Dev Challenge 33: Data Analysis & Visualization Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND33",
+    "start": "2026-01-16T18:30:00+00:00",
+    "end": "2026-01-18T18:30:00+00:00",
+    "duration": 172800
   }
 }
