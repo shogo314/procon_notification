@@ -646,5 +646,32 @@
     "start": "2026-02-13T10:00:00+00:00",
     "end": "2026-02-23T10:00:00+00:00",
     "duration": 864000
+  },
+  "utpc2025": {
+    "resource": "atcoder.jp",
+    "id": "utpc2025",
+    "event": "UTPC 2025",
+    "href": "https://atcoder.jp/contests/utpc2025",
+    "start": "2026-02-14T04:00:00+00:00",
+    "end": "2026-02-14T09:00:00+00:00",
+    "duration": 18000
+  },
+  "abc445": {
+    "resource": "atcoder.jp",
+    "id": "abc445",
+    "event": "AtCoder Beginner Contest 445",
+    "href": "https://atcoder.jp/contests/abc445",
+    "start": "2026-02-14T12:00:00+00:00",
+    "end": "2026-02-14T13:40:00+00:00",
+    "duration": 6000
+  },
+  "abc446": {
+    "resource": "atcoder.jp",
+    "id": "abc446",
+    "event": "AtCoder Beginner Contest 446",
+    "href": "https://atcoder.jp/contests/abc446",
+    "start": "2026-02-21T12:00:00+00:00",
+    "end": "2026-02-21T13:40:00+00:00",
+    "duration": 6000
   }
 }

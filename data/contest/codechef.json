@@ -533,7 +533,7 @@
   "START222": {
     "resource": "codechef.com",
     "id": "START222",
-    "event": "Starters 222",
+    "event": "Starters 222 (Rated till 6 star)",
     "href": "https://www.codechef.com/START222",
     "start": "2026-01-21T14:30:00+00:00",
     "end": "2026-01-21T16:30:00+00:00",
@@ -564,6 +564,15 @@
     "href": "https://www.codechef.com/DEVWEEKEND33",
     "start": "2026-01-16T18:30:00+00:00",
     "end": "2026-01-18T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DEVWEEKEND34": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND34",
+    "event": "Weekend Dev Challenge 34: Data Analysis & Visualization Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND34",
+    "start": "2026-01-23T18:30:00+00:00",
+    "end": "2026-01-25T18:30:00+00:00",
     "duration": 172800
   }
 }

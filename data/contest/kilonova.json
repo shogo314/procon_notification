@@ -844,5 +844,14 @@
     "start": "2026-01-10T08:00:00+00:00",
     "end": "2026-01-10T11:00:00+00:00",
     "duration": 10800
+  },
+  "2326": {
+    "resource": "kilonova.ro",
+    "id": "2326",
+    "event": "Baraj Juniori București Info(1) Mirror",
+    "href": "https://kilonova.ro/contests/2326",
+    "start": "2026-01-18T13:00:00+00:00",
+    "end": "2026-01-25T21:00:00+00:00",
+    "duration": 633600
   }
 }
