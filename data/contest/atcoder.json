@@ -673,5 +673,14 @@
     "start": "2026-02-21T12:00:00+00:00",
     "end": "2026-02-21T13:40:00+00:00",
     "duration": 6000
+  },
+  "KeioPC2025": {
+    "resource": "atcoder.jp",
+    "id": "KeioPC2025",
+    "event": "慶應義塾大学プログラミングコンテスト 2025",
+    "href": "https://atcoder.jp/contests/KeioPC2025",
+    "start": "2026-02-15T04:00:00+00:00",
+    "end": "2026-02-15T09:00:00+00:00",
+    "duration": 18000
   }
 }

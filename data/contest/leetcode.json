@@ -421,5 +421,14 @@
     "start": "2026-01-25T02:30:00+00:00",
     "end": "2026-01-25T04:00:00+00:00",
     "duration": 5400
+  },
+  "weekly-contest-487": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-487",
+    "event": "Weekly Contest 487",
+    "href": "https://leetcode.com/contest/weekly-contest-487",
+    "start": "2026-02-01T02:30:00+00:00",
+    "end": "2026-02-01T04:00:00+00:00",
+    "duration": 5400
   }
 }

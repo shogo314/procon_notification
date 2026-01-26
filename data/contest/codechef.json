@@ -574,5 +574,14 @@
     "start": "2026-01-23T18:30:00+00:00",
     "end": "2026-01-25T18:30:00+00:00",
     "duration": 172800
+  },
+  "DSAMONDAY22": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY22",
+    "event": "Monday Munch - DSA Challenge 22",
+    "href": "https://www.codechef.com/DSAMONDAY22",
+    "start": "2026-01-26T12:30:00+00:00",
+    "end": "2026-01-26T15:30:00+00:00",
+    "duration": 10800
   }
 }

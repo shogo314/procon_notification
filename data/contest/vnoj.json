@@ -79,5 +79,14 @@
     "start": "2026-01-16T13:00:00+00:00",
     "end": "2026-01-23T13:00:00+00:00",
     "duration": 604800
+  },
+  "coding_challenge_7": {
+    "resource": "oj.vnoi.info",
+    "id": "coding_challenge_7",
+    "event": "Tạp chí VNOI - Coding Challenge #7",
+    "href": "https://oj.vnoi.info/contest/coding_challenge_7",
+    "start": "2026-01-30T13:00:00+00:00",
+    "end": "2026-02-06T13:00:00+00:00",
+    "duration": 604800
   }
 }

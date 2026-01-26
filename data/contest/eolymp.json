@@ -241,5 +241,14 @@
     "start": "2026-01-25T13:00:00+00:00",
     "end": "2026-01-25T14:30:00+00:00",
     "duration": 5400
+  },
+  "rdm1k2j4hl01t781obt10ku2lo": {
+    "resource": "basecamp.eolymp.com",
+    "id": "rdm1k2j4hl01t781obt10ku2lo",
+    "event": "Weekend Practice #18",
+    "href": "https://basecamp.eolymp.com/en/contests/rdm1k2j4hl01t781obt10ku2lo",
+    "start": "2026-02-01T15:00:00+00:00",
+    "end": "2026-02-01T17:00:00+00:00",
+    "duration": 7200
   }
 }
