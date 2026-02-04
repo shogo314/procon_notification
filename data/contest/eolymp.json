@@ -250,5 +250,14 @@
     "start": "2026-02-01T15:00:00+00:00",
     "end": "2026-02-01T17:00:00+00:00",
     "duration": 7200
+  },
+  "qjgameovtl0l7dprd0o9efta48": {
+    "resource": "basecamp.eolymp.com",
+    "id": "qjgameovtl0l7dprd0o9efta48",
+    "event": "Blitz Round #12",
+    "href": "https://basecamp.eolymp.com/en/contests/qjgameovtl0l7dprd0o9efta48",
+    "start": "2026-02-08T11:00:00+00:00",
+    "end": "2026-02-08T12:30:00+00:00",
+    "duration": 5400
   }
 }

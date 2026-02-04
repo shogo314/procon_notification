@@ -808,5 +808,68 @@
     "start": "2026-02-01T11:00:00+00:00",
     "end": "2026-02-01T13:00:00+00:00",
     "duration": 7200
+  },
+  "120563": {
+    "resource": "ac.nowcoder.com",
+    "id": "120563",
+    "event": "2026牛客寒假算法基础集训营3",
+    "href": "https://ac.nowcoder.com/acm/contest/120563",
+    "start": "2026-02-07T06:00:00+00:00",
+    "end": "2026-02-07T10:00:00+00:00",
+    "duration": 14400
+  },
+  "127702": {
+    "resource": "ac.nowcoder.com",
+    "id": "127702",
+    "event": "牛客周赛 Round 130",
+    "href": "https://ac.nowcoder.com/acm/contest/127702",
+    "start": "2026-02-08T11:00:00+00:00",
+    "end": "2026-02-08T13:00:00+00:00",
+    "duration": 7200
+  },
+  "120564": {
+    "resource": "ac.nowcoder.com",
+    "id": "120564",
+    "event": "2026牛客寒假算法基础集训营4",
+    "href": "https://ac.nowcoder.com/acm/contest/120564",
+    "start": "2026-02-09T06:00:00+00:00",
+    "end": "2026-02-09T10:00:00+00:00",
+    "duration": 14400
+  },
+  "120565": {
+    "resource": "ac.nowcoder.com",
+    "id": "120565",
+    "event": "2026牛客寒假算法基础集训营5",
+    "href": "https://ac.nowcoder.com/acm/contest/120565",
+    "start": "2026-02-11T06:00:00+00:00",
+    "end": "2026-02-11T10:00:00+00:00",
+    "duration": 14400
+  },
+  "120566": {
+    "resource": "ac.nowcoder.com",
+    "id": "120566",
+    "event": "2026牛客寒假算法基础集训营6",
+    "href": "https://ac.nowcoder.com/acm/contest/120566",
+    "start": "2026-02-13T06:00:00+00:00",
+    "end": "2026-02-13T10:00:00+00:00",
+    "duration": 14400
+  },
+  "127703": {
+    "resource": "ac.nowcoder.com",
+    "id": "127703",
+    "event": "牛客周赛 Round 131",
+    "href": "https://ac.nowcoder.com/acm/contest/127703",
+    "start": "2026-02-15T11:00:00+00:00",
+    "end": "2026-02-15T13:00:00+00:00",
+    "duration": 7200
+  },
+  "127676": {
+    "resource": "ac.nowcoder.com",
+    "id": "127676",
+    "event": "牛客2026年除夕娱乐赛",
+    "href": "https://ac.nowcoder.com/acm/contest/127676",
+    "start": "2026-02-16T15:00:00+00:00",
+    "end": "2026-02-16T17:00:00+00:00",
+    "duration": 7200
   }
 }

@@ -295,5 +295,32 @@
     "start": "2026-02-20T12:20:00+00:00",
     "end": "2026-02-20T14:20:00+00:00",
     "duration": 7200
+  },
+  "580": {
+    "resource": "yukicoder.me",
+    "id": "580",
+    "event": "CPCTF 2026: PPC",
+    "href": "https://yukicoder.me/contests/580",
+    "start": "2026-04-17T11:00:00+00:00",
+    "end": "2026-04-19T11:00:00+00:00",
+    "duration": 172800
+  },
+  "582": {
+    "resource": "yukicoder.me",
+    "id": "582",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/582",
+    "start": "2026-04-24T12:20:00+00:00",
+    "end": "2026-04-24T14:20:00+00:00",
+    "duration": 7200
+  },
+  "581": {
+    "resource": "yukicoder.me",
+    "id": "581",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/581",
+    "start": "2026-04-27T12:20:00+00:00",
+    "end": "2026-04-27T14:20:00+00:00",
+    "duration": 7200
   }
 }

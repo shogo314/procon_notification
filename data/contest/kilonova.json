@@ -853,5 +853,14 @@
     "start": "2026-01-18T13:00:00+00:00",
     "end": "2026-01-25T21:00:00+00:00",
     "duration": 633600
+  },
+  "2425": {
+    "resource": "kilonova.ro",
+    "id": "2425",
+    "event": "RoAlgo Cup 1",
+    "href": "https://kilonova.ro/contests/2425",
+    "start": "2026-02-08T13:00:00+00:00",
+    "end": "2026-02-08T17:00:00+00:00",
+    "duration": 14400
   }
 }

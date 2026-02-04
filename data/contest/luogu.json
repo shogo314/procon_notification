@@ -1483,5 +1483,68 @@
     "start": "2025-01-24T09:00:00+00:00",
     "end": "2025-02-04T09:00:00+00:00",
     "duration": 950400
+  },
+  "305706": {
+    "resource": "luogu.com.cn",
+    "id": "305706",
+    "event": "FeSo4OI Long Round #1 春节欢乐赛",
+    "href": "https://www.luogu.com.cn/contest/305706",
+    "start": "2025-02-19T00:00:00+00:00",
+    "end": "2025-02-21T12:00:00+00:00",
+    "duration": 216000
+  },
+  "273960": {
+    "resource": "luogu.com.cn",
+    "id": "273960",
+    "event": "【LGR-264-Div.3】洛谷基础赛 #30 & YLLOI Round 3",
+    "href": "https://www.luogu.com.cn/contest/273960",
+    "start": "2025-02-12T06:00:00+00:00",
+    "end": "2025-02-12T09:30:00+00:00",
+    "duration": 12600
+  },
+  "282947": {
+    "resource": "luogu.com.cn",
+    "id": "282947",
+    "event": "【LGR-267-Div.2】洛谷 2 月月赛 II & UTOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/282947",
+    "start": "2025-02-11T06:00:00+00:00",
+    "end": "2025-02-11T10:00:00+00:00",
+    "duration": 14400
+  },
+  "303869": {
+    "resource": "luogu.com.cn",
+    "id": "303869",
+    "event": "NOSOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/303869",
+    "start": "2025-02-10T06:00:00+00:00",
+    "end": "2025-02-10T10:00:00+00:00",
+    "duration": 14400
+  },
+  "236252": {
+    "resource": "luogu.com.cn",
+    "id": "236252",
+    "event": "【LGR-266-Div.2】洛谷 2 月月赛 I &「CROI」Round 3",
+    "href": "https://www.luogu.com.cn/contest/236252",
+    "start": "2025-02-08T06:00:00+00:00",
+    "end": "2025-02-08T10:00:00+00:00",
+    "duration": 14400
+  },
+  "274734": {
+    "resource": "luogu.com.cn",
+    "id": "274734",
+    "event": "「LCOI」Round 1",
+    "href": "https://www.luogu.com.cn/contest/274734",
+    "start": "2025-02-07T06:00:00+00:00",
+    "end": "2025-02-07T10:00:00+00:00",
+    "duration": 14400
+  },
+  "305806": {
+    "resource": "luogu.com.cn",
+    "id": "305806",
+    "event": "COCI 2025/2026 #4 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/305806",
+    "start": "2025-02-06T07:00:00+00:00",
+    "end": "2025-02-06T10:00:00+00:00",
+    "duration": 10800
   }
 }

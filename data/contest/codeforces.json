@@ -664,5 +664,41 @@
     "start": "2026-02-15T14:35:00+00:00",
     "end": "2026-02-15T16:50:00+00:00",
     "duration": 8100
+  },
+  "2199": {
+    "resource": "codeforces.com",
+    "id": "2199",
+    "event": "Kotlin Heroes: Episode 14",
+    "href": "https://codeforces.com/contests/2199",
+    "start": "2026-03-02T14:35:00+00:00",
+    "end": "2026-03-02T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2197": {
+    "resource": "codeforces.com",
+    "id": "2197",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2197",
+    "start": "2026-02-11T14:35:00+00:00",
+    "end": "2026-02-11T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2196": {
+    "resource": "codeforces.com",
+    "id": "2196",
+    "event": "Codeforces Round (Div. 1)",
+    "href": "https://codeforces.com/contests/2196",
+    "start": "2026-02-11T14:35:00+00:00",
+    "end": "2026-02-11T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2198": {
+    "resource": "codeforces.com",
+    "id": "2198",
+    "event": "Kotlin Heroes: Practice 14",
+    "href": "https://codeforces.com/contests/2198",
+    "start": "2026-02-21T14:30:00+00:00",
+    "end": "2026-03-02T14:30:00+00:00",
+    "duration": 777600
   }
 }

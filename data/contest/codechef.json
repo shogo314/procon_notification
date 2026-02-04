@@ -583,5 +583,50 @@
     "start": "2026-01-26T12:30:00+00:00",
     "end": "2026-01-26T15:30:00+00:00",
     "duration": 10800
+  },
+  "START227": {
+    "resource": "codechef.com",
+    "id": "START227",
+    "event": "Starters 227",
+    "href": "https://www.codechef.com/START227",
+    "start": "2026-02-25T14:30:00+00:00",
+    "end": "2026-02-25T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START225": {
+    "resource": "codechef.com",
+    "id": "START225",
+    "event": "Starters 225",
+    "href": "https://www.codechef.com/START225",
+    "start": "2026-02-11T14:30:00+00:00",
+    "end": "2026-02-11T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START226": {
+    "resource": "codechef.com",
+    "id": "START226",
+    "event": "Starters 226",
+    "href": "https://www.codechef.com/START226",
+    "start": "2026-02-18T14:30:00+00:00",
+    "end": "2026-02-18T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START224": {
+    "resource": "codechef.com",
+    "id": "START224",
+    "event": "Starters 224 (Rated till 6 star)",
+    "href": "https://www.codechef.com/START224",
+    "start": "2026-02-04T14:30:00+00:00",
+    "end": "2026-02-04T16:30:00+00:00",
+    "duration": 7200
+  },
+  "DEVWEEKEND36": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND36",
+    "event": "Weekend Dev Challenge 36: Spring Boot Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND36",
+    "start": "2026-02-06T18:30:00+00:00",
+    "end": "2026-02-08T18:30:00+00:00",
+    "duration": 172800
   }
 }
