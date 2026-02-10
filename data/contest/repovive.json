@@ -47,10 +47,19 @@
   "6": {
     "resource": "repovive.com",
     "id": "6",
-    "event": "Repovive Hello 2026 Round",
-    "href": "https://repovive.com/contests",
-    "start": "2026-01-18T14:35:00+00:00",
-    "end": "2026-01-18T17:35:00+00:00",
+    "event": "Repovive Premier Round 1",
+    "href": "https://repovive.com/contests/6",
+    "start": "2026-02-08T14:35:00+00:00",
+    "end": "2026-02-08T17:35:00+00:00",
+    "duration": 10800
+  },
+  "7": {
+    "resource": "repovive.com",
+    "id": "7",
+    "event": "Repovive Premier Round 2",
+    "href": "https://repovive.com/contests/7",
+    "start": "2026-02-15T14:35:00+00:00",
+    "end": "2026-02-15T17:35:00+00:00",
     "duration": 10800
   }
 }

@@ -668,7 +668,7 @@
   "abc446": {
     "resource": "atcoder.jp",
     "id": "abc446",
-    "event": "AtCoder Beginner Contest 446",
+    "event": "AtCoder × Engineer Guild オンサイトコンテスト ～ACからはじまる27卒キャリア～予選　（AtCoder Beginner Contest 446）",
     "href": "https://atcoder.jp/contests/abc446",
     "start": "2026-02-21T12:00:00+00:00",
     "end": "2026-02-21T13:40:00+00:00",
@@ -699,6 +699,69 @@
     "href": "https://atcoder.jp/contests/abc447",
     "start": "2026-02-28T12:00:00+00:00",
     "end": "2026-02-28T13:40:00+00:00",
+    "duration": 6000
+  },
+  "awc0001": {
+    "resource": "atcoder.jp",
+    "id": "awc0001",
+    "event": "AtCoder Weekday Contest 0001 Beta",
+    "href": "https://atcoder.jp/contests/awc0001",
+    "start": "2026-02-09T11:00:00+00:00",
+    "end": "2026-02-09T12:30:00+00:00",
+    "duration": 5400
+  },
+  "awc0002": {
+    "resource": "atcoder.jp",
+    "id": "awc0002",
+    "event": "AtCoder Weekday Contest 0002 Beta",
+    "href": "https://atcoder.jp/contests/awc0002",
+    "start": "2026-02-10T11:00:00+00:00",
+    "end": "2026-02-10T12:30:00+00:00",
+    "duration": 5400
+  },
+  "awc0003": {
+    "resource": "atcoder.jp",
+    "id": "awc0003",
+    "event": "AtCoder Weekday Contest 0003 Beta",
+    "href": "https://atcoder.jp/contests/awc0003",
+    "start": "2026-02-11T11:00:00+00:00",
+    "end": "2026-02-11T12:30:00+00:00",
+    "duration": 5400
+  },
+  "awc0004": {
+    "resource": "atcoder.jp",
+    "id": "awc0004",
+    "event": "AtCoder Weekday Contest 0004 Beta",
+    "href": "https://atcoder.jp/contests/awc0004",
+    "start": "2026-02-12T11:00:00+00:00",
+    "end": "2026-02-12T12:30:00+00:00",
+    "duration": 5400
+  },
+  "awc0005": {
+    "resource": "atcoder.jp",
+    "id": "awc0005",
+    "event": "AtCoder Weekday Contest 0005 Beta",
+    "href": "https://atcoder.jp/contests/awc0005",
+    "start": "2026-02-13T11:00:00+00:00",
+    "end": "2026-02-13T12:30:00+00:00",
+    "duration": 5400
+  },
+  "arc215": {
+    "resource": "atcoder.jp",
+    "id": "arc215",
+    "event": "AtCoder Regular Contest 215",
+    "href": "https://atcoder.jp/contests/arc215",
+    "start": "2026-02-22T12:00:00+00:00",
+    "end": "2026-02-22T14:00:00+00:00",
+    "duration": 7200
+  },
+  "abc448": {
+    "resource": "atcoder.jp",
+    "id": "abc448",
+    "event": "AtCoder Beginner Contest 448",
+    "href": "https://atcoder.jp/contests/abc448",
+    "start": "2026-03-07T12:00:00+00:00",
+    "end": "2026-03-07T13:40:00+00:00",
     "duration": 6000
   }
 }

@@ -862,5 +862,23 @@
     "start": "2026-02-08T13:00:00+00:00",
     "end": "2026-02-08T17:00:00+00:00",
     "duration": 14400
+  },
+  "2561": {
+    "resource": "kilonova.ro",
+    "id": "2561",
+    "event": "infO(1)Cup 2026 Day 1 - Mirror",
+    "href": "https://kilonova.ro/contests/2561",
+    "start": "2026-02-09T06:00:00+00:00",
+    "end": "2026-02-15T22:59:00+00:00",
+    "duration": 579540
+  },
+  "2562": {
+    "resource": "kilonova.ro",
+    "id": "2562",
+    "event": "infO(1)Cup 2026 Day 2 - Mirror",
+    "href": "https://kilonova.ro/contests/2562",
+    "start": "2026-02-09T06:00:00+00:00",
+    "end": "2026-02-15T22:59:00+00:00",
+    "duration": 579540
   }
 }

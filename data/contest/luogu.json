@@ -1546,5 +1546,32 @@
     "start": "2025-02-06T07:00:00+00:00",
     "end": "2025-02-06T10:00:00+00:00",
     "duration": 10800
+  },
+  "309581": {
+    "resource": "luogu.com.cn",
+    "id": "309581",
+    "event": "【MX-X24】梦熊 X 组 · RiOI-7（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/309581",
+    "start": "2025-02-14T06:00:00+00:00",
+    "end": "2025-02-14T10:30:00+00:00",
+    "duration": 16200
+  },
+  "293448": {
+    "resource": "luogu.com.cn",
+    "id": "293448",
+    "event": "NFC-OI Round 1",
+    "href": "https://www.luogu.com.cn/contest/293448",
+    "start": "2025-02-14T00:30:00+00:00",
+    "end": "2025-02-14T04:00:00+00:00",
+    "duration": 12600
+  },
+  "309179": {
+    "resource": "luogu.com.cn",
+    "id": "309179",
+    "event": "Google HashCode 启发式问题测试 I",
+    "href": "https://www.luogu.com.cn/contest/309179",
+    "start": "2025-02-07T11:00:00+00:00",
+    "end": "2025-02-11T11:00:00+00:00",
+    "duration": 345600
   }
 }
