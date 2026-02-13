@@ -650,11 +650,11 @@
   "2195": {
     "resource": "codeforces.com",
     "id": "2195",
-    "event": "Codeforces Round (Div. 3)",
+    "event": "Codeforces Round 1080 (Div. 3)",
     "href": "https://codeforces.com/contests/2195",
     "start": "2026-02-15T14:35:00+00:00",
-    "end": "2026-02-15T16:50:00+00:00",
-    "duration": 8100
+    "end": "2026-02-15T17:05:00+00:00",
+    "duration": 9000
   },
   "2199": {
     "resource": "codeforces.com",

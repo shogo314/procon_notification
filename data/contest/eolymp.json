@@ -259,5 +259,14 @@
     "start": "2026-02-08T11:00:00+00:00",
     "end": "2026-02-08T12:30:00+00:00",
     "duration": 5400
+  },
+  "qn51qrti910ch6lpn4ju3memsk": {
+    "resource": "basecamp.eolymp.com",
+    "id": "qn51qrti910ch6lpn4ju3memsk",
+    "event": "Weekend Practice #19",
+    "href": "https://basecamp.eolymp.com/en/contests/qn51qrti910ch6lpn4ju3memsk",
+    "start": "2026-02-15T17:00:00+00:00",
+    "end": "2026-02-15T19:00:00+00:00",
+    "duration": 7200
   }
 }

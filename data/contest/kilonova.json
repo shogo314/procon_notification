@@ -880,5 +880,140 @@
     "start": "2026-02-09T06:00:00+00:00",
     "end": "2026-02-15T22:59:00+00:00",
     "duration": 579540
+  },
+  "2394": {
+    "resource": "kilonova.ro",
+    "id": "2394",
+    "event": "RoAlgo PreOJI 2026 V",
+    "href": "https://kilonova.ro/contests/2394",
+    "start": "2026-02-15T22:00:00+00:00",
+    "end": "2026-02-22T22:00:00+00:00",
+    "duration": 604800
+  },
+  "2395": {
+    "resource": "kilonova.ro",
+    "id": "2395",
+    "event": "RoAlgo PreOJI 2026 VI",
+    "href": "https://kilonova.ro/contests/2395",
+    "start": "2026-02-15T22:00:00+00:00",
+    "end": "2026-02-22T22:00:00+00:00",
+    "duration": 604800
+  },
+  "2396": {
+    "resource": "kilonova.ro",
+    "id": "2396",
+    "event": "RoAlgo PreOJI 2026 VII",
+    "href": "https://kilonova.ro/contests/2396",
+    "start": "2026-02-15T22:00:00+00:00",
+    "end": "2026-02-22T22:00:00+00:00",
+    "duration": 604800
+  },
+  "2397": {
+    "resource": "kilonova.ro",
+    "id": "2397",
+    "event": "RoAlgo PreOJI 2026 VIII",
+    "href": "https://kilonova.ro/contests/2397",
+    "start": "2026-02-15T22:00:00+00:00",
+    "end": "2026-02-22T22:00:00+00:00",
+    "duration": 604800
+  },
+  "2398": {
+    "resource": "kilonova.ro",
+    "id": "2398",
+    "event": "RoAlgo PreOJI 2026 IX",
+    "href": "https://kilonova.ro/contests/2398",
+    "start": "2026-02-15T22:00:00+00:00",
+    "end": "2026-02-22T22:00:00+00:00",
+    "duration": 604800
+  },
+  "2399": {
+    "resource": "kilonova.ro",
+    "id": "2399",
+    "event": "RoAlgo PreOJI 2026 X",
+    "href": "https://kilonova.ro/contests/2399",
+    "start": "2026-02-15T22:00:00+00:00",
+    "end": "2026-02-22T22:00:00+00:00",
+    "duration": 604800
+  },
+  "2400": {
+    "resource": "kilonova.ro",
+    "id": "2400",
+    "event": "RoAlgo PreOJI 2026 XI-XII",
+    "href": "https://kilonova.ro/contests/2400",
+    "start": "2026-02-15T22:00:00+00:00",
+    "end": "2026-02-22T22:00:00+00:00",
+    "duration": 604800
+  },
+  "2521": {
+    "resource": "kilonova.ro",
+    "id": "2521",
+    "event": "Olimpiada Locală Brașov 2026  VII",
+    "href": "https://kilonova.ro/contests/2521",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
+  },
+  "2522": {
+    "resource": "kilonova.ro",
+    "id": "2522",
+    "event": "Olimpiada Locală Brașov 2026  V",
+    "href": "https://kilonova.ro/contests/2522",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
+  },
+  "2523": {
+    "resource": "kilonova.ro",
+    "id": "2523",
+    "event": "Olimpiada Locală Brașov 2026  VI",
+    "href": "https://kilonova.ro/contests/2523",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
+  },
+  "2525": {
+    "resource": "kilonova.ro",
+    "id": "2525",
+    "event": "Olimpiada Locală Brașov 2026  IX",
+    "href": "https://kilonova.ro/contests/2525",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
+  },
+  "2526": {
+    "resource": "kilonova.ro",
+    "id": "2526",
+    "event": "Olimpiada Locală Brașov 2026  X",
+    "href": "https://kilonova.ro/contests/2526",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
+  },
+  "2527": {
+    "resource": "kilonova.ro",
+    "id": "2527",
+    "event": "Olimpiada Locală Brașov 2026  XI",
+    "href": "https://kilonova.ro/contests/2527",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
+  },
+  "2555": {
+    "resource": "kilonova.ro",
+    "id": "2555",
+    "event": "Olimpiada Locală Brașov 2026 VIII",
+    "href": "https://kilonova.ro/contests/2555",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
+  },
+  "2556": {
+    "resource": "kilonova.ro",
+    "id": "2556",
+    "event": "Olimpiada Locală Brașov 2026 XII",
+    "href": "https://kilonova.ro/contests/2556",
+    "start": "2026-02-10T07:00:00+00:00",
+    "end": "2026-02-10T10:00:00+00:00",
+    "duration": 10800
   }
 }

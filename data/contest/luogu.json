@@ -1550,7 +1550,7 @@
   "309581": {
     "resource": "luogu.com.cn",
     "id": "309581",
-    "event": "【MX-X24】梦熊 X 组 · RiOI-7（同步赛）",
+    "event": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛）",
     "href": "https://www.luogu.com.cn/contest/309581",
     "start": "2025-02-14T06:00:00+00:00",
     "end": "2025-02-14T10:30:00+00:00",
@@ -1573,5 +1573,32 @@
     "start": "2025-02-07T11:00:00+00:00",
     "end": "2025-02-11T11:00:00+00:00",
     "duration": 345600
+  },
+  "299754": {
+    "resource": "luogu.com.cn",
+    "id": "299754",
+    "event": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1",
+    "href": "https://www.luogu.com.cn/contest/299754",
+    "start": "2025-02-21T06:00:00+00:00",
+    "end": "2025-02-21T10:30:00+00:00",
+    "duration": 16200
+  },
+  "300994": {
+    "resource": "luogu.com.cn",
+    "id": "300994",
+    "event": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
+    "href": "https://www.luogu.com.cn/contest/300994",
+    "start": "2025-02-16T12:30:00+00:00",
+    "end": "2025-02-16T16:00:00+00:00",
+    "duration": 12600
+  },
+  "308153": {
+    "resource": "luogu.com.cn",
+    "id": "308153",
+    "event": "「LCOI」Round 2 & 除夕赛",
+    "href": "https://www.luogu.com.cn/contest/308153",
+    "start": "2025-02-16T06:00:00+00:00",
+    "end": "2025-02-16T08:30:00+00:00",
+    "duration": 9000
   }
 }
