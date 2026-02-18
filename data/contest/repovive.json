@@ -61,5 +61,14 @@
     "start": "2026-02-15T14:35:00+00:00",
     "end": "2026-02-15T17:35:00+00:00",
     "duration": 10800
+  },
+  "8": {
+    "resource": "repovive.com",
+    "id": "8",
+    "event": "Repovive Standard Round 1",
+    "href": "https://repovive.com/contests/8",
+    "start": "2026-02-23T14:35:00+00:00",
+    "end": "2026-02-23T17:35:00+00:00",
+    "duration": 10800
   }
 }

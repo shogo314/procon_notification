@@ -1015,5 +1015,68 @@
     "start": "2026-02-10T07:00:00+00:00",
     "end": "2026-02-10T10:00:00+00:00",
     "duration": 10800
+  },
+  "2634": {
+    "resource": "kilonova.ro",
+    "id": "2634",
+    "event": "Algolymp PreOJI V",
+    "href": "https://kilonova.ro/contests/2634",
+    "start": "2026-02-21T06:00:00+00:00",
+    "end": "2026-02-28T21:59:00+00:00",
+    "duration": 662340
+  },
+  "2635": {
+    "resource": "kilonova.ro",
+    "id": "2635",
+    "event": "Algolymp PreOJI VI",
+    "href": "https://kilonova.ro/contests/2635",
+    "start": "2026-02-21T06:00:00+00:00",
+    "end": "2026-02-28T21:59:00+00:00",
+    "duration": 662340
+  },
+  "2636": {
+    "resource": "kilonova.ro",
+    "id": "2636",
+    "event": "Algolymp PreOJI VII",
+    "href": "https://kilonova.ro/contests/2636",
+    "start": "2026-02-21T06:00:00+00:00",
+    "end": "2026-02-28T21:59:00+00:00",
+    "duration": 662340
+  },
+  "2637": {
+    "resource": "kilonova.ro",
+    "id": "2637",
+    "event": "Algolymp PreOJI VIII",
+    "href": "https://kilonova.ro/contests/2637",
+    "start": "2026-02-21T06:00:00+00:00",
+    "end": "2026-02-28T21:59:00+00:00",
+    "duration": 662340
+  },
+  "2638": {
+    "resource": "kilonova.ro",
+    "id": "2638",
+    "event": "Algolymp PreOJI IX",
+    "href": "https://kilonova.ro/contests/2638",
+    "start": "2026-02-21T06:00:00+00:00",
+    "end": "2026-02-28T21:59:00+00:00",
+    "duration": 662340
+  },
+  "2639": {
+    "resource": "kilonova.ro",
+    "id": "2639",
+    "event": "Algolymp PreOJI X",
+    "href": "https://kilonova.ro/contests/2639",
+    "start": "2026-02-21T06:00:00+00:00",
+    "end": "2026-02-28T21:59:00+00:00",
+    "duration": 662340
+  },
+  "2640": {
+    "resource": "kilonova.ro",
+    "id": "2640",
+    "event": "Algolymp PreOJI XI-XII",
+    "href": "https://kilonova.ro/contests/2640",
+    "start": "2026-02-21T06:00:00+00:00",
+    "end": "2026-02-28T21:59:00+00:00",
+    "duration": 662340
   }
 }

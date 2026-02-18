@@ -1559,7 +1559,7 @@
   "293448": {
     "resource": "luogu.com.cn",
     "id": "293448",
-    "event": "NFC-OI Round 1",
+    "event": "NFC-OI Round 1 & 情人节赛",
     "href": "https://www.luogu.com.cn/contest/293448",
     "start": "2025-02-14T00:30:00+00:00",
     "end": "2025-02-14T04:00:00+00:00",
@@ -1600,5 +1600,41 @@
     "start": "2025-02-16T06:00:00+00:00",
     "end": "2025-02-16T08:30:00+00:00",
     "duration": 9000
+  },
+  "245434": {
+    "resource": "luogu.com.cn",
+    "id": "245434",
+    "event": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
+    "href": "https://www.luogu.com.cn/contest/245434",
+    "start": "2025-02-28T06:00:00+00:00",
+    "end": "2025-02-28T10:00:00+00:00",
+    "duration": 14400
+  },
+  "305992": {
+    "resource": "luogu.com.cn",
+    "id": "305992",
+    "event": "Construction Masters：yrOI R1",
+    "href": "https://www.luogu.com.cn/contest/305992",
+    "start": "2025-02-23T06:30:00+00:00",
+    "end": "2025-02-23T10:30:00+00:00",
+    "duration": 14400
+  },
+  "251331": {
+    "resource": "luogu.com.cn",
+    "id": "251331",
+    "event": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/251331",
+    "start": "2025-02-22T06:00:00+00:00",
+    "end": "2025-02-22T10:00:00+00:00",
+    "duration": 14400
+  },
+  "222594": {
+    "resource": "luogu.com.cn",
+    "id": "222594",
+    "event": "RedStone OI Round 1 & 送钱赛",
+    "href": "https://www.luogu.com.cn/contest/222594",
+    "start": "2025-02-15T06:00:00+00:00",
+    "end": "2025-02-15T10:00:00+00:00",
+    "duration": 14400
   }
 }

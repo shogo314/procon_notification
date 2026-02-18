@@ -79,5 +79,14 @@
     "start": "2025-12-07T04:00:00+00:00",
     "end": "2025-12-07T07:00:00+00:00",
     "duration": 10800
+  },
+  "380": {
+    "resource": "hoj.hamako-ths.ed.jp",
+    "id": "380",
+    "event": "卒業式プロコン! by Ei2332",
+    "href": "https://hoj.hamako-ths.ed.jp/onlinejudge/contest/380",
+    "start": "2026-03-01T23:00:00+00:00",
+    "end": "2026-03-02T09:00:00+00:00",
+    "duration": 36000
   }
 }

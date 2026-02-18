@@ -605,7 +605,7 @@
   "START226": {
     "resource": "codechef.com",
     "id": "START226",
-    "event": "Starters 226",
+    "event": "Starters 226 (Rated till 5 star)",
     "href": "https://www.codechef.com/START226",
     "start": "2026-02-18T14:30:00+00:00",
     "end": "2026-02-18T16:30:00+00:00",
@@ -637,5 +637,59 @@
     "start": "2026-02-13T18:30:00+00:00",
     "end": "2026-02-15T18:30:00+00:00",
     "duration": 172800
+  },
+  "START229": {
+    "resource": "codechef.com",
+    "id": "START229",
+    "event": "Starters 229",
+    "href": "https://www.codechef.com/START229",
+    "start": "2026-03-11T14:30:00+00:00",
+    "end": "2026-03-11T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START230": {
+    "resource": "codechef.com",
+    "id": "START230",
+    "event": "Starters 230",
+    "href": "https://www.codechef.com/START230",
+    "start": "2026-03-18T14:30:00+00:00",
+    "end": "2026-03-18T16:30:00+00:00",
+    "duration": 7200
+  },
+  "DEVWEEKEND38": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND38",
+    "event": "Weekend Dev Challenge 38: Spring Boot Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND38",
+    "start": "2026-02-20T18:30:00+00:00",
+    "end": "2026-02-22T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DSAMONDAY26": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY26",
+    "event": "Monday Munch - DSA Challenge 26",
+    "href": "https://www.codechef.com/DSAMONDAY26",
+    "start": "2026-02-23T12:30:00+00:00",
+    "end": "2026-02-23T15:30:00+00:00",
+    "duration": 10800
+  },
+  "START228": {
+    "resource": "codechef.com",
+    "id": "START228",
+    "event": "Starters 228",
+    "href": "https://www.codechef.com/START228",
+    "start": "2026-03-04T14:30:00+00:00",
+    "end": "2026-03-04T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START231": {
+    "resource": "codechef.com",
+    "id": "START231",
+    "event": "Starters 231",
+    "href": "https://www.codechef.com/START231",
+    "start": "2026-03-25T14:30:00+00:00",
+    "end": "2026-03-25T16:30:00+00:00",
+    "duration": 7200
   }
 }
