@@ -70,5 +70,32 @@
     "start": "2026-02-23T14:35:00+00:00",
     "end": "2026-02-23T17:35:00+00:00",
     "duration": 10800
+  },
+  "10": {
+    "resource": "repovive.com",
+    "id": "10",
+    "event": "Amazon Round",
+    "href": "https://repovive.com/contests/10",
+    "start": "2027-01-01T00:00:00+00:00",
+    "end": "2027-01-01T23:59:59+00:00",
+    "duration": 86399
+  },
+  "11": {
+    "resource": "repovive.com",
+    "id": "11",
+    "event": "Meta Round",
+    "href": "https://repovive.com/contests/11",
+    "start": "2027-01-01T00:00:00+00:00",
+    "end": "2027-01-01T23:59:59+00:00",
+    "duration": 86399
+  },
+  "9": {
+    "resource": "repovive.com",
+    "id": "9",
+    "event": "Repovive Standard Round 1",
+    "href": "https://repovive.com/contests/9",
+    "start": "2026-03-01T14:35:00+00:00",
+    "end": "2026-03-01T16:35:00+00:00",
+    "duration": 7200
   }
 }

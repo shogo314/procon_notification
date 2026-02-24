@@ -1636,5 +1636,59 @@
     "start": "2025-02-15T06:00:00+00:00",
     "end": "2025-02-15T10:00:00+00:00",
     "duration": 14400
+  },
+  "309087": {
+    "resource": "luogu.com.cn",
+    "id": "309087",
+    "event": "【LGR-273-Div.1】洛谷 3 月月赛 I & NtF Round 3",
+    "href": "https://www.luogu.com.cn/contest/309087",
+    "start": "2025-03-01T06:00:00+00:00",
+    "end": "2025-03-01T10:00:00+00:00",
+    "duration": 14400
+  },
+  "309086": {
+    "resource": "luogu.com.cn",
+    "id": "309086",
+    "event": "【LGR-273-Div.2】洛谷 3 月月赛 I & NtF Round 3",
+    "href": "https://www.luogu.com.cn/contest/309086",
+    "start": "2025-03-01T06:00:00+00:00",
+    "end": "2025-03-01T10:00:00+00:00",
+    "duration": 14400
+  },
+  "311027": {
+    "resource": "luogu.com.cn",
+    "id": "311027",
+    "event": "【LGR-275-Div.4】洛谷入门赛 #44",
+    "href": "https://www.luogu.com.cn/contest/311027",
+    "start": "2025-02-27T11:00:00+00:00",
+    "end": "2025-02-27T13:00:00+00:00",
+    "duration": 7200
+  },
+  "311071": {
+    "resource": "luogu.com.cn",
+    "id": "311071",
+    "event": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
+    "href": "https://www.luogu.com.cn/contest/311071",
+    "start": "2025-02-26T06:00:00+00:00",
+    "end": "2025-02-26T10:30:00+00:00",
+    "duration": 16200
+  },
+  "305773": {
+    "resource": "luogu.com.cn",
+    "id": "305773",
+    "event": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/305773",
+    "start": "2025-02-25T06:00:00+00:00",
+    "end": "2025-02-25T10:00:00+00:00",
+    "duration": 14400
+  },
+  "273961": {
+    "resource": "luogu.com.cn",
+    "id": "273961",
+    "event": "「DBOI」Round -1",
+    "href": "https://www.luogu.com.cn/contest/273961",
+    "start": "2025-02-24T05:00:00+00:00",
+    "end": "2025-02-24T10:30:00+00:00",
+    "duration": 19800
   }
 }

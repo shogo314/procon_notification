@@ -800,6 +800,15 @@
     "end": "2026-02-19T12:00:00+00:00",
     "duration": 3600
   },
+  "awc0010": {
+    "resource": "atcoder.jp",
+    "id": "awc0010",
+    "event": "AtCoder Weekday Contest 0010 Beta",
+    "href": "https://atcoder.jp/contests/awc0010",
+    "start": "2026-02-20T11:00:00+00:00",
+    "end": "2026-02-20T12:00:00+00:00",
+    "duration": 3600
+  },
   "ahc062": {
     "resource": "atcoder.jp",
     "id": "ahc062",
@@ -817,5 +826,68 @@
     "start": "2026-03-14T12:00:00+00:00",
     "end": "2026-03-14T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc450": {
+    "resource": "atcoder.jp",
+    "id": "abc450",
+    "event": "AtCoder Beginner Contest 450",
+    "href": "https://atcoder.jp/contests/abc450",
+    "start": "2026-03-21T12:00:00+00:00",
+    "end": "2026-03-21T13:40:00+00:00",
+    "duration": 6000
+  },
+  "agc077": {
+    "resource": "atcoder.jp",
+    "id": "agc077",
+    "event": "AtCoder Grand Contest 077",
+    "href": "https://atcoder.jp/contests/agc077",
+    "start": "2026-03-29T12:00:00+00:00",
+    "end": "2026-03-29T15:00:00+00:00",
+    "duration": 10800
+  },
+  "awc0011": {
+    "resource": "atcoder.jp",
+    "id": "awc0011",
+    "event": "AtCoder Weekday Contest 0011 Beta",
+    "href": "https://atcoder.jp/contests/awc0011",
+    "start": "2026-02-23T11:00:00+00:00",
+    "end": "2026-02-23T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0012": {
+    "resource": "atcoder.jp",
+    "id": "awc0012",
+    "event": "AtCoder Weekday Contest 0012 Beta",
+    "href": "https://atcoder.jp/contests/awc0012",
+    "start": "2026-02-24T11:00:00+00:00",
+    "end": "2026-02-24T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0013": {
+    "resource": "atcoder.jp",
+    "id": "awc0013",
+    "event": "AtCoder Weekday Contest 0013 Beta",
+    "href": "https://atcoder.jp/contests/awc0013",
+    "start": "2026-02-25T11:00:00+00:00",
+    "end": "2026-02-25T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0014": {
+    "resource": "atcoder.jp",
+    "id": "awc0014",
+    "event": "AtCoder Weekday Contest 0014 Beta",
+    "href": "https://atcoder.jp/contests/awc0014",
+    "start": "2026-02-26T11:00:00+00:00",
+    "end": "2026-02-26T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0015": {
+    "resource": "atcoder.jp",
+    "id": "awc0015",
+    "event": "AtCoder Weekday Contest 0015 Beta",
+    "href": "https://atcoder.jp/contests/awc0015",
+    "start": "2026-02-27T11:00:00+00:00",
+    "end": "2026-02-27T12:00:00+00:00",
+    "duration": 3600
   }
 }

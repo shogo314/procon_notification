@@ -322,5 +322,14 @@
     "start": "2026-04-27T12:20:00+00:00",
     "end": "2026-04-27T14:20:00+00:00",
     "duration": 7200
+  },
+  "583": {
+    "resource": "yukicoder.me",
+    "id": "583",
+    "event": "yukicoder score contest 12",
+    "href": "https://yukicoder.me/contests/583",
+    "start": "2026-02-25T12:00:00+00:00",
+    "end": "2026-02-25T15:00:00+00:00",
+    "duration": 10800
   }
 }
