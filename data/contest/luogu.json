@@ -1690,5 +1690,32 @@
     "start": "2025-02-24T05:00:00+00:00",
     "end": "2025-02-24T10:30:00+00:00",
     "duration": 19800
+  },
+  "311761": {
+    "resource": "luogu.com.cn",
+    "id": "311761",
+    "event": "KTSC 2026 R2 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/311761",
+    "start": "2025-03-04T06:00:00+00:00",
+    "end": "2025-03-04T11:00:00+00:00",
+    "duration": 18000
+  },
+  "310905": {
+    "resource": "luogu.com.cn",
+    "id": "310905",
+    "event": "KTSC 2026 R1 Unofficial Mirror",
+    "href": "https://www.luogu.com.cn/contest/310905",
+    "start": "2025-03-03T06:00:00+00:00",
+    "end": "2025-03-03T11:00:00+00:00",
+    "duration": 18000
+  },
+  "312041": {
+    "resource": "luogu.com.cn",
+    "id": "312041",
+    "event": "[CCPC 2025 哈尔滨站] CCPC 2025 分站赛哈尔滨站重现赛",
+    "href": "https://www.luogu.com.cn/contest/312041",
+    "start": "2025-03-02T05:00:00+00:00",
+    "end": "2025-03-02T10:00:00+00:00",
+    "duration": 18000
   }
 }

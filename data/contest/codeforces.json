@@ -763,5 +763,23 @@
     "start": "2026-02-26T14:35:00+00:00",
     "end": "2026-02-26T17:05:00+00:00",
     "duration": 9000
+  },
+  "2207": {
+    "resource": "codeforces.com",
+    "id": "2207",
+    "event": "Codeforces Round (Div. 1 + Div. 2)",
+    "href": "https://codeforces.com/contests/2207",
+    "start": "2026-03-08T14:35:00+00:00",
+    "end": "2026-03-08T17:35:00+00:00",
+    "duration": 10800
+  },
+  "2206": {
+    "resource": "codeforces.com",
+    "id": "2206",
+    "event": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+    "href": "https://codeforces.com/contests/2206",
+    "start": "2026-03-08T01:45:00+00:00",
+    "end": "2026-03-08T06:45:00+00:00",
+    "duration": 18000
   }
 }

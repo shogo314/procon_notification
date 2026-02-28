@@ -700,5 +700,23 @@
     "start": "2026-02-27T18:30:00+00:00",
     "end": "2026-03-01T18:30:00+00:00",
     "duration": 172800
+  },
+  "DSAMONDAY27": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY27",
+    "event": "Monday Munch - DSA Challenge 27",
+    "href": "https://www.codechef.com/DSAMONDAY27",
+    "start": "2026-03-02T12:30:00+00:00",
+    "end": "2026-03-02T15:30:00+00:00",
+    "duration": 10800
+  },
+  "DSAMONDAY28": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY28",
+    "event": "Monday Munch - DSA Challenge 28",
+    "href": "https://www.codechef.com/DSAMONDAY28",
+    "start": "2026-03-09T12:30:00+00:00",
+    "end": "2026-03-09T15:30:00+00:00",
+    "duration": 10800
   }
 }

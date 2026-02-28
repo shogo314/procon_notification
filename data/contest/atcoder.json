@@ -889,5 +889,59 @@
     "start": "2026-02-27T11:00:00+00:00",
     "end": "2026-02-27T12:00:00+00:00",
     "duration": 3600
+  },
+  "awc0016": {
+    "resource": "atcoder.jp",
+    "id": "awc0016",
+    "event": "AtCoder Weekday Contest 0016 Beta",
+    "href": "https://atcoder.jp/contests/awc0016",
+    "start": "2026-03-02T11:00:00+00:00",
+    "end": "2026-03-02T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0017": {
+    "resource": "atcoder.jp",
+    "id": "awc0017",
+    "event": "AtCoder Weekday Contest 0017 Beta",
+    "href": "https://atcoder.jp/contests/awc0017",
+    "start": "2026-03-03T11:00:00+00:00",
+    "end": "2026-03-03T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0018": {
+    "resource": "atcoder.jp",
+    "id": "awc0018",
+    "event": "AtCoder Weekday Contest 0018 Beta",
+    "href": "https://atcoder.jp/contests/awc0018",
+    "start": "2026-03-04T11:00:00+00:00",
+    "end": "2026-03-04T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0019": {
+    "resource": "atcoder.jp",
+    "id": "awc0019",
+    "event": "AtCoder Weekday Contest 0019 Beta",
+    "href": "https://atcoder.jp/contests/awc0019",
+    "start": "2026-03-05T11:00:00+00:00",
+    "end": "2026-03-05T12:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0020": {
+    "resource": "atcoder.jp",
+    "id": "awc0020",
+    "event": "AtCoder Weekday Contest 0020 Beta",
+    "href": "https://atcoder.jp/contests/awc0020",
+    "start": "2026-03-06T11:00:00+00:00",
+    "end": "2026-03-06T12:00:00+00:00",
+    "duration": 3600
+  },
+  "waipc-qual": {
+    "resource": "atcoder.jp",
+    "id": "waipc-qual",
+    "event": "World Artificial Intelligence Programming Contest日本国内最終予選",
+    "href": "https://atcoder.jp/contests/waipc-qual",
+    "start": "2026-03-15T03:00:00+00:00",
+    "end": "2026-03-15T07:00:00+00:00",
+    "duration": 14400
   }
 }
