@@ -718,5 +718,14 @@
     "start": "2026-03-09T12:30:00+00:00",
     "end": "2026-03-09T15:30:00+00:00",
     "duration": 10800
+  },
+  "DEVWEEKEND40": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND40",
+    "event": "Weekend Dev Challenge 40: Linux & Shell Scripting Challenges",
+    "href": "https://www.codechef.com/DEVWEEKEND40",
+    "start": "2026-03-06T18:30:00+00:00",
+    "end": "2026-03-08T18:30:00+00:00",
+    "duration": 172800
   }
 }
