@@ -511,5 +511,23 @@
     "start": "2026-03-15T02:30:00+00:00",
     "end": "2026-03-15T04:00:00+00:00",
     "duration": 5400
+  },
+  "biweekly-contest-179": {
+    "resource": "leetcode.com",
+    "id": "biweekly-contest-179",
+    "event": "Biweekly Contest 179",
+    "href": "https://leetcode.com/contest/biweekly-contest-179",
+    "start": "2026-03-28T14:30:00+00:00",
+    "end": "2026-03-28T16:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-494": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-494",
+    "event": "Weekly Contest 494",
+    "href": "https://leetcode.com/contest/weekly-contest-494",
+    "start": "2026-03-22T02:30:00+00:00",
+    "end": "2026-03-22T04:00:00+00:00",
+    "duration": 5400
   }
 }

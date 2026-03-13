@@ -295,5 +295,23 @@
     "start": "2026-03-08T11:00:00+00:00",
     "end": "2026-03-08T12:30:00+00:00",
     "duration": 5400
+  },
+  "1fck3aasuh3ev201dcp2lm8868": {
+    "resource": "basecamp.eolymp.com",
+    "id": "1fck3aasuh3ev201dcp2lm8868",
+    "event": "Educational Round #9",
+    "href": "https://basecamp.eolymp.com/en/contests/1fck3aasuh3ev201dcp2lm8868",
+    "start": "2026-03-15T20:00:00+00:00",
+    "end": "2026-03-22T19:59:00+00:00",
+    "duration": 604740
+  },
+  "4pe1cne4r571j089budf65juq4": {
+    "resource": "basecamp.eolymp.com",
+    "id": "4pe1cne4r571j089budf65juq4",
+    "event": "Weekend Practice #20",
+    "href": "https://basecamp.eolymp.com/en/contests/4pe1cne4r571j089budf65juq4",
+    "start": "2026-03-15T15:00:00+00:00",
+    "end": "2026-03-15T17:00:00+00:00",
+    "duration": 7200
   }
 }
