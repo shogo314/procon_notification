@@ -8,13 +8,13 @@
     "end": "2025-07-27T10:00:00+00:00",
     "duration": 7200
   },
-  "QPC005": {
+  "QPC006": {
     "resource": "qcoder.jp",
     "id": "QPC006",
     "event": "QCoder Programming Contest 006",
     "href": "https://www.qcoder.jp/contests/QPC006",
-    "start": "2026-03-15T08:00:00+00:00",
-    "end": "2026-03-15T10:30:00+00:00",
+    "start": "2026-03-15T07:00:00+00:00",
+    "end": "2026-03-15T09:30:00+00:00",
     "duration": 9000
   }
 }

@@ -75,7 +75,7 @@
     "resource": "kep.uz",
     "id": "452",
     "event": "KEP Contest #17",
-    "href": "https://kep.uz/competitions/contests/contest/452",
+    "href": "https://kep.uz/contests/452",
     "start": "2025-08-23T14:35:00+00:00",
     "end": "2025-08-23T17:35:00+00:00",
     "duration": 10800
@@ -84,7 +84,7 @@
     "resource": "kep.uz",
     "id": "457",
     "event": "SpeedForces Contest",
-    "href": "https://kep.uz/competitions/contests/contest/457",
+    "href": "https://kep.uz/contests/457",
     "start": "2025-10-05T15:00:00+00:00",
     "end": "2025-10-05T16:00:00+00:00",
     "duration": 3600
@@ -93,9 +93,36 @@
     "resource": "kep.uz",
     "id": "459",
     "event": "Unexpected Contest",
-    "href": "https://kep.uz/competitions/contests/contest/459",
+    "href": "https://kep.uz/contests/459",
     "start": "2025-10-13T06:30:00+00:00",
     "end": "2025-10-13T08:30:00+00:00",
+    "duration": 7200
+  },
+  "491": {
+    "resource": "kep.uz",
+    "id": "491",
+    "event": "KEP IOI Style Beta Contest",
+    "href": "https://kep.uz/contests/491",
+    "start": "2026-03-15T15:00:00+00:00",
+    "end": "2026-03-15T17:00:00+00:00",
+    "duration": 7200
+  },
+  "488": {
+    "resource": "kep.uz",
+    "id": "488",
+    "event": "KEP Contest #18 | Winter is coming",
+    "href": "https://kep.uz/contests/488",
+    "start": "2025-12-21T15:00:00+00:00",
+    "end": "2025-12-21T18:00:00+00:00",
+    "duration": 10800
+  },
+  "487": {
+    "resource": "kep.uz",
+    "id": "487",
+    "event": "New UI - Beta Testing Contest",
+    "href": "https://kep.uz/contests/487",
+    "start": "2025-11-25T15:00:00+00:00",
+    "end": "2025-11-25T17:00:00+00:00",
     "duration": 7200
   }
 }

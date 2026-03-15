@@ -1753,5 +1753,23 @@
     "start": "2025-03-14T06:00:00+00:00",
     "end": "2025-03-14T10:00:00+00:00",
     "duration": 14400
+  },
+  "296386": {
+    "resource": "luogu.com.cn",
+    "id": "296386",
+    "event": "o.OI Round -1",
+    "href": "https://www.luogu.com.cn/contest/296386",
+    "start": "2025-04-04T06:00:00+00:00",
+    "end": "2025-04-04T07:30:00+00:00",
+    "duration": 5400
+  },
+  "293373": {
+    "resource": "luogu.com.cn",
+    "id": "293373",
+    "event": "【LGR-274-Div.2】洛谷 3 月月赛 II & 『LBA-OI』Round 3",
+    "href": "https://www.luogu.com.cn/contest/293373",
+    "start": "2025-03-21T06:00:00+00:00",
+    "end": "2025-03-21T10:00:00+00:00",
+    "duration": 14400
   }
 }
