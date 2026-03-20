@@ -308,7 +308,7 @@
   "582": {
     "resource": "yukicoder.me",
     "id": "582",
-    "event": "yukicoder contest",
+    "event": "yukicoder contest 聖光学院プログラミングコンテスト day1",
     "href": "https://yukicoder.me/contests/582",
     "start": "2026-04-24T12:20:00+00:00",
     "end": "2026-04-24T14:20:00+00:00",
@@ -317,7 +317,7 @@
   "581": {
     "resource": "yukicoder.me",
     "id": "581",
-    "event": "yukicoder contest",
+    "event": "yukicoder contest 聖光学院プログラミングコンテスト day2",
     "href": "https://yukicoder.me/contests/581",
     "start": "2026-04-27T12:20:00+00:00",
     "end": "2026-04-27T14:20:00+00:00",
@@ -331,5 +331,32 @@
     "start": "2026-02-25T12:00:00+00:00",
     "end": "2026-02-25T15:00:00+00:00",
     "duration": 10800
+  },
+  "586": {
+    "resource": "yukicoder.me",
+    "id": "586",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/586",
+    "start": "2026-03-27T12:20:00+00:00",
+    "end": "2026-03-27T14:20:00+00:00",
+    "duration": 7200
+  },
+  "588": {
+    "resource": "yukicoder.me",
+    "id": "588",
+    "event": "yukicoder April Fool Contest 2026問題募集中",
+    "href": "https://yukicoder.me/contests/588",
+    "start": "2026-04-01T12:20:00+00:00",
+    "end": "2026-04-01T14:20:00+00:00",
+    "duration": 7200
+  },
+  "587": {
+    "resource": "yukicoder.me",
+    "id": "587",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/587",
+    "start": "2026-04-03T12:20:00+00:00",
+    "end": "2026-04-03T14:20:00+00:00",
+    "duration": 7200
   }
 }

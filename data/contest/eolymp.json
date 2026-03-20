@@ -313,5 +313,23 @@
     "start": "2026-03-15T15:00:00+00:00",
     "end": "2026-03-15T17:00:00+00:00",
     "duration": 7200
+  },
+  "tjhj0o6ob54rp5sgim74gibrrg": {
+    "resource": "basecamp.eolymp.com",
+    "id": "tjhj0o6ob54rp5sgim74gibrrg",
+    "event": "Blitz Round #16",
+    "href": "https://basecamp.eolymp.com/en/contests/tjhj0o6ob54rp5sgim74gibrrg",
+    "start": "2026-03-23T11:00:00+00:00",
+    "end": "2026-03-23T12:30:00+00:00",
+    "duration": 5400
+  },
+  "6996ablenh66h3lf2s5scs4hus": {
+    "resource": "basecamp.eolymp.com",
+    "id": "6996ablenh66h3lf2s5scs4hus",
+    "event": "KNU Student Olympiad 2026, 1 stage (Mirror)",
+    "href": "https://basecamp.eolymp.com/en/contests/6996ablenh66h3lf2s5scs4hus",
+    "start": "2026-03-21T08:30:00+00:00",
+    "end": "2026-03-21T12:30:00+00:00",
+    "duration": 14400
   }
 }
