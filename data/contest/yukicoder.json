@@ -344,7 +344,7 @@
   "588": {
     "resource": "yukicoder.me",
     "id": "588",
-    "event": "yukicoder April Fool Contest 2026問題募集中",
+    "event": "yukicoder April Fool Contest 2026",
     "href": "https://yukicoder.me/contests/588",
     "start": "2026-04-01T12:20:00+00:00",
     "end": "2026-04-01T14:20:00+00:00",
@@ -357,6 +357,33 @@
     "href": "https://yukicoder.me/contests/587",
     "start": "2026-04-03T12:20:00+00:00",
     "end": "2026-04-03T14:20:00+00:00",
+    "duration": 7200
+  },
+  "415": {
+    "resource": "yukicoder.me",
+    "id": "415",
+    "event": "yukicoder contest リアクティブコンテスト",
+    "href": "https://yukicoder.me/contests/415",
+    "start": "2026-05-01T12:20:00+00:00",
+    "end": "2026-05-01T14:20:00+00:00",
+    "duration": 7200
+  },
+  "589": {
+    "resource": "yukicoder.me",
+    "id": "589",
+    "event": "yukicoder contest TSG LIVE! 16 コードゴルフコンテスト",
+    "href": "https://yukicoder.me/contests/589",
+    "start": "2026-05-16T06:30:00+00:00",
+    "end": "2026-05-17T06:30:00+00:00",
+    "duration": 86400
+  },
+  "590": {
+    "resource": "yukicoder.me",
+    "id": "590",
+    "event": "yukicoder contest 裏・クイーンコンテスト",
+    "href": "https://yukicoder.me/contests/590",
+    "start": "2026-07-24T12:20:00+00:00",
+    "end": "2026-07-24T14:20:00+00:00",
     "duration": 7200
   }
 }

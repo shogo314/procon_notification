@@ -803,7 +803,7 @@
   "2211": {
     "resource": "codeforces.com",
     "id": "2211",
-    "event": "Codeforces Round (Div. 1 + Div. 2)",
+    "event": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
     "href": "https://codeforces.com/contests/2211",
     "start": "2026-03-28T14:35:00+00:00",
     "end": "2026-03-28T17:05:00+00:00",
@@ -812,10 +812,19 @@
   "2210": {
     "resource": "codeforces.com",
     "id": "2210",
-    "event": "Codeforces Round (Div. 2)",
+    "event": "Codeforces Round 1089 (Div. 2)",
     "href": "https://codeforces.com/contests/2210",
     "start": "2026-03-29T14:35:00+00:00",
     "end": "2026-03-29T16:50:00+00:00",
     "duration": 8100
+  },
+  "2214": {
+    "resource": "codeforces.com",
+    "id": "2214",
+    "event": "April Fools Day Contest 2026",
+    "href": "https://codeforces.com/contests/2214",
+    "start": "2026-04-01T14:35:00+00:00",
+    "end": "2026-04-01T16:35:00+00:00",
+    "duration": 7200
   }
 }

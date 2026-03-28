@@ -799,5 +799,32 @@
     "start": "2026-03-20T18:30:00+00:00",
     "end": "2026-03-22T18:30:00+00:00",
     "duration": 172800
+  },
+  "DEVWEEKEND43": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND43",
+    "event": "Weekend Dev Challenge 43: DevOps",
+    "href": "https://www.codechef.com/DEVWEEKEND43",
+    "start": "2026-03-27T18:30:00+00:00",
+    "end": "2026-03-29T18:30:00+00:00",
+    "duration": 172800
+  },
+  "START236": {
+    "resource": "codechef.com",
+    "id": "START236",
+    "event": "Starters 236",
+    "href": "https://www.codechef.com/START236",
+    "start": "2026-04-29T14:30:00+00:00",
+    "end": "2026-04-29T16:30:00+00:00",
+    "duration": 7200
+  },
+  "DSAMONDAY31": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY31",
+    "event": "Monday Munch - DSA Challenge 31",
+    "href": "https://www.codechef.com/DSAMONDAY31",
+    "start": "2026-03-30T12:30:00+00:00",
+    "end": "2026-03-30T15:30:00+00:00",
+    "duration": 10800
   }
 }

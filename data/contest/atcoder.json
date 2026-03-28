@@ -1024,5 +1024,50 @@
     "start": "2026-04-25T12:00:00+00:00",
     "end": "2026-04-25T13:40:00+00:00",
     "duration": 6000
+  },
+  "arc217": {
+    "resource": "atcoder.jp",
+    "id": "arc217",
+    "event": "AtCoder Regular Contest 217",
+    "href": "https://atcoder.jp/contests/arc217",
+    "start": "2026-04-05T12:00:00+00:00",
+    "end": "2026-04-05T14:00:00+00:00",
+    "duration": 7200
+  },
+  "masters2026-final": {
+    "resource": "atcoder.jp",
+    "id": "masters2026-final",
+    "event": "第三回マスターズ選手権 -決勝-",
+    "href": "https://atcoder.jp/contests/masters2026-final",
+    "start": "2026-04-18T02:10:00+00:00",
+    "end": "2026-04-18T08:10:00+00:00",
+    "duration": 21600
+  },
+  "masters2026-final-open": {
+    "resource": "atcoder.jp",
+    "id": "masters2026-final-open",
+    "event": "第三回マスターズ選手権-決勝-(オープンコンテスト)",
+    "href": "https://atcoder.jp/contests/masters2026-final-open",
+    "start": "2026-04-18T02:10:00+00:00",
+    "end": "2026-04-18T08:10:00+00:00",
+    "duration": 21600
+  },
+  "abc454": {
+    "resource": "atcoder.jp",
+    "id": "abc454",
+    "event": "キーサイト・テクノロジープログラミングコンテスト（AtCoder Beginner Contest 454）",
+    "href": "https://atcoder.jp/contests/abc454",
+    "start": "2026-04-18T12:00:00+00:00",
+    "end": "2026-04-18T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc064": {
+    "resource": "atcoder.jp",
+    "id": "ahc064",
+    "event": "JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）",
+    "href": "https://atcoder.jp/contests/ahc064",
+    "start": "2026-04-26T06:00:00+00:00",
+    "end": "2026-04-26T10:00:00+00:00",
+    "duration": 14400
   }
 }
