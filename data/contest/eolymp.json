@@ -331,5 +331,14 @@
     "start": "2026-03-21T08:30:00+00:00",
     "end": "2026-03-21T12:30:00+00:00",
     "duration": 14400
+  },
+  "0pi9rsk9tl0dl1ikmot3jnd7vo": {
+    "resource": "basecamp.eolymp.com",
+    "id": "0pi9rsk9tl0dl1ikmot3jnd7vo",
+    "event": "Eolymp April Fools #1",
+    "href": "https://basecamp.eolymp.com/en/contests/0pi9rsk9tl0dl1ikmot3jnd7vo",
+    "start": "2026-04-01T11:00:00+00:00",
+    "end": "2026-04-01T13:00:00+00:00",
+    "duration": 7200
   }
 }

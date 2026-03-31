@@ -826,5 +826,14 @@
     "start": "2026-03-30T12:30:00+00:00",
     "end": "2026-03-30T15:30:00+00:00",
     "duration": 10800
+  },
+  "DSAMONDAY32": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY32",
+    "event": "Monday Munch - DSA Challenge 32",
+    "href": "https://www.codechef.com/DSAMONDAY32",
+    "start": "2026-04-06T12:30:00+00:00",
+    "end": "2026-04-06T15:30:00+00:00",
+    "duration": 10800
   }
 }
