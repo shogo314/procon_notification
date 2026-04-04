@@ -1843,5 +1843,50 @@
     "start": "2026-03-22T06:00:00+00:00",
     "end": "2026-03-22T10:30:00+00:00",
     "duration": 16200
+  },
+  "309815": {
+    "resource": "luogu.com.cn",
+    "id": "309815",
+    "event": "【LGR-279-Div.3】洛谷基础赛 #32 & MierOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/309815",
+    "start": "2026-04-12T06:00:00+00:00",
+    "end": "2026-04-12T09:30:00+00:00",
+    "duration": 12600
+  },
+  "319140": {
+    "resource": "luogu.com.cn",
+    "id": "319140",
+    "event": "【MX-S13】梦熊 S 组 · 清雨赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/319140",
+    "start": "2026-04-06T06:00:00+00:00",
+    "end": "2026-04-06T10:00:00+00:00",
+    "duration": 14400
+  },
+  "317826": {
+    "resource": "luogu.com.cn",
+    "id": "317826",
+    "event": "Murasame's April Fools Contest (愚人节比赛) 2026",
+    "href": "https://www.luogu.com.cn/contest/317826",
+    "start": "2026-04-04T10:00:00+00:00",
+    "end": "2026-04-25T16:00:00+00:00",
+    "duration": 1836000
+  },
+  "318973": {
+    "resource": "luogu.com.cn",
+    "id": "318973",
+    "event": "中国科学技术大学 2026 年程序设计竞赛校赛（重现赛）",
+    "href": "https://www.luogu.com.cn/contest/318973",
+    "start": "2026-04-04T04:30:00+00:00",
+    "end": "2026-04-04T09:30:00+00:00",
+    "duration": 18000
+  },
+  "311857": {
+    "resource": "luogu.com.cn",
+    "id": "311857",
+    "event": "o.OI Round -1 - EX Problem",
+    "href": "https://www.luogu.com.cn/contest/311857",
+    "start": "2026-04-03T12:00:00+00:00",
+    "end": "2026-04-05T12:00:00+00:00",
+    "duration": 172800
   }
 }

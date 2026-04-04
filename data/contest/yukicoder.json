@@ -394,5 +394,23 @@
     "start": "2026-05-08T12:20:00+00:00",
     "end": "2026-05-08T14:20:00+00:00",
     "duration": 7200
+  },
+  "592": {
+    "resource": "yukicoder.me",
+    "id": "592",
+    "event": "yukicoder score contest TSG十種競技2026",
+    "href": "https://yukicoder.me/contests/592",
+    "start": "2026-05-02T08:00:00+00:00",
+    "end": "2026-05-02T09:00:00+00:00",
+    "duration": 3600
+  },
+  "593": {
+    "resource": "yukicoder.me",
+    "id": "593",
+    "event": "KCPC新歓杯2026",
+    "href": "https://yukicoder.me/contests/593",
+    "start": "2026-05-29T10:00:00+00:00",
+    "end": "2026-05-29T11:40:00+00:00",
+    "duration": 6000
   }
 }

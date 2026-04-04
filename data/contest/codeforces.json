@@ -835,5 +835,14 @@
     "start": "2026-04-07T14:35:00+00:00",
     "end": "2026-04-07T16:50:00+00:00",
     "duration": 8100
+  },
+  "2218": {
+    "resource": "codeforces.com",
+    "id": "2218",
+    "event": "Codeforces Round 1090 (Div. 4)",
+    "href": "https://codeforces.com/contests/2218",
+    "start": "2026-04-04T14:35:00+00:00",
+    "end": "2026-04-04T16:50:00+00:00",
+    "duration": 8100
   }
 }

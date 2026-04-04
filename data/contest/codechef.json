@@ -835,5 +835,14 @@
     "start": "2026-04-06T12:30:00+00:00",
     "end": "2026-04-06T15:30:00+00:00",
     "duration": 10800
+  },
+  "DEVWEEKEND44": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND44",
+    "event": "Weekend Dev Challenge 44: Cybersecurity",
+    "href": "https://www.codechef.com/DEVWEEKEND44",
+    "start": "2026-04-03T18:30:00+00:00",
+    "end": "2026-04-05T18:30:00+00:00",
+    "duration": 172800
   }
 }
