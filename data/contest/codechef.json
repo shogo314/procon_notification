@@ -844,5 +844,23 @@
     "start": "2026-04-03T18:30:00+00:00",
     "end": "2026-04-05T18:30:00+00:00",
     "duration": 172800
+  },
+  "DEVWEEKEND45": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND45",
+    "event": "Weekend Dev Challenge 45: Cybersecurity",
+    "href": "https://www.codechef.com/DEVWEEKEND45",
+    "start": "2026-04-10T18:30:00+00:00",
+    "end": "2026-04-12T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DSAMONDAY33": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY33",
+    "event": "Monday Munch - DSA Challenge 33",
+    "href": "https://www.codechef.com/DSAMONDAY33",
+    "start": "2026-04-13T12:30:00+00:00",
+    "end": "2026-04-13T15:30:00+00:00",
+    "duration": 10800
   }
 }

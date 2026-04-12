@@ -1069,5 +1069,23 @@
     "start": "2026-04-26T06:00:00+00:00",
     "end": "2026-04-26T10:00:00+00:00",
     "duration": 14400
+  },
+  "arc218": {
+    "resource": "atcoder.jp",
+    "id": "arc218",
+    "event": "AtCoder Regular Contest 218",
+    "href": "https://atcoder.jp/contests/arc218",
+    "start": "2026-05-03T12:00:00+00:00",
+    "end": "2026-05-03T14:00:00+00:00",
+    "duration": 7200
+  },
+  "abc457": {
+    "resource": "atcoder.jp",
+    "id": "abc457",
+    "event": "Polaris.AI プログラミングコンテスト 2026（AtCoder Beginner Contest 457）",
+    "href": "https://atcoder.jp/contests/abc457",
+    "start": "2026-05-09T12:00:00+00:00",
+    "end": "2026-05-09T13:40:00+00:00",
+    "duration": 6000
   }
 }

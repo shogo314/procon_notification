@@ -1888,5 +1888,122 @@
     "start": "2026-04-03T12:00:00+00:00",
     "end": "2026-04-05T12:00:00+00:00",
     "duration": 172800
+  },
+  "239510": {
+    "resource": "luogu.com.cn",
+    "id": "239510",
+    "event": "【LGR-281-Div.3】洛谷基础赛 #33 & ALFR Round 10 & WAOI Round 4.5",
+    "href": "https://www.luogu.com.cn/contest/239510",
+    "start": "2026-04-19T06:00:00+00:00",
+    "end": "2026-04-19T09:30:00+00:00",
+    "duration": 12600
+  },
+  "319865": {
+    "resource": "luogu.com.cn",
+    "id": "319865",
+    "event": "【LGR-282-Div.2】洛谷 4 月月赛 II & 蓬莱人形 Round 2",
+    "href": "https://www.luogu.com.cn/contest/319865",
+    "start": "2026-04-18T06:00:00+00:00",
+    "end": "2026-04-18T10:00:00+00:00",
+    "duration": 14400
+  },
+  "276319": {
+    "resource": "luogu.com.cn",
+    "id": "276319",
+    "event": "【LGR-282-Div.1】洛谷 4 月月赛 II & 蓬莱人形 Round 2",
+    "href": "https://www.luogu.com.cn/contest/276319",
+    "start": "2026-04-18T06:00:00+00:00",
+    "end": "2026-04-18T10:00:00+00:00",
+    "duration": 14400
+  },
+  "320476": {
+    "resource": "luogu.com.cn",
+    "id": "320476",
+    "event": "【LGR-283-Div.4】洛谷入门赛 #46",
+    "href": "https://www.luogu.com.cn/contest/320476",
+    "start": "2026-04-17T11:00:00+00:00",
+    "end": "2026-04-17T13:00:00+00:00",
+    "duration": 7200
+  },
+  "320257": {
+    "resource": "luogu.com.cn",
+    "id": "320257",
+    "event": "[ICPC2023 Jinan R] ICPC 2023 区域赛济南站重现赛",
+    "href": "https://www.luogu.com.cn/contest/320257",
+    "start": "2026-04-14T05:00:00+00:00",
+    "end": "2026-04-14T10:00:00+00:00",
+    "duration": 18000
+  },
+  "321042": {
+    "resource": "luogu.com.cn",
+    "id": "321042",
+    "event": "蓝桥杯省赛自测（Java B 组）",
+    "href": "https://www.luogu.com.cn/contest/321042",
+    "start": "2026-04-12T07:30:00+00:00",
+    "end": "2026-04-19T07:30:00+00:00",
+    "duration": 604800
+  },
+  "321016": {
+    "resource": "luogu.com.cn",
+    "id": "321016",
+    "event": "蓝桥杯省赛自测（Python B 组）",
+    "href": "https://www.luogu.com.cn/contest/321016",
+    "start": "2026-04-12T06:00:00+00:00",
+    "end": "2026-04-19T06:30:00+00:00",
+    "duration": 606600
+  },
+  "255208": {
+    "resource": "luogu.com.cn",
+    "id": "255208",
+    "event": "DSTOI Round 0",
+    "href": "https://www.luogu.com.cn/contest/255208",
+    "start": "2026-04-12T01:00:00+00:00",
+    "end": "2026-04-12T03:30:00+00:00",
+    "duration": 9000
+  },
+  "320702": {
+    "resource": "luogu.com.cn",
+    "id": "320702",
+    "event": "蓝桥杯省赛自测（CA 组）",
+    "href": "https://www.luogu.com.cn/contest/320702",
+    "start": "2026-04-11T06:30:00+00:00",
+    "end": "2026-04-18T06:30:00+00:00",
+    "duration": 604800
+  },
+  "319924": {
+    "resource": "luogu.com.cn",
+    "id": "319924",
+    "event": "【MX-X27】梦熊 X 组 · 洪水赛 & CyOI Round 2（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/319924",
+    "start": "2026-04-11T06:00:00+00:00",
+    "end": "2026-04-11T10:30:00+00:00",
+    "duration": 16200
+  },
+  "320659": {
+    "resource": "luogu.com.cn",
+    "id": "320659",
+    "event": "蓝桥杯省赛自测（CB 组）",
+    "href": "https://www.luogu.com.cn/contest/320659",
+    "start": "2026-04-11T05:05:00+00:00",
+    "end": "2026-04-18T05:00:00+00:00",
+    "duration": 604500
+  },
+  "319886": {
+    "resource": "luogu.com.cn",
+    "id": "319886",
+    "event": "华东理工大学 2025 年程序设计竞赛校赛（重现赛）",
+    "href": "https://www.luogu.com.cn/contest/319886",
+    "start": "2026-04-09T05:00:00+00:00",
+    "end": "2026-04-09T09:00:00+00:00",
+    "duration": 14400
+  },
+  "319883": {
+    "resource": "luogu.com.cn",
+    "id": "319883",
+    "event": "蓝桥杯考前复习冲刺",
+    "href": "https://www.luogu.com.cn/contest/319883",
+    "start": "2026-04-07T03:00:00+00:00",
+    "end": "2026-04-12T05:00:00+00:00",
+    "duration": 439200
   }
 }
