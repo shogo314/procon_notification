@@ -1033,5 +1033,41 @@
     "start": "2026-04-19T11:00:00+00:00",
     "end": "2026-04-19T13:00:00+00:00",
     "duration": 7200
+  },
+  "133522": {
+    "resource": "ac.nowcoder.com",
+    "id": "133522",
+    "event": "牛客练习赛152",
+    "href": "https://ac.nowcoder.com/acm/contest/133522",
+    "start": "2026-04-24T11:00:00+00:00",
+    "end": "2026-04-24T13:30:00+00:00",
+    "duration": 9000
+  },
+  "133536": {
+    "resource": "ac.nowcoder.com",
+    "id": "133536",
+    "event": "2026年ICPC新疆维吾尔自治区大学生程序设计竞赛",
+    "href": "https://ac.nowcoder.com/acm/contest/133536",
+    "start": "2026-04-25T04:00:00+00:00",
+    "end": "2026-04-25T09:00:00+00:00",
+    "duration": 18000
+  },
+  "133523": {
+    "resource": "ac.nowcoder.com",
+    "id": "133523",
+    "event": "牛客周赛 Round 141",
+    "href": "https://ac.nowcoder.com/acm/contest/133523",
+    "start": "2026-04-26T11:00:00+00:00",
+    "end": "2026-04-26T13:00:00+00:00",
+    "duration": 7200
+  },
+  "133439": {
+    "resource": "ac.nowcoder.com",
+    "id": "133439",
+    "event": "2026牛客五一集训派对day1",
+    "href": "https://ac.nowcoder.com/acm/contest/133439",
+    "start": "2026-05-01T04:00:00+00:00",
+    "end": "2026-05-01T09:00:00+00:00",
+    "duration": 18000
   }
 }

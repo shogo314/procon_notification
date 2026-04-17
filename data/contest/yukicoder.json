@@ -317,11 +317,11 @@
   "581": {
     "resource": "yukicoder.me",
     "id": "581",
-    "event": "yukicoder contest 聖光学院プログラミングコンテスト day2",
+    "event": "yukicoder contest 聖光学院プログラミングコンテスト2026 day2",
     "href": "https://yukicoder.me/contests/581",
-    "start": "2026-04-27T12:20:00+00:00",
-    "end": "2026-04-27T14:20:00+00:00",
-    "duration": 7200
+    "start": "2026-05-04T12:20:00+00:00",
+    "end": "2026-05-04T15:00:00+00:00",
+    "duration": 9600
   },
   "583": {
     "resource": "yukicoder.me",
@@ -398,7 +398,7 @@
   "592": {
     "resource": "yukicoder.me",
     "id": "592",
-    "event": "yukicoder score contest TSG十種競技2026",
+    "event": "TSG十種競技2026 ヒューリスティックコンテスト",
     "href": "https://yukicoder.me/contests/592",
     "start": "2026-05-02T08:00:00+00:00",
     "end": "2026-05-02T09:00:00+00:00",
@@ -412,5 +412,14 @@
     "start": "2026-05-29T10:00:00+00:00",
     "end": "2026-05-29T11:40:00+00:00",
     "duration": 6000
+  },
+  "594": {
+    "resource": "yukicoder.me",
+    "id": "594",
+    "event": "第3回 岩井星人アンソロジープログラミングコンテスト",
+    "href": "https://yukicoder.me/contests/594",
+    "start": "2026-09-05T04:00:00+00:00",
+    "end": "2026-09-05T06:30:00+00:00",
+    "duration": 9000
   }
 }

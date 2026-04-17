@@ -2005,5 +2005,50 @@
     "start": "2026-04-07T03:00:00+00:00",
     "end": "2026-04-12T05:00:00+00:00",
     "duration": 439200
+  },
+  "314924": {
+    "resource": "luogu.com.cn",
+    "id": "314924",
+    "event": "Algo Beat Contest 004",
+    "href": "https://www.luogu.com.cn/contest/314924",
+    "start": "2026-05-02T07:00:00+00:00",
+    "end": "2026-05-02T09:00:00+00:00",
+    "duration": 7200
+  },
+  "321841": {
+    "resource": "luogu.com.cn",
+    "id": "321841",
+    "event": "华东理工大学 2026 年程序设计竞赛春季校赛（重现赛）",
+    "href": "https://www.luogu.com.cn/contest/321841",
+    "start": "2026-05-01T05:00:00+00:00",
+    "end": "2026-05-01T10:00:00+00:00",
+    "duration": 18000
+  },
+  "276811": {
+    "resource": "luogu.com.cn",
+    "id": "276811",
+    "event": "【Gensokyo OI Round 1】幻想乡的雨",
+    "href": "https://www.luogu.com.cn/contest/276811",
+    "start": "2026-04-25T06:00:00+00:00",
+    "end": "2026-04-25T10:00:00+00:00",
+    "duration": 14400
+  },
+  "285525": {
+    "resource": "luogu.com.cn",
+    "id": "285525",
+    "event": "DSDOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/285525",
+    "start": "2026-04-19T01:00:00+00:00",
+    "end": "2026-04-19T04:00:00+00:00",
+    "duration": 10800
+  },
+  "321416": {
+    "resource": "luogu.com.cn",
+    "id": "321416",
+    "event": "【MX-J29】梦熊 J 组 · 百香果赛",
+    "href": "https://www.luogu.com.cn/contest/321416",
+    "start": "2026-04-18T00:30:00+00:00",
+    "end": "2026-04-18T04:00:00+00:00",
+    "duration": 12600
   }
 }

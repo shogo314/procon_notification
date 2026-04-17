@@ -1087,5 +1087,50 @@
     "start": "2026-05-09T12:00:00+00:00",
     "end": "2026-05-09T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc456": {
+    "resource": "atcoder.jp",
+    "id": "abc456",
+    "event": "AtCoder Beginner Contest 456（Promotion of AtCoder Career Design DAY）",
+    "href": "https://atcoder.jp/contests/abc456",
+    "start": "2026-05-02T12:00:00+00:00",
+    "end": "2026-05-02T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ndpc2026": {
+    "resource": "atcoder.jp",
+    "id": "ndpc2026",
+    "event": "Next DP Contest",
+    "href": "https://atcoder.jp/contests/ndpc2026",
+    "start": "2026-05-05T04:00:00+00:00",
+    "end": "2026-05-05T09:00:00+00:00",
+    "duration": 18000
+  },
+  "abc462": {
+    "resource": "atcoder.jp",
+    "id": "abc462",
+    "event": "CodeQUEEN 2026 予選 (AtCoder Beginner Contest 462)",
+    "href": "https://atcoder.jp/contests/abc462",
+    "start": "2026-06-13T12:00:00+00:00",
+    "end": "2026-06-13T13:40:00+00:00",
+    "duration": 6000
+  },
+  "arc222": {
+    "resource": "atcoder.jp",
+    "id": "arc222",
+    "event": "第七回日本最強プログラマー学生選手権-予選-（AtCoder Regular Contest 222）",
+    "href": "https://atcoder.jp/contests/arc222",
+    "start": "2026-06-14T12:00:00+00:00",
+    "end": "2026-06-14T14:00:00+00:00",
+    "duration": 7200
+  },
+  "abc464": {
+    "resource": "atcoder.jp",
+    "id": "abc464",
+    "event": "第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）",
+    "href": "https://atcoder.jp/contests/abc464",
+    "start": "2026-06-27T12:00:00+00:00",
+    "end": "2026-06-27T13:40:00+00:00",
+    "duration": 6000
   }
 }
