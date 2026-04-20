@@ -2050,5 +2050,23 @@
     "start": "2026-04-18T00:30:00+00:00",
     "end": "2026-04-18T04:00:00+00:00",
     "duration": 12600
+  },
+  "314922": {
+    "resource": "luogu.com.cn",
+    "id": "314922",
+    "event": "西安交通大学 2026 年程序设计竞赛校赛（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/314922",
+    "start": "2026-05-10T05:30:00+00:00",
+    "end": "2026-05-10T10:30:00+00:00",
+    "duration": 18000
+  },
+  "243061": {
+    "resource": "luogu.com.cn",
+    "id": "243061",
+    "event": "【LGR-280-Div.2】洛谷 4 月月赛 III & Diligent-OI Round 3",
+    "href": "https://www.luogu.com.cn/contest/243061",
+    "start": "2026-04-26T06:00:00+00:00",
+    "end": "2026-04-26T10:00:00+00:00",
+    "duration": 14400
   }
 }

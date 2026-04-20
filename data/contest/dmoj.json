@@ -52,5 +52,23 @@
     "start": "2026-04-11T16:00:00+00:00",
     "end": "2026-04-19T23:00:00+00:00",
     "duration": 14400
+  },
+  "bruce26ciw4": {
+    "resource": "dmoj.ca",
+    "id": "bruce26ciw4",
+    "event": "Bruce's CIW Training Contest 4",
+    "href": "https://dmoj.ca/contest/bruce26ciw4",
+    "start": "2026-04-18T16:00:00+00:00",
+    "end": "2026-04-24T22:30:00+00:00",
+    "duration": 14400
+  },
+  "bruce26cco4": {
+    "resource": "dmoj.ca",
+    "id": "bruce26cco4",
+    "event": "Bruce's CCO Training Contest 4",
+    "href": "https://dmoj.ca/contest/bruce26cco4",
+    "start": "2026-04-18T16:00:00+00:00",
+    "end": "2026-04-26T23:00:00+00:00",
+    "duration": 14400
   }
 }
