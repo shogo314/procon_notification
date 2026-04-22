@@ -367,5 +367,14 @@
     "start": "2026-04-19T11:00:00+00:00",
     "end": "2026-04-19T12:30:00+00:00",
     "duration": 5400
+  },
+  "ge8iibieop4sjashagi3iv5ta0": {
+    "resource": "basecamp.eolymp.com",
+    "id": "ge8iibieop4sjashagi3iv5ta0",
+    "event": "Weekend Practice #23",
+    "href": "https://basecamp.eolymp.com/en/contests/ge8iibieop4sjashagi3iv5ta0",
+    "start": "2026-04-26T09:00:00+00:00",
+    "end": "2026-04-26T11:00:00+00:00",
+    "duration": 7200
   }
 }

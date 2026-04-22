@@ -884,7 +884,7 @@
   "2223": {
     "resource": "codeforces.com",
     "id": "2223",
-    "event": "Codeforces Round (Div. 1)",
+    "event": "Codeforces Round (Div. 1, Based on Zhili Cup 2026)",
     "href": "https://codeforces.com/contests/2223",
     "start": "2026-05-06T06:05:00+00:00",
     "end": "2026-05-06T08:35:00+00:00",
@@ -893,7 +893,7 @@
   "2224": {
     "resource": "codeforces.com",
     "id": "2224",
-    "event": "Codeforces Round (Div. 2)",
+    "event": "Codeforces Round (Div. 2, Based on Zhili Cup 2026)",
     "href": "https://codeforces.com/contests/2224",
     "start": "2026-05-06T06:05:00+00:00",
     "end": "2026-05-06T08:35:00+00:00",
@@ -915,6 +915,15 @@
     "href": "https://codeforces.com/contests/2222",
     "start": "2026-04-25T14:35:00+00:00",
     "end": "2026-04-25T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2227": {
+    "resource": "codeforces.com",
+    "id": "2227",
+    "event": "Codeforces Round (Div. 3)",
+    "href": "https://codeforces.com/contests/2227",
+    "start": "2026-04-30T14:35:00+00:00",
+    "end": "2026-04-30T17:05:00+00:00",
     "duration": 9000
   }
 }

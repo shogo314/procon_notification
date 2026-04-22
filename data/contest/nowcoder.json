@@ -1069,5 +1069,50 @@
     "start": "2026-05-01T04:00:00+00:00",
     "end": "2026-05-01T09:00:00+00:00",
     "duration": 18000
+  },
+  "133506": {
+    "resource": "ac.nowcoder.com",
+    "id": "133506",
+    "event": "2026牛客五一集训派对day2",
+    "href": "https://ac.nowcoder.com/acm/contest/133506",
+    "start": "2026-05-02T04:00:00+00:00",
+    "end": "2026-05-02T09:00:00+00:00",
+    "duration": 18000
+  },
+  "133507": {
+    "resource": "ac.nowcoder.com",
+    "id": "133507",
+    "event": "2026牛客五一集训派对day3",
+    "href": "https://ac.nowcoder.com/acm/contest/133507",
+    "start": "2026-05-03T04:00:00+00:00",
+    "end": "2026-05-03T09:00:00+00:00",
+    "duration": 18000
+  },
+  "133790": {
+    "resource": "ac.nowcoder.com",
+    "id": "133790",
+    "event": "牛客周赛 Round 142",
+    "href": "https://ac.nowcoder.com/acm/contest/133790",
+    "start": "2026-05-03T11:00:00+00:00",
+    "end": "2026-05-03T13:00:00+00:00",
+    "duration": 7200
+  },
+  "133508": {
+    "resource": "ac.nowcoder.com",
+    "id": "133508",
+    "event": "2026牛客五一集训派对day4",
+    "href": "https://ac.nowcoder.com/acm/contest/133508",
+    "start": "2026-05-04T04:00:00+00:00",
+    "end": "2026-05-04T09:00:00+00:00",
+    "duration": 18000
+  },
+  "133509": {
+    "resource": "ac.nowcoder.com",
+    "id": "133509",
+    "event": "2026牛客五一集训派对day5",
+    "href": "https://ac.nowcoder.com/acm/contest/133509",
+    "start": "2026-05-05T04:00:00+00:00",
+    "end": "2026-05-05T09:00:00+00:00",
+    "duration": 18000
   }
 }

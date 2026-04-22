@@ -740,7 +740,7 @@
   "START235": {
     "resource": "codechef.com",
     "id": "START235",
-    "event": "Starters 235",
+    "event": "Starters 235 (Rated till 6 star)",
     "href": "https://www.codechef.com/START235",
     "start": "2026-04-22T14:30:00+00:00",
     "end": "2026-04-22T16:30:00+00:00",
@@ -880,5 +880,14 @@
     "start": "2026-04-17T18:30:00+00:00",
     "end": "2026-04-19T18:30:00+00:00",
     "duration": 172800
+  },
+  "DSAMONDAY35": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY35",
+    "event": "Monday Munch - DSA Challenge 35",
+    "href": "https://www.codechef.com/DSAMONDAY35",
+    "start": "2026-04-27T12:30:00+00:00",
+    "end": "2026-04-27T15:30:00+00:00",
+    "duration": 10800
   }
 }
