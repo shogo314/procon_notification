@@ -2068,5 +2068,50 @@
     "start": "2026-04-26T06:00:00+00:00",
     "end": "2026-04-26T10:00:00+00:00",
     "duration": 14400
+  },
+  "304379": {
+    "resource": "luogu.com.cn",
+    "id": "304379",
+    "event": "『LYROI』Round 1",
+    "href": "https://www.luogu.com.cn/contest/304379",
+    "start": "2026-05-17T06:00:00+00:00",
+    "end": "2026-05-17T10:30:00+00:00",
+    "duration": 16200
+  },
+  "323927": {
+    "resource": "luogu.com.cn",
+    "id": "323927",
+    "event": "中山大学 2025 年程序设计竞赛校赛（重现赛）",
+    "href": "https://www.luogu.com.cn/contest/323927",
+    "start": "2026-05-16T05:00:00+00:00",
+    "end": "2026-05-16T10:00:00+00:00",
+    "duration": 18000
+  },
+  "316306": {
+    "resource": "luogu.com.cn",
+    "id": "316306",
+    "event": "Algo Beat Contest 005 & 「ZzzOI」Round 1",
+    "href": "https://www.luogu.com.cn/contest/316306",
+    "start": "2026-05-05T06:00:00+00:00",
+    "end": "2026-05-05T08:00:00+00:00",
+    "duration": 7200
+  },
+  "274106": {
+    "resource": "luogu.com.cn",
+    "id": "274106",
+    "event": "【LGR-265-Div.3】洛谷基础赛 #34 & YLLOI Round 4",
+    "href": "https://www.luogu.com.cn/contest/274106",
+    "start": "2026-05-04T06:00:00+00:00",
+    "end": "2026-05-04T09:30:00+00:00",
+    "duration": 12600
+  },
+  "323598": {
+    "resource": "luogu.com.cn",
+    "id": "323598",
+    "event": "【MX-X28】梦熊 X 组 · 暴暴龙赛 & FAOI-R12（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/323598",
+    "start": "2026-05-03T06:00:00+00:00",
+    "end": "2026-05-03T10:30:00+00:00",
+    "duration": 16200
   }
 }

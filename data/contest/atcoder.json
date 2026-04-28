@@ -1150,5 +1150,59 @@
     "start": "2026-05-16T06:00:00+00:00",
     "end": "2026-05-16T10:00:00+00:00",
     "duration": 14400
+  },
+  "arc219": {
+    "resource": "atcoder.jp",
+    "id": "arc219",
+    "event": "AtCoder Regular Contest-- 219",
+    "href": "https://atcoder.jp/contests/arc219",
+    "start": "2026-05-10T12:00:00+00:00",
+    "end": "2026-05-10T14:00:00+00:00",
+    "duration": 7200
+  },
+  "abc458": {
+    "resource": "atcoder.jp",
+    "id": "abc458",
+    "event": "SMBCプログラミングコンテスト #1（AtCoder Beginner Contest 458）",
+    "href": "https://atcoder.jp/contests/abc458",
+    "start": "2026-05-16T12:00:00+00:00",
+    "end": "2026-05-16T13:40:00+00:00",
+    "duration": 6000
+  },
+  "arc220": {
+    "resource": "atcoder.jp",
+    "id": "arc220",
+    "event": "AtCoder Regular Contest++ 220",
+    "href": "https://atcoder.jp/contests/arc220",
+    "start": "2026-05-17T12:00:00+00:00",
+    "end": "2026-05-17T14:00:00+00:00",
+    "duration": 7200
+  },
+  "abc459": {
+    "resource": "atcoder.jp",
+    "id": "abc459",
+    "event": "東京海上日動プログラミングコンテスト2026（AtCoder Beginner Contest 459）",
+    "href": "https://atcoder.jp/contests/abc459",
+    "start": "2026-05-23T12:00:00+00:00",
+    "end": "2026-05-23T13:40:00+00:00",
+    "duration": 6000
+  },
+  "abc460": {
+    "resource": "atcoder.jp",
+    "id": "abc460",
+    "event": "AtCoder Beginner Contest 460",
+    "href": "https://atcoder.jp/contests/abc460",
+    "start": "2026-05-30T12:00:00+00:00",
+    "end": "2026-05-30T13:40:00+00:00",
+    "duration": 6000
+  },
+  "arc221": {
+    "resource": "atcoder.jp",
+    "id": "arc221",
+    "event": "AtCoder Regular Contest++ 221",
+    "href": "https://atcoder.jp/contests/arc221",
+    "start": "2026-05-31T12:00:00+00:00",
+    "end": "2026-05-31T14:30:00+00:00",
+    "duration": 9000
   }
 }

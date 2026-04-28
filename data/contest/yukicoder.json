@@ -448,5 +448,14 @@
     "start": "2026-05-22T12:20:00+00:00",
     "end": "2026-05-22T14:50:00+00:00",
     "duration": 9000
+  },
+  "599": {
+    "resource": "yukicoder.me",
+    "id": "599",
+    "event": "MMA Contest 022",
+    "href": "https://yukicoder.me/contests/599",
+    "start": "2026-08-30T04:30:00+00:00",
+    "end": "2026-08-30T07:30:00+00:00",
+    "duration": 10800
   }
 }

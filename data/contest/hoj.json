@@ -88,5 +88,14 @@
     "start": "2026-03-01T23:00:00+00:00",
     "end": "2026-03-02T09:00:00+00:00",
     "duration": 36000
+  },
+  "381": {
+    "resource": "hoj.hamako-ths.ed.jp",
+    "id": "381",
+    "event": "初めてのプロコンin2026",
+    "href": "https://hoj.hamako-ths.ed.jp/onlinejudge/contest/381",
+    "start": "2026-05-08T07:00:00+00:00",
+    "end": "2026-05-08T09:00:00+00:00",
+    "duration": 7200
   }
 }
