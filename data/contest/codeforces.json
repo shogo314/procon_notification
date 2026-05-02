@@ -884,7 +884,7 @@
   "2223": {
     "resource": "codeforces.com",
     "id": "2223",
-    "event": "Codeforces Round (Div. 1, Based on Zhili Cup 2026)",
+    "event": "Codeforces Round 1097 (Div. 1, Based on Zhili Cup 2026)",
     "href": "https://codeforces.com/contests/2223",
     "start": "2026-05-06T06:05:00+00:00",
     "end": "2026-05-06T08:35:00+00:00",
@@ -893,7 +893,7 @@
   "2224": {
     "resource": "codeforces.com",
     "id": "2224",
-    "event": "Codeforces Round (Div. 2, Based on Zhili Cup 2026)",
+    "event": "Codeforces Round 1097 (Div. 2, Based on Zhili Cup 2026)",
     "href": "https://codeforces.com/contests/2224",
     "start": "2026-05-06T06:05:00+00:00",
     "end": "2026-05-06T08:35:00+00:00",
@@ -934,5 +934,14 @@
     "start": "2026-05-16T14:35:00+00:00",
     "end": "2026-05-16T16:35:00+00:00",
     "duration": 7200
+  },
+  "2229": {
+    "resource": "codeforces.com",
+    "id": "2229",
+    "event": "Spectral::Cup 2026 Round 2 (Codeforces Round, Div. 1 + Div. 2)",
+    "href": "https://codeforces.com/contests/2229",
+    "start": "2026-05-23T14:35:00+00:00",
+    "end": "2026-05-23T17:35:00+00:00",
+    "duration": 10800
   }
 }

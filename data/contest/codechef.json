@@ -889,5 +889,68 @@
     "start": "2026-04-27T12:30:00+00:00",
     "end": "2026-04-27T15:30:00+00:00",
     "duration": 10800
+  },
+  "START240": {
+    "resource": "codechef.com",
+    "id": "START240",
+    "event": "Starters 240",
+    "href": "https://www.codechef.com/START240",
+    "start": "2026-05-27T14:30:00+00:00",
+    "end": "2026-05-27T16:30:00+00:00",
+    "duration": 7200
+  },
+  "DEVWEEKEND48": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND48",
+    "event": "Weekend Dev Challenge 48: Golang Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND48",
+    "start": "2026-05-01T18:30:00+00:00",
+    "end": "2026-05-03T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DSAMONDAY001": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY001",
+    "event": "Monday Munch - DSA Challenge 001 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY001",
+    "start": "2026-05-04T12:30:00+00:00",
+    "end": "2026-05-04T15:30:00+00:00",
+    "duration": 10800
+  },
+  "START239": {
+    "resource": "codechef.com",
+    "id": "START239",
+    "event": "Starters 239",
+    "href": "https://www.codechef.com/START239",
+    "start": "2026-05-20T14:30:00+00:00",
+    "end": "2026-05-20T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START238": {
+    "resource": "codechef.com",
+    "id": "START238",
+    "event": "Starters 238",
+    "href": "https://www.codechef.com/START238",
+    "start": "2026-05-13T14:30:00+00:00",
+    "end": "2026-05-13T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START237": {
+    "resource": "codechef.com",
+    "id": "START237",
+    "event": "Starters 237",
+    "href": "https://www.codechef.com/START237",
+    "start": "2026-05-06T14:30:00+00:00",
+    "end": "2026-05-06T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START241": {
+    "resource": "codechef.com",
+    "id": "START241",
+    "event": "Starters 241",
+    "href": "https://www.codechef.com/START241",
+    "start": "2026-06-03T14:30:00+00:00",
+    "end": "2026-06-03T16:30:00+00:00",
+    "duration": 7200
   }
 }
