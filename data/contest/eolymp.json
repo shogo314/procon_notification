@@ -385,5 +385,23 @@
     "start": "2026-05-03T12:00:00+00:00",
     "end": "2026-05-03T13:30:00+00:00",
     "duration": 5400
+  },
+  "dfv49uj5r10ur1c9jjh3jm7mu4": {
+    "resource": "basecamp.eolymp.com",
+    "id": "dfv49uj5r10ur1c9jjh3jm7mu4",
+    "event": "UOI 2026. Day 2",
+    "href": "https://basecamp.eolymp.com/en/contests/dfv49uj5r10ur1c9jjh3jm7mu4",
+    "start": "2026-05-09T14:00:00+00:00",
+    "end": "2026-05-09T19:00:00+00:00",
+    "duration": 18000
+  },
+  "uveh0bl5m55f5dfr3loqsk2ov0": {
+    "resource": "basecamp.eolymp.com",
+    "id": "uveh0bl5m55f5dfr3loqsk2ov0",
+    "event": "UOI 2026. Day 1",
+    "href": "https://basecamp.eolymp.com/en/contests/uveh0bl5m55f5dfr3loqsk2ov0",
+    "start": "2026-05-08T14:00:00+00:00",
+    "end": "2026-05-08T19:00:00+00:00",
+    "duration": 18000
   }
 }

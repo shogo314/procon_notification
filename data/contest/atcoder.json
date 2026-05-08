@@ -1166,8 +1166,8 @@
     "event": "AtCoder Regular Contest++ 220",
     "href": "https://atcoder.jp/contests/arc220",
     "start": "2026-05-17T12:00:00+00:00",
-    "end": "2026-05-17T14:00:00+00:00",
-    "duration": 7200
+    "end": "2026-05-17T14:30:00+00:00",
+    "duration": 9000
   },
   "abc459": {
     "resource": "atcoder.jp",
@@ -1195,5 +1195,23 @@
     "start": "2026-05-31T12:00:00+00:00",
     "end": "2026-05-31T14:30:00+00:00",
     "duration": 9000
+  },
+  "ahc066": {
+    "resource": "atcoder.jp",
+    "id": "ahc066",
+    "event": "AtCoder Heuristic Contest 066",
+    "href": "https://atcoder.jp/contests/ahc066",
+    "start": "2026-05-29T10:00:00+00:00",
+    "end": "2026-06-08T10:00:00+00:00",
+    "duration": 864000
+  },
+  "abc461": {
+    "resource": "atcoder.jp",
+    "id": "abc461",
+    "event": "AtCoder Beginner Contest 461",
+    "href": "https://atcoder.jp/contests/abc461",
+    "start": "2026-06-06T12:00:00+00:00",
+    "end": "2026-06-06T13:40:00+00:00",
+    "duration": 6000
   }
 }
