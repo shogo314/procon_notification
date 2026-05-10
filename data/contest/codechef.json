@@ -952,5 +952,23 @@
     "start": "2026-06-03T14:30:00+00:00",
     "end": "2026-06-03T16:30:00+00:00",
     "duration": 7200
+  },
+  "DEVWEEKEND49": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND49",
+    "event": "Weekend Dev Challenge 49: Golang Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND49",
+    "start": "2026-05-08T18:30:00+00:00",
+    "end": "2026-05-10T18:30:00+00:00",
+    "duration": 172800
+  },
+  "DSAMONDAY002": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY002",
+    "event": "Monday Munch - DSA Challenge 002 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY002",
+    "start": "2026-05-11T12:30:00+00:00",
+    "end": "2026-05-11T15:30:00+00:00",
+    "duration": 10800
   }
 }

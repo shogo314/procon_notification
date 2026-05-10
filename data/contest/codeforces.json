@@ -932,8 +932,8 @@
     "event": "Codeforces Round (Div. 2)",
     "href": "https://codeforces.com/contests/2228",
     "start": "2026-05-16T14:35:00+00:00",
-    "end": "2026-05-16T16:35:00+00:00",
-    "duration": 7200
+    "end": "2026-05-16T16:50:00+00:00",
+    "duration": 8100
   },
   "2229": {
     "resource": "codeforces.com",
@@ -943,5 +943,14 @@
     "start": "2026-05-23T14:35:00+00:00",
     "end": "2026-05-23T17:35:00+00:00",
     "duration": 10800
+  },
+  "2230": {
+    "resource": "codeforces.com",
+    "id": "2230",
+    "event": "Educational Codeforces Round 190 (Rated for Div. 2)",
+    "href": "https://codeforces.com/contests/2230",
+    "start": "2026-05-18T14:35:00+00:00",
+    "end": "2026-05-18T16:35:00+00:00",
+    "duration": 7200
   }
 }

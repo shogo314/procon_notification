@@ -1105,5 +1105,23 @@
     "start": "2026-04-05T11:00:00+00:00",
     "end": "2026-04-05T14:00:00+00:00",
     "duration": 10800
+  },
+  "3146": {
+    "resource": "kilonova.ro",
+    "id": "3146",
+    "event": "FIICode 2026 Final Round - Elevi",
+    "href": "https://kilonova.ro/contests/3146",
+    "start": "2026-05-09T09:15:00+00:00",
+    "end": "2026-05-09T12:15:00+00:00",
+    "duration": 10800
+  },
+  "3147": {
+    "resource": "kilonova.ro",
+    "id": "3147",
+    "event": "FIICode 2026 Final Round - Studenți",
+    "href": "https://kilonova.ro/contests/3147",
+    "start": "2026-05-09T09:15:00+00:00",
+    "end": "2026-05-09T12:15:00+00:00",
+    "duration": 10800
   }
 }
