@@ -173,10 +173,28 @@
   "vnoicup26_r1": {
     "resource": "oj.vnoi.info",
     "id": "vnoicup26_r1",
-    "event": "VNOI CUP 2026 - Vòng loại thứ nhất",
+    "event": "[Official] VNOI CUP 2026 - Vòng loại thứ nhất",
     "href": "https://oj.vnoi.info/contest/vnoicup26_r1",
     "start": "2026-05-16T13:30:00+00:00",
-    "end": "2026-05-16T16:00:00+00:00",
-    "duration": 9000
+    "end": "2026-05-16T16:30:00+00:00",
+    "duration": 10800
+  },
+  "vnoicup26_trial": {
+    "resource": "oj.vnoi.info",
+    "id": "vnoicup26_trial",
+    "event": "[Trial] Thi thử VNOI CUP 2026",
+    "href": "https://oj.vnoi.info/contest/vnoicup26_trial",
+    "start": "2026-05-13T13:00:00+00:00",
+    "end": "2026-05-14T15:00:00+00:00",
+    "duration": 93600
+  },
+  "vnoicup26_r1_mirror": {
+    "resource": "oj.vnoi.info",
+    "id": "vnoicup26_r1_mirror",
+    "event": "[Unofficial] VNOI CUP 2026 - Vòng loại thứ nhất",
+    "href": "https://oj.vnoi.info/contest/vnoicup26_r1_mirror",
+    "start": "2026-05-16T13:30:00+00:00",
+    "end": "2026-05-16T16:30:00+00:00",
+    "duration": 10800
   }
 }

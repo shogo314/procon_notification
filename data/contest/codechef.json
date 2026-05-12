@@ -929,11 +929,11 @@
   "START238": {
     "resource": "codechef.com",
     "id": "START238",
-    "event": "Starters 238",
+    "event": "Starters 238 (Rated till 6 star)",
     "href": "https://www.codechef.com/START238",
     "start": "2026-05-13T14:30:00+00:00",
-    "end": "2026-05-13T16:30:00+00:00",
-    "duration": 7200
+    "end": "2026-05-13T17:00:00+00:00",
+    "duration": 9000
   },
   "START237": {
     "resource": "codechef.com",

@@ -18,7 +18,6 @@ export default function AboutPage() {
                 <li><a href="https://olympicode.rs/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">OlympiCode</a></li>
                 <li><a href="https://kep.uz/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">KEP</a></li>
                 <li><a href="https://www.eolymp.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Eolymp</a></li>
-                <li><a href="https://www.acmicpc.net/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Baekjoon Online Judge</a></li>
                 <li><a href="https://judge.eluminatis-of-lu.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">SeriousOJ</a></li>
                 <li><a href="https://toph.co/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Toph</a></li>
                 <li>ICPC（国内予選、それ以降の日本人が参加していそうなRegional）</li>
