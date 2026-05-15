@@ -1213,5 +1213,23 @@
     "start": "2026-06-06T12:00:00+00:00",
     "end": "2026-06-06T13:40:00+00:00",
     "duration": 6000
+  },
+  "c-league2026-1": {
+    "resource": "atcoder.jp",
+    "id": "c-league2026-1",
+    "event": "AtCoder 企業対抗リーグ 2026 第1戦",
+    "href": "https://atcoder.jp/contests/c-league2026-1",
+    "start": "2026-05-22T11:00:00+00:00",
+    "end": "2026-05-22T13:00:00+00:00",
+    "duration": 7200
+  },
+  "c-league2026-1-open": {
+    "resource": "atcoder.jp",
+    "id": "c-league2026-1-open",
+    "event": "AtCoder 企業対抗リーグ 2026 第1戦(オープンコンテスト)",
+    "href": "https://atcoder.jp/contests/c-league2026-1-open",
+    "start": "2026-05-22T11:00:00+00:00",
+    "end": "2026-05-22T13:00:00+00:00",
+    "duration": 7200
   }
 }

@@ -970,5 +970,14 @@
     "start": "2026-05-11T12:30:00+00:00",
     "end": "2026-05-11T15:30:00+00:00",
     "duration": 10800
+  },
+  "DEVWEEKEND50": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND50",
+    "event": "Weekend Dev Challenge 50: Golang Projects",
+    "href": "https://www.codechef.com/DEVWEEKEND50",
+    "start": "2026-05-15T18:30:00+00:00",
+    "end": "2026-05-17T18:30:00+00:00",
+    "duration": 172800
   }
 }

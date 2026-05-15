@@ -2122,5 +2122,50 @@
     "start": "2026-05-16T00:30:00+00:00",
     "end": "2026-05-16T04:30:00+00:00",
     "duration": 14400
+  },
+  "305608": {
+    "resource": "luogu.com.cn",
+    "id": "305608",
+    "event": "AFOI 2025 & AFO OI Round 1",
+    "href": "https://www.luogu.com.cn/contest/305608",
+    "start": "2026-06-06T05:00:00+00:00",
+    "end": "2026-06-06T09:30:00+00:00",
+    "duration": 16200
+  },
+  "326649": {
+    "resource": "luogu.com.cn",
+    "id": "326649",
+    "event": "2024 年“金山杯”华中地区高校第十八届程序设计邀请赛重现赛",
+    "href": "https://www.luogu.com.cn/contest/326649",
+    "start": "2026-05-31T05:00:00+00:00",
+    "end": "2026-05-31T10:00:00+00:00",
+    "duration": 18000
+  },
+  "326698": {
+    "resource": "luogu.com.cn",
+    "id": "326698",
+    "event": "【LGR-285-Div.2】洛谷蓝桥杯国赛模拟赛 2026",
+    "href": "https://www.luogu.com.cn/contest/326698",
+    "start": "2026-05-30T06:00:00+00:00",
+    "end": "2026-05-30T10:00:00+00:00",
+    "duration": 14400
+  },
+  "326688": {
+    "resource": "luogu.com.cn",
+    "id": "326688",
+    "event": "【LGR-284-Div.4】洛谷入门赛 #47",
+    "href": "https://www.luogu.com.cn/contest/326688",
+    "start": "2026-05-22T11:00:00+00:00",
+    "end": "2026-05-22T13:00:00+00:00",
+    "duration": 7200
+  },
+  "326643": {
+    "resource": "luogu.com.cn",
+    "id": "326643",
+    "event": "【MX-S14】梦熊 S 组 · 羽毛赛 & KWOI Round 2（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/326643",
+    "start": "2026-05-16T06:00:00+00:00",
+    "end": "2026-05-16T10:00:00+00:00",
+    "duration": 14400
   }
 }
