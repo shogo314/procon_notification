@@ -2167,5 +2167,23 @@
     "start": "2026-05-16T06:00:00+00:00",
     "end": "2026-05-16T10:00:00+00:00",
     "duration": 14400
+  },
+  "327902": {
+    "resource": "luogu.com.cn",
+    "id": "327902",
+    "event": "【MX-J30】梦熊 J 组 · H₂O赛 & FDOI Round 1",
+    "href": "https://www.luogu.com.cn/contest/327902",
+    "start": "2026-05-30T01:00:00+00:00",
+    "end": "2026-05-30T04:00:00+00:00",
+    "duration": 10800
+  },
+  "324945": {
+    "resource": "luogu.com.cn",
+    "id": "324945",
+    "event": "Algo Beat Contest 008 &「WWOI」Round 3",
+    "href": "https://www.luogu.com.cn/contest/324945",
+    "start": "2026-05-24T06:00:00+00:00",
+    "end": "2026-05-24T10:00:00+00:00",
+    "duration": 14400
   }
 }

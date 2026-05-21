@@ -92,19 +92,19 @@
   "9": {
     "resource": "repovive.com",
     "id": "9",
-    "event": "Repovive Standard Round 1 (Sponsored by TIG)",
+    "event": "Repovive Premier Round 4",
     "href": "https://repovive.com/contests/9",
-    "start": "2026-03-02T14:35:00+00:00",
-    "end": "2026-03-02T16:35:00+00:00",
-    "duration": 7200
+    "start": "2026-05-25T14:35:00+00:00",
+    "end": "2026-05-25T17:05:00+00:00",
+    "duration": 9000
   },
   "contests": {
     "resource": "repovive.com",
     "id": "contests",
-    "event": "Repovive Standard Round 3",
+    "event": "Meta Round",
     "href": "https://repovive.com/contests",
-    "start": "2026-05-17T14:35:00+00:00",
-    "end": "2026-05-17T16:35:00+00:00",
-    "duration": 7200
+    "start": "2027-01-01T00:00:00+00:00",
+    "end": "2027-01-01T23:59:59+00:00",
+    "duration": 86399
   }
 }

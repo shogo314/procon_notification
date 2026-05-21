@@ -1120,8 +1120,8 @@
     "id": "133876",
     "event": "2026牛客暑期多校训练营1",
     "href": "https://ac.nowcoder.com/acm/contest/133876",
-    "start": "2026-07-16T04:00:00+00:00",
-    "end": "2026-07-16T09:00:00+00:00",
+    "start": "2026-07-17T04:00:00+00:00",
+    "end": "2026-07-17T09:00:00+00:00",
     "duration": 18000
   },
   "134814": {
@@ -1158,6 +1158,24 @@
     "href": "https://ac.nowcoder.com/acm/contest/134981",
     "start": "2026-05-24T11:00:00+00:00",
     "end": "2026-05-24T13:00:00+00:00",
+    "duration": 7200
+  },
+  "135365": {
+    "resource": "ac.nowcoder.com",
+    "id": "135365",
+    "event": "牛客小白月赛133",
+    "href": "https://ac.nowcoder.com/acm/contest/135365",
+    "start": "2026-05-29T11:00:00+00:00",
+    "end": "2026-05-29T13:00:00+00:00",
+    "duration": 7200
+  },
+  "135295": {
+    "resource": "ac.nowcoder.com",
+    "id": "135295",
+    "event": "牛客2026年儿童节比赛",
+    "href": "https://ac.nowcoder.com/acm/contest/135295",
+    "start": "2026-06-01T11:00:00+00:00",
+    "end": "2026-06-01T13:00:00+00:00",
     "duration": 7200
   }
 }
