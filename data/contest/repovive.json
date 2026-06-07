@@ -83,11 +83,11 @@
   "11": {
     "resource": "repovive.com",
     "id": "11",
-    "event": "Meta Round",
+    "event": "Repovive Standard Round 4",
     "href": "https://repovive.com/contests/11",
-    "start": "2027-01-01T00:00:00+00:00",
-    "end": "2027-01-01T23:59:59+00:00",
-    "duration": 86399
+    "start": "2026-06-09T14:35:00+00:00",
+    "end": "2026-06-09T16:35:00+00:00",
+    "duration": 7200
   },
   "9": {
     "resource": "repovive.com",

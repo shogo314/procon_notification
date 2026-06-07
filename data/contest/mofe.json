@@ -124,5 +124,14 @@
     "start": "2026-05-17T01:30:00+00:00",
     "end": "2026-05-17T03:10:00+00:00",
     "duration": 6000
+  },
+  "kyoprocamp2026east": {
+    "resource": "mofecoder.com",
+    "id": "kyoprocamp2026east",
+    "event": "競プロキャンプ2026関東",
+    "href": "https://mofecoder.com/contests/kyoprocamp2026east",
+    "start": "2026-06-07T00:15:00+00:00",
+    "end": "2026-06-07T02:15:00+00:00",
+    "duration": 7200
   }
 }

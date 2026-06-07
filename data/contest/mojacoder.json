@@ -34,5 +34,14 @@
     "start": "2026-03-29T11:00:00+00:00",
     "end": "2026-04-12T15:00:00+00:00",
     "duration": 1224000
+  },
+  "Youteru/zeze-kofusai2026_algo": {
+    "resource": "mojacoder.app",
+    "id": "Youteru/zeze-kofusai2026_algo",
+    "event": "第5回湖風祭コンテスト情報",
+    "href": "https://mojacoder.app/users/Youteru/contests/zeze-kofusai2026_algo",
+    "start": "2026-07-05T12:00:00+00:00",
+    "end": "2026-07-12T12:00:00+00:00",
+    "duration": 604800
   }
 }

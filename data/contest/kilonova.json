@@ -1123,5 +1123,41 @@
     "start": "2026-05-09T09:15:00+00:00",
     "end": "2026-05-09T12:15:00+00:00",
     "duration": 10800
+  },
+  "3199": {
+    "resource": "kilonova.ro",
+    "id": "3199",
+    "event": "Marele Premiu al Palatului Național al Copiilor din București 2026 - Clasele V-VI Online",
+    "href": "https://kilonova.ro/contests/3199",
+    "start": "2026-05-23T07:00:00+00:00",
+    "end": "2026-05-23T09:00:00+00:00",
+    "duration": 7200
+  },
+  "3201": {
+    "resource": "kilonova.ro",
+    "id": "3201",
+    "event": "Marele Premiu al Palatului Național al Copiilor din București 2026 - Clasele IX-X Online",
+    "href": "https://kilonova.ro/contests/3201",
+    "start": "2026-05-23T07:00:00+00:00",
+    "end": "2026-05-23T09:00:00+00:00",
+    "duration": 7200
+  },
+  "3203": {
+    "resource": "kilonova.ro",
+    "id": "3203",
+    "event": "Marele Premiu al Palatului Național al Copiilor din București 2026 - Clasele XI-XII Online",
+    "href": "https://kilonova.ro/contests/3203",
+    "start": "2026-05-23T07:00:00+00:00",
+    "end": "2026-05-23T09:00:00+00:00",
+    "duration": 7200
+  },
+  "3205": {
+    "resource": "kilonova.ro",
+    "id": "3205",
+    "event": "Marele Premiu al Palatului Național al Copiilor din București 2026 - Clasele VII-VIII Online",
+    "href": "https://kilonova.ro/contests/3205",
+    "start": "2026-05-23T07:00:00+00:00",
+    "end": "2026-05-23T09:00:00+00:00",
+    "duration": 7200
   }
 }
