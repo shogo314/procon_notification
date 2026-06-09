@@ -421,5 +421,14 @@
     "start": "2026-06-08T05:00:00+00:00",
     "end": "2026-06-22T19:59:00+00:00",
     "duration": 1263540
+  },
+  "240s78s6692q96bfnruoh4gfno": {
+    "resource": "basecamp.eolymp.com",
+    "id": "240s78s6692q96bfnruoh4gfno",
+    "event": "C Programming Intensive course. Lesson 2. Conditional Statement - Part 2",
+    "href": "https://basecamp.eolymp.com/en/contests/240s78s6692q96bfnruoh4gfno",
+    "start": "2026-06-10T05:00:00+00:00",
+    "end": "2026-06-24T19:59:00+00:00",
+    "duration": 1263540
   }
 }

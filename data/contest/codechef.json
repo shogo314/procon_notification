@@ -1042,5 +1042,14 @@
     "start": "2026-06-05T18:30:00+00:00",
     "end": "2026-06-07T18:30:00+00:00",
     "duration": 172800
+  },
+  "DSAMONDAY007": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY007",
+    "event": "Monday Munch - DSA Challenge 007 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY007",
+    "start": "2026-06-15T12:30:00+00:00",
+    "end": "2026-06-15T15:30:00+00:00",
+    "duration": 10800
   }
 }

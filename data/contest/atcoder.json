@@ -1267,5 +1267,14 @@
     "start": "2026-07-04T12:00:00+00:00",
     "end": "2026-07-04T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc466": {
+    "resource": "atcoder.jp",
+    "id": "abc466",
+    "event": "AtCoder Beginner Contest 466",
+    "href": "https://atcoder.jp/contests/abc466",
+    "start": "2026-07-11T12:00:00+00:00",
+    "end": "2026-07-11T13:40:00+00:00",
+    "duration": 6000
   }
 }
