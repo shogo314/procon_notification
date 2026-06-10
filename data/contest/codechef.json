@@ -1028,7 +1028,7 @@
   "START242": {
     "resource": "codechef.com",
     "id": "START242",
-    "event": "Starters 242",
+    "event": "Starters 242 (Rated till 5 star)",
     "href": "https://www.codechef.com/START242",
     "start": "2026-06-10T14:30:00+00:00",
     "end": "2026-06-10T16:30:00+00:00",
@@ -1051,5 +1051,14 @@
     "start": "2026-06-15T12:30:00+00:00",
     "end": "2026-06-15T15:30:00+00:00",
     "duration": 10800
+  },
+  "DEVWEEKEND54": {
+    "resource": "codechef.com",
+    "id": "DEVWEEKEND54",
+    "event": "Weekend Dev Challenge 54: .NET projects",
+    "href": "https://www.codechef.com/DEVWEEKEND54",
+    "start": "2026-06-12T18:30:00+00:00",
+    "end": "2026-06-14T18:30:00+00:00",
+    "duration": 172800
   }
 }

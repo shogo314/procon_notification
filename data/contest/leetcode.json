@@ -664,5 +664,14 @@
     "start": "2026-06-14T02:30:00+00:00",
     "end": "2026-06-14T04:00:00+00:00",
     "duration": 5400
+  },
+  "weekly-contest-507": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-507",
+    "event": "Weekly Contest 507",
+    "href": "https://leetcode.com/contest/weekly-contest-507",
+    "start": "2026-06-21T02:30:00+00:00",
+    "end": "2026-06-21T04:00:00+00:00",
+    "duration": 5400
   }
 }
