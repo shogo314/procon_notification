@@ -1222,5 +1222,23 @@
     "start": "2026-06-21T11:00:00+00:00",
     "end": "2026-06-21T13:00:00+00:00",
     "duration": 7200
+  },
+  "137072": {
+    "resource": "ac.nowcoder.com",
+    "id": "137072",
+    "event": "牛客小白月赛134",
+    "href": "https://ac.nowcoder.com/acm/contest/137072",
+    "start": "2026-06-26T11:00:00+00:00",
+    "end": "2026-06-26T13:00:00+00:00",
+    "duration": 7200
+  },
+  "137073": {
+    "resource": "ac.nowcoder.com",
+    "id": "137073",
+    "event": "牛客周赛 Round 150",
+    "href": "https://ac.nowcoder.com/acm/contest/137073",
+    "start": "2026-06-28T11:00:00+00:00",
+    "end": "2026-06-28T13:00:00+00:00",
+    "duration": 7200
   }
 }

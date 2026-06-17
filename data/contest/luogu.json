@@ -2270,10 +2270,28 @@
   "297106": {
     "resource": "luogu.com.cn",
     "id": "297106",
-    "event": "LGR-288-Div 2 / lnOI Round 1",
+    "event": "【LGR-288-Div.2】洛谷 7 月月赛 I & lnOI Round 1",
     "href": "https://www.luogu.com.cn/contest/297106",
     "start": "2026-07-04T06:00:00+00:00",
     "end": "2026-07-04T10:00:00+00:00",
     "duration": 14400
+  },
+  "244960": {
+    "resource": "luogu.com.cn",
+    "id": "244960",
+    "event": "XRCOI Round 2",
+    "href": "https://www.luogu.com.cn/contest/244960",
+    "start": "2026-06-27T06:00:00+00:00",
+    "end": "2026-06-27T10:00:00+00:00",
+    "duration": 14400
+  },
+  "332926": {
+    "resource": "luogu.com.cn",
+    "id": "332926",
+    "event": "【LGR-289-Div.4】洛谷入门赛 #48",
+    "href": "https://www.luogu.com.cn/contest/332926",
+    "start": "2026-06-26T11:00:00+00:00",
+    "end": "2026-06-26T13:00:00+00:00",
+    "duration": 7200
   }
 }
