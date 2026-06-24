@@ -430,5 +430,14 @@
     "start": "2026-06-10T05:00:00+00:00",
     "end": "2026-06-24T19:59:00+00:00",
     "duration": 1263540
+  },
+  "kpiopen2026": {
+    "resource": "basecamp.eolymp.com",
+    "id": "kpiopen2026",
+    "event": "KPI Open 2026",
+    "href": "https://basecamp.eolymp.com/en/contests/kpiopen2026",
+    "start": "2026-07-04T14:00:00+00:00",
+    "end": "2026-07-04T19:00:00+00:00",
+    "duration": 18000
   }
 }

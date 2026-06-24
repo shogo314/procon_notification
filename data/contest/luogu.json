@@ -2272,8 +2272,8 @@
     "id": "297106",
     "event": "【LGR-288-Div.2】洛谷 7 月月赛 I & lnOI Round 1",
     "href": "https://www.luogu.com.cn/contest/297106",
-    "start": "2026-07-04T06:00:00+00:00",
-    "end": "2026-07-04T10:00:00+00:00",
+    "start": "2026-07-11T06:00:00+00:00",
+    "end": "2026-07-11T10:00:00+00:00",
     "duration": 14400
   },
   "244960": {
@@ -2293,5 +2293,23 @@
     "start": "2026-06-26T11:00:00+00:00",
     "end": "2026-06-26T13:00:00+00:00",
     "duration": 7200
+  },
+  "334256": {
+    "resource": "luogu.com.cn",
+    "id": "334256",
+    "event": "[ICPC2017 Qingdao R] ICPC 2017 区域赛青岛站重现赛",
+    "href": "https://www.luogu.com.cn/contest/334256",
+    "start": "2026-07-12T05:00:00+00:00",
+    "end": "2026-07-12T10:00:00+00:00",
+    "duration": 18000
+  },
+  "334255": {
+    "resource": "luogu.com.cn",
+    "id": "334255",
+    "event": "[ICPC2017 Shenyang R] ICPC 2017 区域赛沈阳站重现赛",
+    "href": "https://www.luogu.com.cn/contest/334255",
+    "start": "2026-07-05T05:00:00+00:00",
+    "end": "2026-07-05T10:00:00+00:00",
+    "duration": 18000
   }
 }

@@ -1006,5 +1006,50 @@
     "start": "2026-06-18T14:35:00+00:00",
     "end": "2026-06-18T17:35:00+00:00",
     "duration": 10800
+  },
+  "2242": {
+    "resource": "codeforces.com",
+    "id": "2242",
+    "event": "Educational Codeforces Round 192 (Rated for Div. 2)",
+    "href": "https://codeforces.com/contests/2242",
+    "start": "2026-07-06T14:35:00+00:00",
+    "end": "2026-07-06T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2240": {
+    "resource": "codeforces.com",
+    "id": "2240",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2240",
+    "start": "2026-06-27T14:35:00+00:00",
+    "end": "2026-06-27T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2239": {
+    "resource": "codeforces.com",
+    "id": "2239",
+    "event": "Codeforces Round (Div. 1)",
+    "href": "https://codeforces.com/contests/2239",
+    "start": "2026-06-27T14:35:00+00:00",
+    "end": "2026-06-27T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2238": {
+    "resource": "codeforces.com",
+    "id": "2238",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2238",
+    "start": "2026-06-28T14:35:00+00:00",
+    "end": "2026-06-28T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2241": {
+    "resource": "codeforces.com",
+    "id": "2241",
+    "event": "Codeforces Round (Div. 3)",
+    "href": "https://codeforces.com/contests/2241",
+    "start": "2026-06-30T14:35:00+00:00",
+    "end": "2026-06-30T16:50:00+00:00",
+    "duration": 8100
   }
 }

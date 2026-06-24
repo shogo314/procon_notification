@@ -1294,5 +1294,41 @@
     "start": "2026-07-18T12:00:00+00:00",
     "end": "2026-07-18T13:40:00+00:00",
     "duration": 6000
+  },
+  "awtf2026heuristic": {
+    "resource": "atcoder.jp",
+    "id": "awtf2026heuristic",
+    "event": "World Tour Finals 2026 Heuristic",
+    "href": "https://atcoder.jp/contests/awtf2026heuristic",
+    "start": "2026-07-07T00:00:00+00:00",
+    "end": "2026-07-08T10:00:00+00:00",
+    "duration": 122400
+  },
+  "awtf2026algo": {
+    "resource": "atcoder.jp",
+    "id": "awtf2026algo",
+    "event": "World Tour Finals 2026 Algorithm",
+    "href": "https://atcoder.jp/contests/awtf2026algo",
+    "start": "2026-07-09T02:00:00+00:00",
+    "end": "2026-07-09T09:00:00+00:00",
+    "duration": 25200
+  },
+  "awtf2026algo-open": {
+    "resource": "atcoder.jp",
+    "id": "awtf2026algo-open",
+    "event": "World Tour Finals 2026 Algorithm（Open Contest）",
+    "href": "https://atcoder.jp/contests/awtf2026algo-open",
+    "start": "2026-07-09T02:00:00+00:00",
+    "end": "2026-07-09T09:00:00+00:00",
+    "duration": 25200
+  },
+  "abc468": {
+    "resource": "atcoder.jp",
+    "id": "abc468",
+    "event": "AtCoder Beginner Contest 468",
+    "href": "https://atcoder.jp/contests/abc468",
+    "start": "2026-07-25T12:00:00+00:00",
+    "end": "2026-07-25T13:40:00+00:00",
+    "duration": 6000
   }
 }
