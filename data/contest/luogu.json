@@ -2311,5 +2311,59 @@
     "start": "2026-07-05T05:00:00+00:00",
     "end": "2026-07-05T10:00:00+00:00",
     "duration": 18000
+  },
+  "335418": {
+    "resource": "luogu.com.cn",
+    "id": "335418",
+    "event": "[ICPC 2025 Shanghai R] ICPC 2025 区域赛上海站重现赛",
+    "href": "https://www.luogu.com.cn/contest/335418",
+    "start": "2026-07-19T05:00:00+00:00",
+    "end": "2026-07-19T10:00:00+00:00",
+    "duration": 18000
+  },
+  "326863": {
+    "resource": "luogu.com.cn",
+    "id": "326863",
+    "event": "Algo Beat Contest 009 &「MROI」Round 1",
+    "href": "https://www.luogu.com.cn/contest/326863",
+    "start": "2026-07-18T06:00:00+00:00",
+    "end": "2026-07-18T10:00:00+00:00",
+    "duration": 14400
+  },
+  "332884": {
+    "resource": "luogu.com.cn",
+    "id": "332884",
+    "event": "【LGR-290-Div.4】洛谷入门赛 #49",
+    "href": "https://www.luogu.com.cn/contest/332884",
+    "start": "2026-07-12T11:00:00+00:00",
+    "end": "2026-07-12T13:00:00+00:00",
+    "duration": 7200
+  },
+  "334075": {
+    "resource": "luogu.com.cn",
+    "id": "334075",
+    "event": "【LGR-291-Div.2】洛谷 7 月月赛 II & FDOI Round 3 - Ciallo",
+    "href": "https://www.luogu.com.cn/contest/334075",
+    "start": "2026-07-10T06:00:00+00:00",
+    "end": "2026-07-10T10:00:00+00:00",
+    "duration": 14400
+  },
+  "299349": {
+    "resource": "luogu.com.cn",
+    "id": "299349",
+    "event": "JRKSJ Round 10 庆典 热身赛",
+    "href": "https://www.luogu.com.cn/contest/299349",
+    "start": "2026-07-04T06:00:00+00:00",
+    "end": "2026-07-04T10:00:00+00:00",
+    "duration": 14400
+  },
+  "334639": {
+    "resource": "luogu.com.cn",
+    "id": "334639",
+    "event": "【MX-S15】梦熊 S 组 · 凡尔赛 & DLESS Round 5（同步赛）",
+    "href": "https://www.luogu.com.cn/contest/334639",
+    "start": "2026-06-28T06:00:00+00:00",
+    "end": "2026-06-28T10:00:00+00:00",
+    "duration": 14400
   }
 }

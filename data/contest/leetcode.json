@@ -691,5 +691,32 @@
     "start": "2026-06-28T02:30:00+00:00",
     "end": "2026-06-28T04:00:00+00:00",
     "duration": 5400
+  },
+  "biweekly-contest-187": {
+    "resource": "leetcode.com",
+    "id": "biweekly-contest-187",
+    "event": "Biweekly Contest 187",
+    "href": "https://leetcode.com/contest/biweekly-contest-187",
+    "start": "2026-07-18T14:30:00+00:00",
+    "end": "2026-07-18T16:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-510": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-510",
+    "event": "Weekly Contest 510",
+    "href": "https://leetcode.com/contest/weekly-contest-510",
+    "start": "2026-07-12T02:30:00+00:00",
+    "end": "2026-07-12T04:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-509": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-509",
+    "event": "Weekly Contest 509",
+    "href": "https://leetcode.com/contest/weekly-contest-509",
+    "start": "2026-07-05T02:30:00+00:00",
+    "end": "2026-07-05T04:00:00+00:00",
+    "duration": 5400
   }
 }

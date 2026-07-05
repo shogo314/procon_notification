@@ -1330,5 +1330,32 @@
     "start": "2026-07-25T12:00:00+00:00",
     "end": "2026-07-25T13:40:00+00:00",
     "duration": 6000
+  },
+  "arc224": {
+    "resource": "atcoder.jp",
+    "id": "arc224",
+    "event": "AtCoder Regular Contest-- 224",
+    "href": "https://atcoder.jp/contests/arc224",
+    "start": "2026-07-12T12:00:00+00:00",
+    "end": "2026-07-12T14:00:00+00:00",
+    "duration": 7200
+  },
+  "arc225": {
+    "resource": "atcoder.jp",
+    "id": "arc225",
+    "event": "AtCoder Regular Contest 225",
+    "href": "https://atcoder.jp/contests/arc225",
+    "start": "2026-07-19T12:00:00+00:00",
+    "end": "2026-07-19T14:00:00+00:00",
+    "duration": 7200
+  },
+  "ahc069": {
+    "resource": "atcoder.jp",
+    "id": "ahc069",
+    "event": "RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）",
+    "href": "https://atcoder.jp/contests/ahc069",
+    "start": "2026-07-31T10:00:00+00:00",
+    "end": "2026-08-10T10:00:00+00:00",
+    "duration": 864000
   }
 }
