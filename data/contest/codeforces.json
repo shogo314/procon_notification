@@ -1075,8 +1075,17 @@
     "id": "2244",
     "event": "Codeforces Round (Div. 3)",
     "href": "https://codeforces.com/contests/2244",
-    "start": "2026-07-10T14:35:00+00:00",
-    "end": "2026-07-10T16:50:00+00:00",
+    "start": "2026-07-14T14:35:00+00:00",
+    "end": "2026-07-14T16:50:00+00:00",
     "duration": 8100
+  },
+  "2245": {
+    "resource": "codeforces.com",
+    "id": "2245",
+    "event": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
+    "href": "https://codeforces.com/contests/2245",
+    "start": "2026-07-16T14:35:00+00:00",
+    "end": "2026-07-16T17:35:00+00:00",
+    "duration": 10800
   }
 }
