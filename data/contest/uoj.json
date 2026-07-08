@@ -88,5 +88,32 @@
     "start": "2026-05-24T10:00:00+00:00",
     "end": "2026-05-24T14:00:00+00:00",
     "duration": 14400
+  },
+  "109": {
+    "resource": "uoj.ac",
+    "id": "109",
+    "event": "UOJ NOI Round #10 笔试",
+    "href": "https://uoj.ac/contest/109",
+    "start": "2026-07-10T11:00:00+00:00",
+    "end": "2026-07-10T11:30:00+00:00",
+    "duration": 1800
+  },
+  "110": {
+    "resource": "uoj.ac",
+    "id": "110",
+    "event": "UOJ NOI Round #10 Day1",
+    "href": "https://uoj.ac/contest/110",
+    "start": "2026-07-11T00:30:00+00:00",
+    "end": "2026-07-11T05:30:00+00:00",
+    "duration": 18000
+  },
+  "111": {
+    "resource": "uoj.ac",
+    "id": "111",
+    "event": "UOJ NOI Round #10 Day2",
+    "href": "https://uoj.ac/contest/111",
+    "start": "2026-07-12T00:30:00+00:00",
+    "end": "2026-07-12T05:30:00+00:00",
+    "duration": 18000
   }
 }

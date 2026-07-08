@@ -43,5 +43,23 @@
     "start": "2026-02-26T14:30:00+00:00",
     "end": "2026-02-26T16:30:00+00:00",
     "duration": 7200
+  },
+  "3951": {
+    "resource": "robocontest.uz",
+    "id": "3951",
+    "event": "1 yil kubogi",
+    "href": "https://robocontest.uz/olympiads/3951",
+    "start": "2026-07-11T14:35:00+00:00",
+    "end": "2026-07-11T17:35:00+00:00",
+    "duration": 10800
+  },
+  "3941": {
+    "resource": "robocontest.uz",
+    "id": "3941",
+    "event": "RoboContest Round #112",
+    "href": "https://robocontest.uz/olympiads/3941",
+    "start": "2026-07-19T14:30:00+00:00",
+    "end": "2026-07-19T17:00:00+00:00",
+    "duration": 9000
   }
 }
