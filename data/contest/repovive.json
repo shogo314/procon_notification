@@ -1,57 +1,66 @@
 {
+  "0": {
+    "resource": "repovive.com",
+    "id": "0",
+    "event": "Repovive Opening Round",
+    "href": "https://repovive.com/contests/0",
+    "start": "2025-12-14T14:35:00+00:00",
+    "end": "2025-12-14T17:35:00+00:00",
+    "duration": 10800
+  },
   "1": {
     "resource": "repovive.com",
     "id": "1",
-    "event": "Repovive Testing Round #1",
+    "event": "Repovive Goodbye 2025 Round",
     "href": "https://repovive.com/contests/1",
-    "start": "2025-12-02T14:35:00+00:00",
-    "end": "2025-12-02T16:35:00+00:00",
-    "duration": 7200
+    "start": "2025-12-28T15:35:00+00:00",
+    "end": "2025-12-28T18:35:00+00:00",
+    "duration": 10800
   },
   "2": {
     "resource": "repovive.com",
     "id": "2",
-    "event": "Repovive Testing Round #2",
+    "event": "Repovive Premier Round 1",
     "href": "https://repovive.com/contests/2",
-    "start": "2025-12-10T14:35:00+00:00",
-    "end": "2025-12-10T16:35:00+00:00",
-    "duration": 7200
+    "start": "2026-02-08T14:35:00+00:00",
+    "end": "2026-02-08T17:35:00+00:00",
+    "duration": 10800
   },
   "3": {
     "resource": "repovive.com",
     "id": "3",
-    "event": "Repovive Testing Round #3",
+    "event": "Repovive Premier Round 2",
     "href": "https://repovive.com/contests/3",
-    "start": "2025-12-13T14:35:00+00:00",
-    "end": "2025-12-13T16:35:00+00:00",
-    "duration": 7200
+    "start": "2026-02-16T14:35:00+00:00",
+    "end": "2026-02-16T17:55:00+00:00",
+    "duration": 12000
   },
   "4": {
     "resource": "repovive.com",
     "id": "4",
-    "event": "Repovive Opening Round",
+    "event": "Repovive Standard Round 1",
     "href": "https://repovive.com/contests/4",
-    "start": "2025-12-14T14:35:00+00:00",
-    "end": "2025-12-14T17:35:00+00:00",
-    "duration": 10800
+    "start": "2026-03-02T14:35:00+00:00",
+    "end": "2026-03-02T16:35:00+00:00",
+    "duration": 7200
   },
   "5": {
     "resource": "repovive.com",
     "id": "5",
     "event": "Repovive Standard Round 2",
     "href": "https://repovive.com/contests/5",
-    "start": "2026-04-19T14:35:00+00:00",
-    "end": "2026-04-19T16:35:00+00:00",
+    "start": "2026-04-19T13:35:00+00:00",
+    "end": "2026-04-19T15:35:00+00:00",
     "duration": 7200
   },
   "6": {
     "resource": "repovive.com",
     "id": "6",
-    "event": "Repovive Premier Round 1",
+    "event": "Repovive Premier Round 3",
     "href": "https://repovive.com/contests/6",
-    "start": "2026-02-08T14:35:00+00:00",
-    "end": "2026-02-08T17:35:00+00:00",
-    "duration": 10800
+    "start": "2026-05-03T14:35:00+00:00",
+    "end": "2026-05-03T17:05:00+00:00",
+    "duration": 9000
   },
   "7": {
     "resource": "repovive.com",
@@ -67,35 +76,80 @@
     "id": "8",
     "event": "Repovive Standard Round 3",
     "href": "https://repovive.com/contests/8",
-    "start": "2026-05-17T13:35:00+00:00",
-    "end": "2026-05-17T15:35:00+00:00",
+    "start": "2026-05-17T14:35:00+00:00",
+    "end": "2026-05-17T16:35:00+00:00",
     "duration": 7200
-  },
-  "10": {
-    "resource": "repovive.com",
-    "id": "10",
-    "event": "Amazon Round",
-    "href": "https://repovive.com/contests/10",
-    "start": "2027-01-01T00:00:00+00:00",
-    "end": "2027-01-01T23:59:59+00:00",
-    "duration": 86399
   },
   "9": {
     "resource": "repovive.com",
     "id": "9",
     "event": "Repovive Premier Round 4",
     "href": "https://repovive.com/contests/9",
-    "start": "2026-05-25T14:35:00+00:00",
-    "end": "2026-05-25T17:05:00+00:00",
+    "start": "2026-05-24T14:35:00+00:00",
+    "end": "2026-05-24T17:05:00+00:00",
     "duration": 9000
+  },
+  "10": {
+    "resource": "repovive.com",
+    "id": "10",
+    "event": "Repovive Starter Round 2",
+    "href": "https://repovive.com/contests/10",
+    "start": "2026-05-31T14:35:00+00:00",
+    "end": "2026-05-31T16:35:00+00:00",
+    "duration": 7200
+  },
+  "14": {
+    "resource": "repovive.com",
+    "id": "14",
+    "event": "Repovive Standard Round 5",
+    "href": "https://repovive.com/contests/14",
+    "start": "2026-06-29T14:35:00+00:00",
+    "end": "2026-06-29T16:35:00+00:00",
+    "duration": 7200
+  },
+  "10000": {
+    "resource": "repovive.com",
+    "id": "10000",
+    "event": "Weekly Challenge 1: Approximation",
+    "href": "https://repovive.com/contests/10000",
+    "start": "2026-07-13T14:35:00+00:00",
+    "end": "2026-07-20T14:35:00+00:00",
+    "duration": 604800
+  },
+  "16": {
+    "resource": "repovive.com",
+    "id": "16",
+    "event": "Repovive Premier Round 6",
+    "href": "https://repovive.com/contests/16",
+    "start": "2026-07-11T14:35:00+00:00",
+    "end": "2026-07-11T17:05:00+00:00",
+    "duration": 9000
+  },
+  "12": {
+    "resource": "repovive.com",
+    "id": "12",
+    "event": "Repovive Starter Round 3",
+    "href": "https://repovive.com/contests/12",
+    "start": "2026-06-14T14:35:00+00:00",
+    "end": "2026-06-14T16:35:00+00:00",
+    "duration": 7200
   },
   "11": {
     "resource": "repovive.com",
-    "id": "contests",
+    "id": "11",
     "event": "Repovive Standard Round 4",
-    "href": "https://repovive.com/contests",
+    "href": "https://repovive.com/contests/11",
     "start": "2026-06-10T14:35:00+00:00",
     "end": "2026-06-10T16:35:00+00:00",
+    "duration": 7200
+  },
+  "15": {
+    "resource": "repovive.com",
+    "id": "15",
+    "event": "Repovive Starter Round 4",
+    "href": "https://repovive.com/contests/15",
+    "start": "2026-07-05T14:35:00+00:00",
+    "end": "2026-07-05T16:35:00+00:00",
     "duration": 7200
   },
   "13": {
@@ -107,13 +161,13 @@
     "end": "2026-06-21T17:05:00+00:00",
     "duration": 9000
   },
-  "contests": {
+  "17": {
     "resource": "repovive.com",
-    "id": "contests",
-    "event": "Repovive Premier Round 6",
-    "href": "https://repovive.com/contests",
-    "start": "2026-07-11T14:35:00+00:00",
-    "end": "2026-07-11T17:05:00+00:00",
-    "duration": 9000
+    "id": "17",
+    "event": "Repovive Starter Round 5",
+    "href": "https://repovive.com/contests/17",
+    "start": "2026-07-19T14:35:00+00:00",
+    "end": "2026-07-19T16:35:00+00:00",
+    "duration": 7200
   }
 }

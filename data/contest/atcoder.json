@@ -1375,5 +1375,14 @@
     "start": "2026-08-09T12:00:00+00:00",
     "end": "2026-08-09T14:00:00+00:00",
     "duration": 7200
+  },
+  "codequeen2026-final-Public": {
+    "resource": "atcoder.jp",
+    "id": "codequeen2026-final-Public",
+    "event": "CodeQUEEN 2026 決勝",
+    "href": "https://atcoder.jp/contests/codequeen2026-final-Public",
+    "start": "2026-08-01T04:00:00+00:00",
+    "end": "2026-08-01T06:00:00+00:00",
+    "duration": 7200
   }
 }

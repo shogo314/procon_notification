@@ -1055,7 +1055,7 @@
   "2247": {
     "resource": "codeforces.com",
     "id": "2247",
-    "event": "Codeforces Round (Div. 2)",
+    "event": "Codeforces Round 1111 (Div. 2)",
     "href": "https://codeforces.com/contests/2247",
     "start": "2026-07-18T14:35:00+00:00",
     "end": "2026-07-18T16:35:00+00:00",
@@ -1082,10 +1082,19 @@
   "2245": {
     "resource": "codeforces.com",
     "id": "2245",
-    "event": "Spectral::Cup 2026 Round 3 (Codeforces Round, Div. 1 + Div. 2)",
+    "event": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
     "href": "https://codeforces.com/contests/2245",
     "start": "2026-07-16T14:35:00+00:00",
-    "end": "2026-07-16T17:35:00+00:00",
-    "duration": 10800
+    "end": "2026-07-16T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2248": {
+    "resource": "codeforces.com",
+    "id": "2248",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2248",
+    "start": "2026-08-01T11:35:00+00:00",
+    "end": "2026-08-01T13:35:00+00:00",
+    "duration": 7200
   }
 }
