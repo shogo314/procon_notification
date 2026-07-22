@@ -1303,5 +1303,41 @@
     "start": "2026-07-26T11:00:00+00:00",
     "end": "2026-07-26T13:00:00+00:00",
     "duration": 7200
+  },
+  "133878": {
+    "resource": "ac.nowcoder.com",
+    "id": "133878",
+    "event": "2026牛客暑期多校训练营3",
+    "href": "https://ac.nowcoder.com/acm/contest/133878",
+    "start": "2026-07-24T04:00:00+00:00",
+    "end": "2026-07-24T09:00:00+00:00",
+    "duration": 18000
+  },
+  "133879": {
+    "resource": "ac.nowcoder.com",
+    "id": "133879",
+    "event": "2026牛客暑期多校训练营4",
+    "href": "https://ac.nowcoder.com/acm/contest/133879",
+    "start": "2026-07-29T04:00:00+00:00",
+    "end": "2026-07-29T09:00:00+00:00",
+    "duration": 18000
+  },
+  "133880": {
+    "resource": "ac.nowcoder.com",
+    "id": "133880",
+    "event": "2026牛客暑期多校训练营5",
+    "href": "https://ac.nowcoder.com/acm/contest/133880",
+    "start": "2026-07-31T04:00:00+00:00",
+    "end": "2026-07-31T09:00:00+00:00",
+    "duration": 18000
+  },
+  "138240": {
+    "resource": "ac.nowcoder.com",
+    "id": "138240",
+    "event": "牛客周赛 Round 155",
+    "href": "https://ac.nowcoder.com/acm/contest/138240",
+    "start": "2026-08-02T11:00:00+00:00",
+    "end": "2026-08-02T13:00:00+00:00",
+    "duration": 7200
   }
 }

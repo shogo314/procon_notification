@@ -1096,5 +1096,23 @@
     "start": "2026-08-01T11:35:00+00:00",
     "end": "2026-08-01T13:35:00+00:00",
     "duration": 7200
+  },
+  "2250": {
+    "resource": "codeforces.com",
+    "id": "2250",
+    "event": "Codeforces Round 1112 (Div. 2)",
+    "href": "https://codeforces.com/contests/2250",
+    "start": "2026-07-26T14:35:00+00:00",
+    "end": "2026-07-26T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2249": {
+    "resource": "codeforces.com",
+    "id": "2249",
+    "event": "Codeforces Round 1112 (Div. 1)",
+    "href": "https://codeforces.com/contests/2249",
+    "start": "2026-07-26T14:35:00+00:00",
+    "end": "2026-07-26T17:05:00+00:00",
+    "duration": 9000
   }
 }
