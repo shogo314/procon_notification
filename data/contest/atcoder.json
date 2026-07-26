@@ -1411,5 +1411,14 @@
     "start": "2026-09-06T04:10:00+00:00",
     "end": "2026-09-06T05:50:00+00:00",
     "duration": 6000
+  },
+  "abc470": {
+    "resource": "atcoder.jp",
+    "id": "abc470",
+    "event": "JPRSプログラミングコンテスト2026#2 （AtCoder Beginner Contest 470）",
+    "href": "https://atcoder.jp/contests/abc470",
+    "start": "2026-08-08T12:00:00+00:00",
+    "end": "2026-08-08T13:40:00+00:00",
+    "duration": 6000
   }
 }

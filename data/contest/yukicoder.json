@@ -502,5 +502,14 @@
     "start": "2026-09-11T12:20:00+00:00",
     "end": "2026-09-11T14:20:00+00:00",
     "duration": 7200
+  },
+  "606": {
+    "resource": "yukicoder.me",
+    "id": "606",
+    "event": "yukicoder contest　オムニバス（出題者募集中）問題募集中",
+    "href": "https://yukicoder.me/contests/606",
+    "start": "2026-07-31T12:20:00+00:00",
+    "end": "2026-07-31T14:20:00+00:00",
+    "duration": 7200
   }
 }
