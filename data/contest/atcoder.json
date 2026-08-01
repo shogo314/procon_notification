@@ -1420,5 +1420,41 @@
     "start": "2026-08-08T12:00:00+00:00",
     "end": "2026-08-08T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc472": {
+    "resource": "atcoder.jp",
+    "id": "abc472",
+    "event": "AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選（AtCoder Beginner Contest 472）",
+    "href": "https://atcoder.jp/contests/abc472",
+    "start": "2026-08-22T12:00:00+00:00",
+    "end": "2026-08-22T13:40:00+00:00",
+    "duration": 6000
+  },
+  "jsc2026-final": {
+    "resource": "atcoder.jp",
+    "id": "jsc2026-final",
+    "event": "第七回日本最強プログラマー学生選手権 -決勝-",
+    "href": "https://atcoder.jp/contests/jsc2026-final",
+    "start": "2026-08-23T05:10:00+00:00",
+    "end": "2026-08-23T08:10:00+00:00",
+    "duration": 10800
+  },
+  "ahc070": {
+    "resource": "atcoder.jp",
+    "id": "ahc070",
+    "event": "第13回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 070）",
+    "href": "https://atcoder.jp/contests/ahc070",
+    "start": "2026-08-29T06:00:00+00:00",
+    "end": "2026-08-29T10:00:00+00:00",
+    "duration": 14400
+  },
+  "abc473": {
+    "resource": "atcoder.jp",
+    "id": "abc473",
+    "event": "AtCoder Beginner Contest 473",
+    "href": "https://atcoder.jp/contests/abc473",
+    "start": "2026-08-29T12:00:00+00:00",
+    "end": "2026-08-29T13:40:00+00:00",
+    "duration": 6000
   }
 }

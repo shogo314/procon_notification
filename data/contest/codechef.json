@@ -1213,5 +1213,14 @@
     "start": "2026-07-24T18:30:00+00:00",
     "end": "2026-07-26T18:30:00+00:00",
     "duration": 172800
+  },
+  "DSAMONDAY014": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY014",
+    "event": "Monday Munch - DSA Challenge 014 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY014",
+    "start": "2026-08-03T13:30:00+00:00",
+    "end": "2026-08-03T16:30:00+00:00",
+    "duration": 10800
   }
 }

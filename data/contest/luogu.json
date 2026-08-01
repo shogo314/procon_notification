@@ -2464,5 +2464,23 @@
     "start": "2026-07-31T06:00:00+00:00",
     "end": "2026-07-31T10:00:00+00:00",
     "duration": 14400
+  },
+  "344657": {
+    "resource": "luogu.com.cn",
+    "id": "344657",
+    "event": "[ICPC2017 Nanning R] ICPC 2017 区域赛南宁站重现赛",
+    "href": "https://www.luogu.com.cn/contest/344657",
+    "start": "2026-08-09T05:00:00+00:00",
+    "end": "2026-08-09T10:00:00+00:00",
+    "duration": 18000
+  },
+  "344729": {
+    "resource": "luogu.com.cn",
+    "id": "344729",
+    "event": "DKM-OI Round 1",
+    "href": "https://www.luogu.com.cn/contest/344729",
+    "start": "2026-08-04T06:00:00+00:00",
+    "end": "2026-08-04T10:00:00+00:00",
+    "duration": 14400
   }
 }
