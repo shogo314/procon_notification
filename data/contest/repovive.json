@@ -187,5 +187,23 @@
     "start": "2026-07-27T14:35:00+00:00",
     "end": "2026-07-27T16:35:00+00:00",
     "duration": 7200
+  },
+  "21": {
+    "resource": "repovive.com",
+    "id": "21",
+    "event": "Repovive Starter Round 7",
+    "href": "https://repovive.com/contests/21",
+    "start": "2026-08-16T14:35:00+00:00",
+    "end": "2026-08-16T16:35:00+00:00",
+    "duration": 7200
+  },
+  "20": {
+    "resource": "repovive.com",
+    "id": "20",
+    "event": "Repovive Premier Round 7",
+    "href": "https://repovive.com/contests/20",
+    "start": "2026-08-09T14:35:00+00:00",
+    "end": "2026-08-09T17:05:00+00:00",
+    "duration": 9000
   }
 }

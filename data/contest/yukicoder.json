@@ -547,5 +547,23 @@
     "start": "2026-10-02T12:20:00+00:00",
     "end": "2026-10-02T14:20:00+00:00",
     "duration": 7200
+  },
+  "611": {
+    "resource": "yukicoder.me",
+    "id": "611",
+    "event": "μ関数入門コース",
+    "href": "https://yukicoder.me/contests/611",
+    "start": "2026-09-06T12:20:00+00:00",
+    "end": "2026-09-06T14:20:00+00:00",
+    "duration": 7200
+  },
+  "612": {
+    "resource": "yukicoder.me",
+    "id": "612",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/612",
+    "start": "2026-09-18T12:20:00+00:00",
+    "end": "2026-09-18T15:00:00+00:00",
+    "duration": 9600
   }
 }
