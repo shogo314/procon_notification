@@ -1240,5 +1240,23 @@
     "start": "2026-08-07T18:30:00+00:00",
     "end": "2026-08-09T21:29:00+00:00",
     "duration": 183540
+  },
+  "PLACEPREP03": {
+    "resource": "codechef.com",
+    "id": "PLACEPREP03",
+    "event": "Placement Prep Weekends - 03",
+    "href": "https://www.codechef.com/PLACEPREP03",
+    "start": "2026-08-14T18:30:00+00:00",
+    "end": "2026-08-16T20:29:00+00:00",
+    "duration": 179940
+  },
+  "DSAMONDAY016": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY016",
+    "event": "Monday Munch - DSA Challenge 016 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY016",
+    "start": "2026-08-17T13:30:00+00:00",
+    "end": "2026-08-17T16:30:00+00:00",
+    "duration": 10800
   }
 }
