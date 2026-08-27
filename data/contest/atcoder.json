@@ -1456,5 +1456,95 @@
     "start": "2026-08-29T12:00:00+00:00",
     "end": "2026-08-29T13:40:00+00:00",
     "duration": 6000
+  },
+  "arc228": {
+    "resource": "atcoder.jp",
+    "id": "arc228",
+    "event": "AtCoder Regular Contest++ 228",
+    "href": "https://atcoder.jp/contests/arc228",
+    "start": "2026-08-30T12:00:00+00:00",
+    "end": "2026-08-30T14:30:00+00:00",
+    "duration": 9000
+  },
+  "arc229": {
+    "resource": "atcoder.jp",
+    "id": "arc229",
+    "event": "AtCoder Regular Contest-- 229",
+    "href": "https://atcoder.jp/contests/arc229",
+    "start": "2026-09-05T12:00:00+00:00",
+    "end": "2026-09-05T14:00:00+00:00",
+    "duration": 7200
+  },
+  "abc475": {
+    "resource": "atcoder.jp",
+    "id": "abc475",
+    "event": "AtCoder Beginner Contest 475",
+    "href": "https://atcoder.jp/contests/abc475",
+    "start": "2026-09-12T12:00:00+00:00",
+    "end": "2026-09-12T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc071": {
+    "resource": "atcoder.jp",
+    "id": "ahc071",
+    "event": "AtCoder Heuristic Contest 071",
+    "href": "https://atcoder.jp/contests/ahc071",
+    "start": "2026-09-13T10:00:00+00:00",
+    "end": "2026-09-13T14:00:00+00:00",
+    "duration": 14400
+  },
+  "c-league2026-2": {
+    "resource": "atcoder.jp",
+    "id": "c-league2026-2",
+    "event": "AtCoder 企業対抗リーグ 2026 第2戦",
+    "href": "https://atcoder.jp/contests/c-league2026-2",
+    "start": "2026-09-18T11:00:00+00:00",
+    "end": "2026-09-18T13:00:00+00:00",
+    "duration": 7200
+  },
+  "c-league2026-2-open": {
+    "resource": "atcoder.jp",
+    "id": "c-league2026-2-open",
+    "event": "AtCoder 企業対抗リーグ 2026 第2戦(オープンコンテスト)",
+    "href": "https://atcoder.jp/contests/c-league2026-2-open",
+    "start": "2026-09-18T11:00:00+00:00",
+    "end": "2026-09-18T13:00:00+00:00",
+    "duration": 7200
+  },
+  "arc230": {
+    "resource": "atcoder.jp",
+    "id": "arc230",
+    "event": "AtCoder Regular Contest++ 230",
+    "href": "https://atcoder.jp/contests/arc230",
+    "start": "2026-09-20T12:00:00+00:00",
+    "end": "2026-09-20T14:30:00+00:00",
+    "duration": 9000
+  },
+  "ahc072": {
+    "resource": "atcoder.jp",
+    "id": "ahc072",
+    "event": "ALGO ARTIS プログラミングコンテスト2026 長月（AtCoder Heuristic Contest 072）",
+    "href": "https://atcoder.jp/contests/ahc072",
+    "start": "2026-09-25T10:00:00+00:00",
+    "end": "2026-10-05T10:00:00+00:00",
+    "duration": 864000
+  },
+  "game-24": {
+    "resource": "atcoder.jp",
+    "id": "game-24",
+    "event": "組合せゲーム 24 題",
+    "href": "https://atcoder.jp/contests/game-24",
+    "start": "2026-10-04T04:00:00+00:00",
+    "end": "2026-10-04T09:00:00+00:00",
+    "duration": 18000
+  },
+  "aalc001": {
+    "resource": "atcoder.jp",
+    "id": "aalc001",
+    "event": "AAL Contest 001: Let's use segtree!",
+    "href": "https://atcoder.jp/contests/aalc001",
+    "start": "2026-10-12T04:00:00+00:00",
+    "end": "2026-10-12T09:00:00+00:00",
+    "duration": 18000
   }
 }
