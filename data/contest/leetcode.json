@@ -826,5 +826,23 @@
     "start": "2026-09-06T02:30:00+00:00",
     "end": "2026-09-06T04:00:00+00:00",
     "duration": 5400
+  },
+  "weekly-contest-520": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-520",
+    "event": "Weekly Contest 520",
+    "href": "https://leetcode.com/contest/weekly-contest-520",
+    "start": "2026-09-20T02:30:00+00:00",
+    "end": "2026-09-20T04:00:00+00:00",
+    "duration": 5400
+  },
+  "weekly-contest-519": {
+    "resource": "leetcode.com",
+    "id": "weekly-contest-519",
+    "event": "Weekly Contest 519",
+    "href": "https://leetcode.com/contest/weekly-contest-519",
+    "start": "2026-09-13T02:30:00+00:00",
+    "end": "2026-09-13T04:00:00+00:00",
+    "duration": 5400
   }
 }

@@ -1289,7 +1289,7 @@
   "START258": {
     "resource": "codechef.com",
     "id": "START258",
-    "event": "Starters 255",
+    "event": "Starters 258",
     "href": "https://www.codechef.com/START258",
     "start": "2026-09-30T14:30:00+00:00",
     "end": "2026-09-30T16:30:00+00:00",
@@ -1298,7 +1298,7 @@
   "START257": {
     "resource": "codechef.com",
     "id": "START257",
-    "event": "Starters 255",
+    "event": "Starters 257",
     "href": "https://www.codechef.com/START257",
     "start": "2026-09-23T14:30:00+00:00",
     "end": "2026-09-23T16:30:00+00:00",
@@ -1321,5 +1321,41 @@
     "start": "2026-09-09T14:30:00+00:00",
     "end": "2026-09-09T16:30:00+00:00",
     "duration": 7200
+  },
+  "DSAMONDAY019": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY019",
+    "event": "Monday Munch - DSA Challenge 019 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY019",
+    "start": "2026-09-07T13:30:06+00:00",
+    "end": "2026-09-07T16:30:06+00:00",
+    "duration": 10800
+  },
+  "PLACEPREP06": {
+    "resource": "codechef.com",
+    "id": "PLACEPREP06",
+    "event": "Placement Prep Weekends - 06",
+    "href": "https://www.codechef.com/PLACEPREP06",
+    "start": "2026-09-04T18:30:15+00:00",
+    "end": "2026-09-06T20:59:00+00:00",
+    "duration": 181725
+  },
+  "DSAMONDAY020": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY020",
+    "event": "Monday Munch - DSA Challenge 020 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY020",
+    "start": "2026-09-14T13:30:00+00:00",
+    "end": "2026-09-14T16:30:00+00:00",
+    "duration": 10800
+  },
+  "PLACEPREP07": {
+    "resource": "codechef.com",
+    "id": "PLACEPREP07",
+    "event": "Placement Prep Weekends - 07",
+    "href": "https://www.codechef.com/PLACEPREP07",
+    "start": "2026-09-11T18:30:25+00:00",
+    "end": "2026-09-13T20:59:00+00:00",
+    "duration": 181715
   }
 }

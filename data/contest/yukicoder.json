@@ -578,7 +578,7 @@
   "616": {
     "resource": "yukicoder.me",
     "id": "616",
-    "event": "チーム機能テストコンテスト",
+    "event": "チーム機能テストコンテストチーム戦",
     "href": "https://yukicoder.me/contests/616",
     "start": "2026-09-09T12:20:00+00:00",
     "end": "2026-09-09T14:20:00+00:00",
@@ -587,10 +587,19 @@
   "615": {
     "resource": "yukicoder.me",
     "id": "615",
-    "event": "グリッド構築24題",
+    "event": "グリッド構築24題チーム戦",
     "href": "https://yukicoder.me/contests/615",
     "start": "2026-09-19T04:00:00+00:00",
     "end": "2026-09-19T09:00:00+00:00",
     "duration": 18000
+  },
+  "617": {
+    "resource": "yukicoder.me",
+    "id": "617",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/617",
+    "start": "2026-10-23T12:20:00+00:00",
+    "end": "2026-10-23T14:20:00+00:00",
+    "duration": 7200
   }
 }

@@ -1,0 +1,182 @@
+{
+  "doj-contest-6": {
+    "resource": "doj.kr",
+    "id": "doj-contest-6",
+    "event": "DOJ Contest 6",
+    "href": "https://doj.kr/ja/contests/doj-contest-6",
+    "start": "2026-09-04T09:00:00+00:00",
+    "end": "2026-09-11T15:00:00+00:00",
+    "duration": 10800
+  },
+  "bcd7": {
+    "resource": "doj.kr",
+    "id": "bcd7",
+    "event": "DOJ Beginner Contest 7",
+    "href": "https://doj.kr/ja/contests/bcd7",
+    "start": "2026-09-06T01:00:00+00:00",
+    "end": "2026-09-12T14:00:00+00:00",
+    "duration": 6000
+  },
+  "goricon2026": {
+    "resource": "doj.kr",
+    "id": "goricon2026",
+    "event": "Goricon 2026 Open Contest",
+    "href": "https://doj.kr/ja/contests/goricon2026",
+    "start": "2026-09-12T05:00:00+00:00",
+    "end": "2026-09-12T09:00:00+00:00",
+    "duration": 14400
+  },
+  "centroid2026": {
+    "resource": "doj.kr",
+    "id": "centroid2026",
+    "event": "2026 Centroid Cup Open Contest",
+    "href": "https://doj.kr/ja/contests/centroid2026",
+    "start": "2026-09-12T09:30:00+00:00",
+    "end": "2026-09-12T13:30:00+00:00",
+    "duration": 14400
+  },
+  "bcd8": {
+    "resource": "doj.kr",
+    "id": "bcd8",
+    "event": "DOJ Beginner Contest 8",
+    "href": "https://doj.kr/ja/contests/bcd8",
+    "start": "2026-09-13T01:00:00+00:00",
+    "end": "2026-09-20T00:59:00+00:00",
+    "duration": 6000
+  },
+  "orchard1": {
+    "resource": "doj.kr",
+    "id": "orchard1",
+    "event": "과수원컵 Div 1",
+    "href": "https://doj.kr/ja/contests/orchard1",
+    "start": "2026-10-04T05:00:00+00:00",
+    "end": "2026-10-04T10:00:00+00:00",
+    "duration": 18000
+  },
+  "orchard2": {
+    "resource": "doj.kr",
+    "id": "orchard2",
+    "event": "과수원컵 Div2",
+    "href": "https://doj.kr/ja/contests/orchard2",
+    "start": "2026-10-04T05:00:00+00:00",
+    "end": "2026-10-04T08:30:00+00:00",
+    "duration": 12600
+  },
+  "bcd6": {
+    "resource": "doj.kr",
+    "id": "bcd6",
+    "event": "DOJ Beginner Contest 6",
+    "href": "https://doj.kr/ja/contests/bcd6",
+    "start": "2026-08-30T01:00:00+00:00",
+    "end": "2026-09-06T00:59:00+00:00",
+    "duration": 6000
+  },
+  "aislop": {
+    "resource": "doj.kr",
+    "id": "aislop",
+    "event": "AI slop",
+    "href": "https://doj.kr/ja/contests/aislop",
+    "start": "2026-08-24T14:30:00+00:00",
+    "end": "2026-09-02T14:00:00+00:00",
+    "duration": 775800
+  },
+  "ichy2026-open": {
+    "resource": "doj.kr",
+    "id": "ichy2026-open",
+    "event": "나는코더다 2026 반년대회 Open Contest",
+    "href": "https://doj.kr/ja/contests/ichy2026-open",
+    "start": "2026-08-29T10:00:00+00:00",
+    "end": "2026-08-29T15:00:00+00:00",
+    "duration": 18000
+  },
+  "cmte15mcy0bet14ffdvlhfrwm": {
+    "resource": "doj.kr",
+    "id": "cmte15mcy0bet14ffdvlhfrwm",
+    "event": "팀 참가 테스트용 대회",
+    "href": "https://doj.kr/ja/contests/cmte15mcy0bet14ffdvlhfrwm",
+    "start": "2026-08-29T06:58:00+00:00",
+    "end": "2026-08-29T10:58:00+00:00",
+    "duration": 14400
+  },
+  "pyb2": {
+    "resource": "doj.kr",
+    "id": "pyb2",
+    "event": "EZ Contest Day 2",
+    "href": "https://doj.kr/ja/contests/pyb2",
+    "start": "2026-08-22T00:00:00+00:00",
+    "end": "2026-08-23T14:00:00+00:00",
+    "duration": 36000
+  },
+  "bcd5": {
+    "resource": "doj.kr",
+    "id": "bcd5",
+    "event": "DOJ Beginner Contest 5",
+    "href": "https://doj.kr/ja/contests/bcd5",
+    "start": "2026-08-08T01:00:00+00:00",
+    "end": "2026-08-13T14:00:00+00:00",
+    "duration": 6000
+  },
+  "ssal1": {
+    "resource": "doj.kr",
+    "id": "ssal1",
+    "event": "1st SSAL Olympiad in Informatics",
+    "href": "https://doj.kr/ja/contests/ssal1",
+    "start": "2026-08-03T03:00:00+00:00",
+    "end": "2026-08-09T15:00:00+00:00",
+    "duration": 18000
+  },
+  "doj-contest-5": {
+    "resource": "doj.kr",
+    "id": "doj-contest-5",
+    "event": "DOJ Contest 5",
+    "href": "https://doj.kr/ja/contests/doj-contest-5",
+    "start": "2026-08-01T05:00:00+00:00",
+    "end": "2026-08-04T14:00:00+00:00",
+    "duration": 10800
+  },
+  "buc1": {
+    "resource": "doj.kr",
+    "id": "buc1",
+    "event": "BUC 001",
+    "href": "https://doj.kr/ja/contests/buc1",
+    "start": "2026-07-31T23:00:00+00:00",
+    "end": "2026-08-02T13:00:00+00:00",
+    "duration": 7200
+  },
+  "pyb1": {
+    "resource": "doj.kr",
+    "id": "pyb1",
+    "event": "EZ Contest Day 1",
+    "href": "https://doj.kr/ja/contests/pyb1",
+    "start": "2026-07-25T00:00:00+00:00",
+    "end": "2026-07-26T14:00:00+00:00",
+    "duration": 18000
+  },
+  "doj-contest-4": {
+    "resource": "doj.kr",
+    "id": "doj-contest-4",
+    "event": "DOJ Contest 4",
+    "href": "https://doj.kr/ja/contests/doj-contest-4",
+    "start": "2026-07-19T11:00:00+00:00",
+    "end": "2026-07-20T14:00:00+00:00",
+    "duration": 10800
+  },
+  "koi-2nd-round-mock-2-high": {
+    "resource": "doj.kr",
+    "id": "koi-2nd-round-mock-2-high",
+    "event": "KOI 2nd Round Mock 2 [High]",
+    "href": "https://doj.kr/ja/contests/koi-2nd-round-mock-2-high",
+    "start": "2026-07-17T00:00:00+00:00",
+    "end": "2026-07-18T00:00:00+00:00",
+    "duration": 16200
+  },
+  "2026-gshs-2-1-1-ps-open-contest": {
+    "resource": "doj.kr",
+    "id": "2026-gshs-2-1-1-ps-open-contest",
+    "event": "2026 GSHS 2-1 1학기 PS 대회 Open Contest",
+    "href": "https://doj.kr/ja/contests/2026-gshs-2-1-1-ps-open-contest",
+    "start": "2026-07-14T10:00:00+00:00",
+    "end": "2026-07-14T11:30:00+00:00",
+    "duration": 5400
+  }
+}
