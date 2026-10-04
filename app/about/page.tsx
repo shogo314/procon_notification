@@ -14,12 +14,11 @@ export default function AboutPage() {
                 <li><a href="https://leetcode.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">LeetCode</a></li>
                 <li><a href="https://www.codechef.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">CodeChef</a></li>
                 <li><a href="https://uoj.ac/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Universal Online Judge (UOJ)</a></li>
-                <li><a href="https://hoj.hamako-ths.ed.jp/onlinejudge/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">HOJ</a></li>
-                <li><a href="https://olympicode.rs/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">OlympiCode</a></li>
-                <li><a href="https://kep.uz/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">KEP</a></li>
                 <li><a href="https://www.eolymp.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Eolymp</a></li>
-                <li><a href="https://judge.eluminatis-of-lu.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">SeriousOJ</a></li>
-                <li><a href="https://toph.co/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Toph</a></li>
+                <li><a href="https://doj.kr/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">DOJ</a></li>
+                <li><a href="https://mofecoder.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">MOFE</a></li>
+                <li><a href="https://repovive.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Repovive</a></li>
+                <li><a href="https://samcoding.uz/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">SamCoding</a></li>
                 <li>ICPC（国内予選、それ以降の日本人が参加していそうなRegional）</li>
                 <li>ICPC OB/OG の会によるコンテスト</li>
                 <li>
