@@ -1618,5 +1618,14 @@
     "start": "2026-10-10T12:00:00+00:00",
     "end": "2026-10-10T14:30:00+00:00",
     "duration": 9000
+  },
+  "arc231": {
+    "resource": "atcoder.jp",
+    "id": "arc231",
+    "event": "AtCoder Regular Contest 231",
+    "href": "https://atcoder.jp/contests/arc231",
+    "start": "2026-10-04T12:00:00+00:00",
+    "end": "2026-10-04T14:00:00+00:00",
+    "duration": 7200
   }
 }
