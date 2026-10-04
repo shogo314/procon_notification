@@ -1208,7 +1208,7 @@
   "2261": {
     "resource": "codeforces.com",
     "id": "2261",
-    "event": "Codeforces Round (Div. 1 + Div. 2)",
+    "event": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
     "href": "https://codeforces.com/contests/2261",
     "start": "2026-10-17T14:35:00+00:00",
     "end": "2026-10-17T17:35:00+00:00",
@@ -1240,5 +1240,41 @@
     "start": "2026-09-13T17:05:00+00:00",
     "end": "2026-09-13T19:05:00+00:00",
     "duration": 7200
+  },
+  "2273": {
+    "resource": "codeforces.com",
+    "id": "2273",
+    "event": "Codeforces Round (Div. 1)",
+    "href": "https://codeforces.com/contests/2273",
+    "start": "2026-10-11T18:35:00+00:00",
+    "end": "2026-10-11T21:05:00+00:00",
+    "duration": 9000
+  },
+  "2274": {
+    "resource": "codeforces.com",
+    "id": "2274",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2274",
+    "start": "2026-10-11T18:35:00+00:00",
+    "end": "2026-10-11T21:05:00+00:00",
+    "duration": 9000
+  },
+  "2271": {
+    "resource": "codeforces.com",
+    "id": "2271",
+    "event": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
+    "href": "https://codeforces.com/contests/2271",
+    "start": "2026-10-10T15:05:00+00:00",
+    "end": "2026-10-10T18:05:00+00:00",
+    "duration": 10800
+  },
+  "2275": {
+    "resource": "codeforces.com",
+    "id": "2275",
+    "event": "Codeforces Round 1125 (Div. 3)",
+    "href": "https://codeforces.com/contests/2275",
+    "start": "2026-10-07T14:35:00+00:00",
+    "end": "2026-10-07T17:05:00+00:00",
+    "duration": 9000
   }
 }

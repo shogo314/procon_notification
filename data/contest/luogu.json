@@ -2482,5 +2482,122 @@
     "start": "2026-08-04T06:00:00+00:00",
     "end": "2026-08-04T10:00:00+00:00",
     "duration": 14400
+  },
+  "264620": {
+    "resource": "luogu.com.cn",
+    "id": "264620",
+    "event": "【LGR-308】SCP 2026 第二轮（复赛 J 组）模拟",
+    "href": "https://www.luogu.com.cn/contest/264620",
+    "start": "2026-10-18T00:30:00+00:00",
+    "end": "2026-10-18T04:00:00+00:00",
+    "duration": 12600
+  },
+  "358588": {
+    "resource": "luogu.com.cn",
+    "id": "358588",
+    "event": "【LGR-307】SCP 2026 第二轮（复赛 S 组）模拟",
+    "href": "https://www.luogu.com.cn/contest/358588",
+    "start": "2026-10-17T06:30:00+00:00",
+    "end": "2026-10-17T10:30:00+00:00",
+    "duration": 14400
+  },
+  "358584": {
+    "resource": "luogu.com.cn",
+    "id": "358584",
+    "event": "[ICPC2019 Nanjing R] ICPC 2019 区域赛南京站重现赛",
+    "href": "https://www.luogu.com.cn/contest/358584",
+    "start": "2026-10-15T05:00:00+00:00",
+    "end": "2026-10-15T10:00:00+00:00",
+    "duration": 18000
+  },
+  "359211": {
+    "resource": "luogu.com.cn",
+    "id": "359211",
+    "event": "【LGR-309-Div.2】洛谷 10 月月赛 III &「Star OI」Round 1",
+    "href": "https://www.luogu.com.cn/contest/359211",
+    "start": "2026-10-11T06:00:00+00:00",
+    "end": "2026-10-11T10:00:00+00:00",
+    "duration": 14400
+  },
+  "359209": {
+    "resource": "luogu.com.cn",
+    "id": "359209",
+    "event": "【LGR-309-Div.1】洛谷 10 月月赛 III &「Star OI」Round 1",
+    "href": "https://www.luogu.com.cn/contest/359209",
+    "start": "2026-10-11T06:00:00+00:00",
+    "end": "2026-10-11T10:00:00+00:00",
+    "duration": 14400
+  },
+  "358583": {
+    "resource": "luogu.com.cn",
+    "id": "358583",
+    "event": "[ICPC2019 Yinchuan R] ICPC 2019 区域赛银川站重现赛",
+    "href": "https://www.luogu.com.cn/contest/358583",
+    "start": "2026-10-07T05:00:00+00:00",
+    "end": "2026-10-07T10:00:00+00:00",
+    "duration": 18000
+  },
+  "325954": {
+    "resource": "luogu.com.cn",
+    "id": "325954",
+    "event": "C₂H₆OI Round 1",
+    "href": "https://www.luogu.com.cn/contest/325954",
+    "start": "2026-10-06T06:00:00+00:00",
+    "end": "2026-10-06T10:00:00+00:00",
+    "duration": 14400
+  },
+  "336618": {
+    "resource": "luogu.com.cn",
+    "id": "336618",
+    "event": "qaswed12 OI Round 1",
+    "href": "https://www.luogu.com.cn/contest/336618",
+    "start": "2026-10-06T00:00:00+00:00",
+    "end": "2026-10-06T04:00:00+00:00",
+    "duration": 14400
+  },
+  "357050": {
+    "resource": "luogu.com.cn",
+    "id": "357050",
+    "event": "Math+Girl×1 Div.2",
+    "href": "https://www.luogu.com.cn/contest/357050",
+    "start": "2026-10-05T06:00:00+00:00",
+    "end": "2026-10-05T12:00:00+00:00",
+    "duration": 21600
+  },
+  "332845": {
+    "resource": "luogu.com.cn",
+    "id": "332845",
+    "event": "Math+Girl×1 Div.1",
+    "href": "https://www.luogu.com.cn/contest/332845",
+    "start": "2026-10-05T06:00:00+00:00",
+    "end": "2026-10-05T12:00:00+00:00",
+    "duration": 21600
+  },
+  "318240": {
+    "resource": "luogu.com.cn",
+    "id": "318240",
+    "event": "RiOI Round 8 & RiPC 2026",
+    "href": "https://www.luogu.com.cn/contest/318240",
+    "start": "2026-10-05T00:30:00+00:00",
+    "end": "2026-10-05T05:30:00+00:00",
+    "duration": 18000
+  },
+  "273413": {
+    "resource": "luogu.com.cn",
+    "id": "273413",
+    "event": "【LGR-304-Div.2】洛谷 10 月月赛 II & CZOI Round 8",
+    "href": "https://www.luogu.com.cn/contest/273413",
+    "start": "2026-10-04T06:00:00+00:00",
+    "end": "2026-10-04T10:00:00+00:00",
+    "duration": 14400
+  },
+  "334135": {
+    "resource": "luogu.com.cn",
+    "id": "334135",
+    "event": "【LGR-305-Div.3】洛谷基础赛 #40 & OvOI Round 3",
+    "href": "https://www.luogu.com.cn/contest/334135",
+    "start": "2026-10-04T00:30:00+00:00",
+    "end": "2026-10-04T04:00:00+00:00",
+    "duration": 12600
   }
 }

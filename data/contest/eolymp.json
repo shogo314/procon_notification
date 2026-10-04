@@ -493,5 +493,32 @@
     "start": "2026-09-13T11:00:00+00:00",
     "end": "2026-09-13T13:00:00+00:00",
     "duration": 7200
+  },
+  "wp29": {
+    "resource": "basecamp.eolymp.com",
+    "id": "wp29",
+    "event": "Weekend Practice #29",
+    "href": "https://basecamp.eolymp.com/en/contests/wp29",
+    "start": "2026-10-11T11:00:00+00:00",
+    "end": "2026-10-11T13:00:00+00:00",
+    "duration": 7200
+  },
+  "br25": {
+    "resource": "basecamp.eolymp.com",
+    "id": "br25",
+    "event": "Blitz Round #25",
+    "href": "https://basecamp.eolymp.com/en/contests/br25",
+    "start": "2026-10-04T10:00:00+00:00",
+    "end": "2026-10-04T11:30:00+00:00",
+    "duration": 5400
+  },
+  "b79f3coah91rj546rfkbk8r9hc": {
+    "resource": "basecamp.eolymp.com",
+    "id": "b79f3coah91rj546rfkbk8r9hc",
+    "event": "UCPC 2026. Stage I",
+    "href": "https://basecamp.eolymp.com/en/contests/b79f3coah91rj546rfkbk8r9hc",
+    "start": "2026-10-03T12:00:00+00:00",
+    "end": "2026-10-03T17:00:00+00:00",
+    "duration": 18000
   }
 }

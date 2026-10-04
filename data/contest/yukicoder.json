@@ -562,9 +562,9 @@
     "id": "612",
     "event": "yukicoder contest",
     "href": "https://yukicoder.me/contests/612",
-    "start": "2026-09-18T12:20:00+00:00",
-    "end": "2026-09-18T15:00:00+00:00",
-    "duration": 9600
+    "start": "2026-10-16T12:20:00+00:00",
+    "end": "2026-10-16T15:20:00+00:00",
+    "duration": 10800
   },
   "613": {
     "resource": "yukicoder.me",
@@ -601,5 +601,50 @@
     "start": "2026-10-23T12:20:00+00:00",
     "end": "2026-10-23T14:20:00+00:00",
     "duration": 7200
+  },
+  "620": {
+    "resource": "yukicoder.me",
+    "id": "620",
+    "event": "yukicoder contest 517",
+    "href": "https://yukicoder.me/contests/620",
+    "start": "2026-10-09T12:20:00+00:00",
+    "end": "2026-10-09T14:50:00+00:00",
+    "duration": 9000
+  },
+  "623": {
+    "resource": "yukicoder.me",
+    "id": "623",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/623",
+    "start": "2026-10-30T12:20:00+00:00",
+    "end": "2026-10-30T14:50:00+00:00",
+    "duration": 9000
+  },
+  "622": {
+    "resource": "yukicoder.me",
+    "id": "622",
+    "event": "yukicoder contest yukimy32 (hiro1729) お誕生日コンテスト",
+    "href": "https://yukicoder.me/contests/622",
+    "start": "2026-11-06T12:20:00+00:00",
+    "end": "2026-11-06T14:20:00+00:00",
+    "duration": 7200
+  },
+  "624": {
+    "resource": "yukicoder.me",
+    "id": "624",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/624",
+    "start": "2026-11-20T12:20:00+00:00",
+    "end": "2026-11-20T14:50:00+00:00",
+    "duration": 9000
+  },
+  "625": {
+    "resource": "yukicoder.me",
+    "id": "625",
+    "event": "TSG LIVE! 17 コードゴルフコンテスト",
+    "href": "https://yukicoder.me/contests/625",
+    "start": "2026-11-21T06:00:00+00:00",
+    "end": "2026-11-23T06:00:00+00:00",
+    "duration": 172800
   }
 }
