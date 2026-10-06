@@ -1627,5 +1627,50 @@
     "start": "2026-10-04T12:00:00+00:00",
     "end": "2026-10-04T14:00:00+00:00",
     "duration": 7200
+  },
+  "adt_all_20261006_1": {
+    "resource": "atcoder.jp",
+    "id": "adt_all_20261006_1",
+    "event": "AtCoder Daily Training ALL 2026/10/06 16:00start",
+    "href": "https://atcoder.jp/contests/adt_all_20261006_1",
+    "start": "2026-10-06T07:00:00+00:00",
+    "end": "2026-10-06T08:00:00+00:00",
+    "duration": 3600
+  },
+  "adt_all_20261006_2": {
+    "resource": "atcoder.jp",
+    "id": "adt_all_20261006_2",
+    "event": "AtCoder Daily Training ALL 2026/10/06 18:00start",
+    "href": "https://atcoder.jp/contests/adt_all_20261006_2",
+    "start": "2026-10-06T09:00:00+00:00",
+    "end": "2026-10-06T10:00:00+00:00",
+    "duration": 3600
+  },
+  "adt_easy_20261006_1": {
+    "resource": "atcoder.jp",
+    "id": "adt_easy_20261006_1",
+    "event": "AtCoder Daily Training EASY 2026/10/06 16:00start",
+    "href": "https://atcoder.jp/contests/adt_easy_20261006_1",
+    "start": "2026-10-06T07:00:00+00:00",
+    "end": "2026-10-06T08:00:00+00:00",
+    "duration": 3600
+  },
+  "adt_easy_20261006_2": {
+    "resource": "atcoder.jp",
+    "id": "adt_easy_20261006_2",
+    "event": "AtCoder Daily Training EASY 2026/10/06 18:00start",
+    "href": "https://atcoder.jp/contests/adt_easy_20261006_2",
+    "start": "2026-10-06T09:00:00+00:00",
+    "end": "2026-10-06T10:00:00+00:00",
+    "duration": 3600
+  },
+  "awc0172": {
+    "resource": "atcoder.jp",
+    "id": "awc0172",
+    "event": "AtCoder Weekday Contest 0172 Beta",
+    "href": "https://atcoder.jp/contests/awc0172",
+    "start": "2026-10-06T11:00:00+00:00",
+    "end": "2026-10-06T12:00:00+00:00",
+    "duration": 3600
   }
 }
