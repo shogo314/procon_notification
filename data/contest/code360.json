@@ -1,0 +1,20 @@
+{
+  "weekly-contest-251": {
+    "resource": "naukri.com/code360",
+    "id": "weekly-contest-251",
+    "event": "Weekly Contest 251",
+    "href": "https://www.naukri.com/code360/contests/weekly-contest-251",
+    "start": "2026-10-08T15:01:00+00:00",
+    "end": "2026-10-08T17:01:00+00:00",
+    "duration": 7200
+  },
+  "beginner-contest-123": {
+    "resource": "naukri.com/code360",
+    "id": "beginner-contest-123",
+    "event": "Beginner Contest 123",
+    "href": "https://www.naukri.com/code360/contests/beginner-contest-123",
+    "start": "2026-10-14T15:30:00+00:00",
+    "end": "2026-10-14T17:01:00+00:00",
+    "duration": 5460
+  }
+}
