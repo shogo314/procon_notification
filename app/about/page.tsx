@@ -19,6 +19,7 @@ export default function AboutPage() {
                 <li><a href="https://mofecoder.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">MOFE</a></li>
                 <li><a href="https://repovive.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Repovive</a></li>
                 <li><a href="https://samcoding.uz/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">SamCoding</a></li>
+                <li><a href="https://www.share-oj.net/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">ShareOJ</a></li>
                 <li>ICPC（国内予選、それ以降の日本人が参加していそうなRegional）</li>
                 <li>ICPC OB/OG の会によるコンテスト</li>
                 <li>
