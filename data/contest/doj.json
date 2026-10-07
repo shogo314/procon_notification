@@ -186,7 +186,7 @@
     "href": "https://doj.kr/ja/contests/bcd11",
     "start": "2026-10-04T01:00:00+00:00",
     "end": "2026-10-11T01:00:00+00:00",
-    "duration": 6000
+    "duration": 0
   },
   "doj-contest-7": {
     "resource": "doj.kr",
@@ -204,7 +204,7 @@
     "href": "https://doj.kr/ja/contests/scsc26mini1",
     "start": "2026-10-08T15:00:00+00:00",
     "end": "2026-10-10T14:59:00+00:00",
-    "duration": 10800
+    "duration": 0
   },
   "chromate": {
     "resource": "doj.kr",
@@ -213,7 +213,7 @@
     "href": "https://doj.kr/ja/contests/chromate",
     "start": "2026-10-08T15:00:00+00:00",
     "end": "2026-10-10T15:00:00+00:00",
-    "duration": 172800
+    "duration": 0
   },
   "icpc1": {
     "resource": "doj.kr",
@@ -222,7 +222,7 @@
     "href": "https://doj.kr/ja/contests/icpc1",
     "start": "2026-10-10T04:00:00+00:00",
     "end": "2026-10-10T09:00:00+00:00",
-    "duration": 18000
+    "duration": 0
   },
   "bcd12": {
     "resource": "doj.kr",
@@ -231,7 +231,7 @@
     "href": "https://doj.kr/ja/contests/bcd12",
     "start": "2026-10-11T01:00:00+00:00",
     "end": "2026-10-18T01:00:00+00:00",
-    "duration": 6000
+    "duration": 0
   },
   "manosaba": {
     "resource": "doj.kr",
@@ -240,7 +240,7 @@
     "href": "https://doj.kr/ja/contests/manosaba",
     "start": "2026-10-15T21:00:00+00:00",
     "end": "2026-10-18T13:00:00+00:00",
-    "duration": 5999
+    "duration": 0
   },
   "dc8": {
     "resource": "doj.kr",
@@ -249,7 +249,7 @@
     "href": "https://doj.kr/ja/contests/dc8",
     "start": "2026-10-18T01:00:00+00:00",
     "end": "2026-10-25T01:00:00+00:00",
-    "duration": 10800
+    "duration": 0
   },
   "molu-cup-1": {
     "resource": "doj.kr",
@@ -258,7 +258,7 @@
     "href": "https://doj.kr/ja/contests/molu-cup-1",
     "start": "2026-11-09T11:00:00+00:00",
     "end": "2026-11-09T15:00:00+00:00",
-    "duration": 14400
+    "duration": 0
   },
   "bcd10": {
     "resource": "doj.kr",
@@ -268,5 +268,14 @@
     "start": "2026-09-27T01:00:00+00:00",
     "end": "2026-10-04T01:00:00+00:00",
     "duration": 6000
+  },
+  "dc9": {
+    "resource": "doj.kr",
+    "id": "dc9",
+    "event": "DOJ Contest 9",
+    "href": "https://doj.kr/ja/contests/dc9",
+    "start": "2026-10-25T01:00:00+00:00",
+    "end": "2026-11-01T01:00:00+00:00",
+    "duration": 0
   }
 }

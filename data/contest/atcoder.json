@@ -1636,5 +1636,14 @@
     "start": "2026-10-06T11:00:00+00:00",
     "end": "2026-10-06T12:00:00+00:00",
     "duration": 3600
+  },
+  "awc0173": {
+    "resource": "atcoder.jp",
+    "id": "awc0173",
+    "event": "AtCoder Weekday Contest 0173 Beta",
+    "href": "https://atcoder.jp/contests/awc0173",
+    "start": "2026-10-07T11:00:00+00:00",
+    "end": "2026-10-07T12:00:00+00:00",
+    "duration": 3600
   }
 }

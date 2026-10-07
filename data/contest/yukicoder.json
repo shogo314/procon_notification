@@ -646,5 +646,14 @@
     "start": "2026-11-21T06:00:00+00:00",
     "end": "2026-11-23T06:00:00+00:00",
     "duration": 172800
+  },
+  "626": {
+    "resource": "yukicoder.me",
+    "id": "626",
+    "event": "TSG LIVE! 17 プログラミングコンテスト",
+    "href": "https://yukicoder.me/contests/626",
+    "start": "2026-11-22T04:05:00+00:00",
+    "end": "2026-11-22T05:45:00+00:00",
+    "duration": 6000
   }
 }
