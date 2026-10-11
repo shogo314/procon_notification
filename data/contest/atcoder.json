@@ -1645,5 +1645,50 @@
     "start": "2026-10-07T11:00:00+00:00",
     "end": "2026-10-07T12:00:00+00:00",
     "duration": 3600
+  },
+  "abc479": {
+    "resource": "atcoder.jp",
+    "id": "abc479",
+    "event": "オムロンプログラミングコンテスト2026 （AtCoder Beginner Contest 479）",
+    "href": "https://atcoder.jp/contests/abc479",
+    "start": "2026-10-11T12:00:00+00:00",
+    "end": "2026-10-11T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc073": {
+    "resource": "atcoder.jp",
+    "id": "ahc073",
+    "event": "AtCoder Heuristic Contest 073",
+    "href": "https://atcoder.jp/contests/ahc073",
+    "start": "2026-10-17T06:00:00+00:00",
+    "end": "2026-10-17T10:00:00+00:00",
+    "duration": 14400
+  },
+  "abc480": {
+    "resource": "atcoder.jp",
+    "id": "abc480",
+    "event": "AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選 #2（AtCoder Beginner Contest 480）",
+    "href": "https://atcoder.jp/contests/abc480",
+    "start": "2026-10-17T12:00:00+00:00",
+    "end": "2026-10-17T13:40:00+00:00",
+    "duration": 6000
+  },
+  "ahc074": {
+    "resource": "atcoder.jp",
+    "id": "ahc074",
+    "event": "HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）",
+    "href": "https://atcoder.jp/contests/ahc074",
+    "start": "2026-10-30T10:00:00+00:00",
+    "end": "2026-11-09T10:00:00+00:00",
+    "duration": 864000
+  },
+  "agc079": {
+    "resource": "atcoder.jp",
+    "id": "agc079",
+    "event": "AtCoder Grand Contest 079",
+    "href": "https://atcoder.jp/contests/agc079",
+    "start": "2026-11-08T12:00:00+00:00",
+    "end": "2026-11-08T15:00:00+00:00",
+    "duration": 10800
   }
 }
