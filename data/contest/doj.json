@@ -221,7 +221,7 @@
     "event": "EZ contest 3 (DOJ ICPC Contest 1)",
     "href": "https://doj.kr/ja/contests/icpc1",
     "start": "2026-10-10T04:00:00+00:00",
-    "end": "2026-10-10T09:00:00+00:00",
+    "end": "2026-10-20T14:00:00+00:00",
     "duration": 18000
   },
   "bcd12": {
@@ -277,5 +277,23 @@
     "start": "2026-10-25T01:00:00+00:00",
     "end": "2026-11-01T01:00:00+00:00",
     "duration": 10800
+  },
+  "dmg": {
+    "resource": "doj.kr",
+    "id": "dmg",
+    "event": "제5회 디미고 프로그래밍 챌린지 Open Contest",
+    "href": "https://doj.kr/ja/contests/dmg",
+    "start": "2026-10-17T04:00:00+00:00",
+    "end": "2026-10-17T09:00:00+00:00",
+    "duration": 18000
+  },
+  "bcd13": {
+    "resource": "doj.kr",
+    "id": "bcd13",
+    "event": "DOJ Beginner Contest 13",
+    "href": "https://doj.kr/ja/contests/bcd13",
+    "start": "2026-10-18T01:00:00+00:00",
+    "end": "2026-10-25T01:00:00+00:00",
+    "duration": 6000
   }
 }
