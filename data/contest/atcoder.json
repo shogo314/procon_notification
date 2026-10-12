@@ -1690,5 +1690,23 @@
     "start": "2026-11-08T12:00:00+00:00",
     "end": "2026-11-08T15:00:00+00:00",
     "duration": 10800
+  },
+  "awc0176": {
+    "resource": "atcoder.jp",
+    "id": "awc0176",
+    "event": "AtCoder Weekday Contest 0176 Beta",
+    "href": "https://atcoder.jp/contests/awc0176",
+    "start": "2026-10-12T11:00:00+00:00",
+    "end": "2026-10-12T12:00:00+00:00",
+    "duration": 3600
+  },
+  "arc233": {
+    "resource": "atcoder.jp",
+    "id": "arc233",
+    "event": "AtCoder Regular Contest++ 233",
+    "href": "https://atcoder.jp/contests/arc233",
+    "start": "2026-10-25T12:00:00+00:00",
+    "end": "2026-10-25T14:30:00+00:00",
+    "duration": 9000
   }
 }
