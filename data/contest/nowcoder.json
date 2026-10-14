@@ -1609,5 +1609,14 @@
     "start": "2026-10-30T11:00:00+00:00",
     "end": "2026-10-30T13:00:00+00:00",
     "duration": 7200
+  },
+  "142115": {
+    "resource": "ac.nowcoder.com",
+    "id": "142115",
+    "event": "牛客周赛 Round 167",
+    "href": "https://ac.nowcoder.com/acm/contest/142115",
+    "start": "2026-10-25T11:00:00+00:00",
+    "end": "2026-10-25T13:00:00+00:00",
+    "duration": 7200
   }
 }
