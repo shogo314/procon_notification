@@ -1735,5 +1735,32 @@
     "start": "2026-11-07T12:00:00+00:00",
     "end": "2026-11-07T13:40:00+00:00",
     "duration": 6000
+  },
+  "awc0179": {
+    "resource": "atcoder.jp",
+    "id": "awc0179",
+    "event": "AtCoder Weekday Contest 0179 Beta",
+    "href": "https://atcoder.jp/contests/awc0179",
+    "start": "2026-10-15T11:00:00+00:00",
+    "end": "2026-10-15T12:00:00+00:00",
+    "duration": 3600
+  },
+  "ahc_genai_test_2026": {
+    "resource": "atcoder.jp",
+    "id": "ahc_genai_test_2026",
+    "event": "AHC GenAI Rules Trial Contest 2026",
+    "href": "https://atcoder.jp/contests/ahc_genai_test_2026",
+    "start": "2026-10-15T10:00:00+00:00",
+    "end": "2026-10-18T10:00:00+00:00",
+    "duration": 259200
+  },
+  "abc481": {
+    "resource": "atcoder.jp",
+    "id": "abc481",
+    "event": "SMBCプログラミングコンテスト #2（AtCoder Beginner Contest 481）",
+    "href": "https://atcoder.jp/contests/abc481",
+    "start": "2026-10-24T12:00:00+00:00",
+    "end": "2026-10-24T13:40:00+00:00",
+    "duration": 6000
   }
 }
