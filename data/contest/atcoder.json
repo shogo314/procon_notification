@@ -701,51 +701,6 @@
     "end": "2026-02-28T13:40:00+00:00",
     "duration": 6000
   },
-  "awc0001": {
-    "resource": "atcoder.jp",
-    "id": "awc0001",
-    "event": "AtCoder Weekday Contest 0001 Beta",
-    "href": "https://atcoder.jp/contests/awc0001",
-    "start": "2026-02-09T11:00:00+00:00",
-    "end": "2026-02-09T12:30:00+00:00",
-    "duration": 5400
-  },
-  "awc0002": {
-    "resource": "atcoder.jp",
-    "id": "awc0002",
-    "event": "AtCoder Weekday Contest 0002 Beta",
-    "href": "https://atcoder.jp/contests/awc0002",
-    "start": "2026-02-10T11:00:00+00:00",
-    "end": "2026-02-10T12:30:00+00:00",
-    "duration": 5400
-  },
-  "awc0003": {
-    "resource": "atcoder.jp",
-    "id": "awc0003",
-    "event": "AtCoder Weekday Contest 0003 Beta",
-    "href": "https://atcoder.jp/contests/awc0003",
-    "start": "2026-02-11T11:00:00+00:00",
-    "end": "2026-02-11T12:30:00+00:00",
-    "duration": 5400
-  },
-  "awc0004": {
-    "resource": "atcoder.jp",
-    "id": "awc0004",
-    "event": "AtCoder Weekday Contest 0004 Beta",
-    "href": "https://atcoder.jp/contests/awc0004",
-    "start": "2026-02-12T11:00:00+00:00",
-    "end": "2026-02-12T12:30:00+00:00",
-    "duration": 5400
-  },
-  "awc0005": {
-    "resource": "atcoder.jp",
-    "id": "awc0005",
-    "event": "AtCoder Weekday Contest 0005 Beta",
-    "href": "https://atcoder.jp/contests/awc0005",
-    "start": "2026-02-13T11:00:00+00:00",
-    "end": "2026-02-13T12:30:00+00:00",
-    "duration": 5400
-  },
   "arc215": {
     "resource": "atcoder.jp",
     "id": "arc215",
@@ -763,51 +718,6 @@
     "start": "2026-03-07T12:00:00+00:00",
     "end": "2026-03-07T13:40:00+00:00",
     "duration": 6000
-  },
-  "awc0006": {
-    "resource": "atcoder.jp",
-    "id": "awc0006",
-    "event": "AtCoder Weekday Contest 0006 Beta",
-    "href": "https://atcoder.jp/contests/awc0006",
-    "start": "2026-02-16T11:00:00+00:00",
-    "end": "2026-02-16T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0007": {
-    "resource": "atcoder.jp",
-    "id": "awc0007",
-    "event": "AtCoder Weekday Contest 0007 Beta",
-    "href": "https://atcoder.jp/contests/awc0007",
-    "start": "2026-02-17T11:00:00+00:00",
-    "end": "2026-02-17T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0008": {
-    "resource": "atcoder.jp",
-    "id": "awc0008",
-    "event": "AtCoder Weekday Contest 0008 Beta",
-    "href": "https://atcoder.jp/contests/awc0008",
-    "start": "2026-02-18T11:00:00+00:00",
-    "end": "2026-02-18T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0009": {
-    "resource": "atcoder.jp",
-    "id": "awc0009",
-    "event": "AtCoder Weekday Contest 0009 Beta",
-    "href": "https://atcoder.jp/contests/awc0009",
-    "start": "2026-02-19T11:00:00+00:00",
-    "end": "2026-02-19T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0010": {
-    "resource": "atcoder.jp",
-    "id": "awc0010",
-    "event": "AtCoder Weekday Contest 0010 Beta",
-    "href": "https://atcoder.jp/contests/awc0010",
-    "start": "2026-02-20T11:00:00+00:00",
-    "end": "2026-02-20T12:00:00+00:00",
-    "duration": 3600
   },
   "ahc062": {
     "resource": "atcoder.jp",
@@ -844,96 +754,6 @@
     "start": "2026-03-29T12:00:00+00:00",
     "end": "2026-03-29T15:00:00+00:00",
     "duration": 10800
-  },
-  "awc0011": {
-    "resource": "atcoder.jp",
-    "id": "awc0011",
-    "event": "AtCoder Weekday Contest 0011 Beta",
-    "href": "https://atcoder.jp/contests/awc0011",
-    "start": "2026-02-23T11:00:00+00:00",
-    "end": "2026-02-23T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0012": {
-    "resource": "atcoder.jp",
-    "id": "awc0012",
-    "event": "AtCoder Weekday Contest 0012 Beta",
-    "href": "https://atcoder.jp/contests/awc0012",
-    "start": "2026-02-24T11:00:00+00:00",
-    "end": "2026-02-24T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0013": {
-    "resource": "atcoder.jp",
-    "id": "awc0013",
-    "event": "AtCoder Weekday Contest 0013 Beta",
-    "href": "https://atcoder.jp/contests/awc0013",
-    "start": "2026-02-25T11:00:00+00:00",
-    "end": "2026-02-25T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0014": {
-    "resource": "atcoder.jp",
-    "id": "awc0014",
-    "event": "AtCoder Weekday Contest 0014 Beta",
-    "href": "https://atcoder.jp/contests/awc0014",
-    "start": "2026-02-26T11:00:00+00:00",
-    "end": "2026-02-26T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0015": {
-    "resource": "atcoder.jp",
-    "id": "awc0015",
-    "event": "AtCoder Weekday Contest 0015 Beta",
-    "href": "https://atcoder.jp/contests/awc0015",
-    "start": "2026-02-27T11:00:00+00:00",
-    "end": "2026-02-27T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0016": {
-    "resource": "atcoder.jp",
-    "id": "awc0016",
-    "event": "AtCoder Weekday Contest 0016 Beta",
-    "href": "https://atcoder.jp/contests/awc0016",
-    "start": "2026-03-02T11:00:00+00:00",
-    "end": "2026-03-02T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0017": {
-    "resource": "atcoder.jp",
-    "id": "awc0017",
-    "event": "AtCoder Weekday Contest 0017 Beta",
-    "href": "https://atcoder.jp/contests/awc0017",
-    "start": "2026-03-03T11:00:00+00:00",
-    "end": "2026-03-03T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0018": {
-    "resource": "atcoder.jp",
-    "id": "awc0018",
-    "event": "AtCoder Weekday Contest 0018 Beta",
-    "href": "https://atcoder.jp/contests/awc0018",
-    "start": "2026-03-04T11:00:00+00:00",
-    "end": "2026-03-04T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0019": {
-    "resource": "atcoder.jp",
-    "id": "awc0019",
-    "event": "AtCoder Weekday Contest 0019 Beta",
-    "href": "https://atcoder.jp/contests/awc0019",
-    "start": "2026-03-05T11:00:00+00:00",
-    "end": "2026-03-05T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0020": {
-    "resource": "atcoder.jp",
-    "id": "awc0020",
-    "event": "AtCoder Weekday Contest 0020 Beta",
-    "href": "https://atcoder.jp/contests/awc0020",
-    "start": "2026-03-06T11:00:00+00:00",
-    "end": "2026-03-06T12:00:00+00:00",
-    "duration": 3600
   },
   "waipc-qual": {
     "resource": "atcoder.jp",
@@ -1628,24 +1448,6 @@
     "end": "2026-10-04T14:00:00+00:00",
     "duration": 7200
   },
-  "awc0172": {
-    "resource": "atcoder.jp",
-    "id": "awc0172",
-    "event": "AtCoder Weekday Contest 0172 Beta",
-    "href": "https://atcoder.jp/contests/awc0172",
-    "start": "2026-10-06T11:00:00+00:00",
-    "end": "2026-10-06T12:00:00+00:00",
-    "duration": 3600
-  },
-  "awc0173": {
-    "resource": "atcoder.jp",
-    "id": "awc0173",
-    "event": "AtCoder Weekday Contest 0173 Beta",
-    "href": "https://atcoder.jp/contests/awc0173",
-    "start": "2026-10-07T11:00:00+00:00",
-    "end": "2026-10-07T12:00:00+00:00",
-    "duration": 3600
-  },
   "abc479": {
     "resource": "atcoder.jp",
     "id": "abc479",
@@ -1691,15 +1493,6 @@
     "end": "2026-11-08T15:00:00+00:00",
     "duration": 10800
   },
-  "awc0176": {
-    "resource": "atcoder.jp",
-    "id": "awc0176",
-    "event": "AtCoder Weekday Contest 0176 Beta",
-    "href": "https://atcoder.jp/contests/awc0176",
-    "start": "2026-10-12T11:00:00+00:00",
-    "end": "2026-10-12T12:00:00+00:00",
-    "duration": 3600
-  },
   "arc233": {
     "resource": "atcoder.jp",
     "id": "arc233",
@@ -1708,15 +1501,6 @@
     "start": "2026-10-25T12:00:00+00:00",
     "end": "2026-10-25T14:30:00+00:00",
     "duration": 9000
-  },
-  "awc0178": {
-    "resource": "atcoder.jp",
-    "id": "awc0178",
-    "event": "AtCoder Weekday Contest 0178 Beta",
-    "href": "https://atcoder.jp/contests/awc0178",
-    "start": "2026-10-14T11:00:00+00:00",
-    "end": "2026-10-14T12:00:00+00:00",
-    "duration": 3600
   },
   "abc482": {
     "resource": "atcoder.jp",
@@ -1736,15 +1520,6 @@
     "end": "2026-11-07T13:40:00+00:00",
     "duration": 6000
   },
-  "awc0179": {
-    "resource": "atcoder.jp",
-    "id": "awc0179",
-    "event": "AtCoder Weekday Contest 0179 Beta",
-    "href": "https://atcoder.jp/contests/awc0179",
-    "start": "2026-10-15T11:00:00+00:00",
-    "end": "2026-10-15T12:00:00+00:00",
-    "duration": 3600
-  },
   "ahc_genai_test_2026": {
     "resource": "atcoder.jp",
     "id": "ahc_genai_test_2026",
@@ -1762,14 +1537,5 @@
     "start": "2026-10-24T12:00:00+00:00",
     "end": "2026-10-24T13:40:00+00:00",
     "duration": 6000
-  },
-  "awc0180": {
-    "resource": "atcoder.jp",
-    "id": "awc0180",
-    "event": "AtCoder Weekday Contest 0180 Beta",
-    "href": "https://atcoder.jp/contests/awc0180",
-    "start": "2026-10-16T11:00:00+00:00",
-    "end": "2026-10-16T12:00:00+00:00",
-    "duration": 3600
   }
 }
