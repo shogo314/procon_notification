@@ -295,5 +295,14 @@
     "start": "2026-10-18T01:00:00+00:00",
     "end": "2026-10-25T01:00:00+00:00",
     "duration": 6000
+  },
+  "bcd14": {
+    "resource": "doj.kr",
+    "id": "bcd14",
+    "event": "DOJ Beginner Contest 14",
+    "href": "https://doj.kr/ja/contests/bcd14",
+    "start": "2026-10-25T01:00:00+00:00",
+    "end": "2026-11-01T01:00:00+00:00",
+    "duration": 6000
   }
 }

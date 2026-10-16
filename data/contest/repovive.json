@@ -250,5 +250,14 @@
     "start": "2026-10-04T14:45:00+00:00",
     "end": "2026-10-04T16:45:00+00:00",
     "duration": 7200
+  },
+  "1016": {
+    "resource": "repovive.com",
+    "id": "1016",
+    "event": "Repovive Math Contest Round 2",
+    "href": "https://repovive.com/contests/1016",
+    "start": "2026-10-18T13:35:00+00:00",
+    "end": "2026-10-18T16:05:00+00:00",
+    "duration": 9000
   }
 }
