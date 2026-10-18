@@ -1303,5 +1303,14 @@
     "start": "2026-10-24T11:05:00+00:00",
     "end": "2026-10-24T13:05:00+00:00",
     "duration": 7200
+  },
+  "2278": {
+    "resource": "codeforces.com",
+    "id": "2278",
+    "event": "Codeforces Round (Div. 3)",
+    "href": "https://codeforces.com/contests/2278",
+    "start": "2026-10-31T14:35:00+00:00",
+    "end": "2026-10-31T16:50:00+00:00",
+    "duration": 8100
   }
 }

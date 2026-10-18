@@ -2626,5 +2626,23 @@
     "start": "2026-10-24T06:00:00+00:00",
     "end": "2026-10-24T11:00:00+00:00",
     "duration": 18000
+  },
+  "366008": {
+    "resource": "luogu.com.cn",
+    "id": "366008",
+    "event": "[ICPC2019 Nanchang R] ICPC 2019 区域赛南昌站重现赛",
+    "href": "https://www.luogu.com.cn/contest/366008",
+    "start": "2026-10-29T05:00:00+00:00",
+    "end": "2026-10-29T10:00:00+00:00",
+    "duration": 18000
+  },
+  "366007": {
+    "resource": "luogu.com.cn",
+    "id": "366007",
+    "event": "[ICPC2019 Xuzhou R] ICPC 2019 区域赛徐州站重现赛",
+    "href": "https://www.luogu.com.cn/contest/366007",
+    "start": "2026-10-22T05:00:00+00:00",
+    "end": "2026-10-22T10:00:00+00:00",
+    "duration": 18000
   }
 }

@@ -142,5 +142,14 @@
     "start": "2026-10-17T06:30:00+00:00",
     "end": "2026-10-17T08:30:00+00:00",
     "duration": 7200
+  },
+  "yurufuwa_onsite_09": {
+    "resource": "mofecoder.com",
+    "id": "yurufuwa_onsite_09",
+    "event": "ゆるふわ競技プログラミングオンサイト at FORCIA #9",
+    "href": "https://mofecoder.com/contests/yurufuwa_onsite_09",
+    "start": "2026-11-07T05:15:00+00:00",
+    "end": "2026-11-07T07:30:00+00:00",
+    "duration": 8100
   }
 }
