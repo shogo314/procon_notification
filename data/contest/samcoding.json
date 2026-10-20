@@ -16,5 +16,14 @@
     "start": "2026-10-17T14:30:00+00:00",
     "end": "2026-10-17T17:00:00+00:00",
     "duration": 9000
+  },
+  "45": {
+    "resource": "samcoding.uz",
+    "id": "45",
+    "event": "SamCoding Round 9 (Div. 4)",
+    "href": "https://samcoding.uz/contests/45",
+    "start": "2026-10-25T14:30:00+00:00",
+    "end": "2026-10-25T17:00:00+00:00",
+    "duration": 9000
   }
 }

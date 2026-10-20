@@ -655,5 +655,14 @@
     "start": "2026-11-22T04:05:00+00:00",
     "end": "2026-11-22T05:45:00+00:00",
     "duration": 6000
+  },
+  "627": {
+    "resource": "yukicoder.me",
+    "id": "627",
+    "event": "mech_39 Contest 001",
+    "href": "https://yukicoder.me/contests/627",
+    "start": "2026-10-24T06:00:00+00:00",
+    "end": "2026-10-24T08:30:00+00:00",
+    "duration": 9000
   }
 }
