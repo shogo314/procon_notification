@@ -2653,5 +2653,14 @@
     "start": "2026-10-25T11:00:00+00:00",
     "end": "2026-10-25T13:00:00+00:00",
     "duration": 7200
+  },
+  "296670": {
+    "resource": "luogu.com.cn",
+    "id": "296670",
+    "event": "CXOI Round 7",
+    "href": "https://www.luogu.com.cn/contest/296670",
+    "start": "2026-10-25T05:30:00+00:00",
+    "end": "2026-10-25T09:30:00+00:00",
+    "duration": 14400
   }
 }

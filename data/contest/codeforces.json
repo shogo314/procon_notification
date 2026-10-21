@@ -1289,7 +1289,7 @@
   "2272": {
     "resource": "codeforces.com",
     "id": "2272",
-    "event": "Codeforces Round (Div. 2)",
+    "event": "Codeforces Round 1130 (Div. 2)",
     "href": "https://codeforces.com/contests/2272",
     "start": "2026-10-26T14:35:00+00:00",
     "end": "2026-10-26T16:50:00+00:00",
@@ -1298,7 +1298,7 @@
   "2277": {
     "resource": "codeforces.com",
     "id": "2277",
-    "event": "Codeforces Round (Div. 2)",
+    "event": "Codeforces Round 1129 (Div. 2)",
     "href": "https://codeforces.com/contests/2277",
     "start": "2026-10-24T11:05:00+00:00",
     "end": "2026-10-24T13:05:00+00:00",
@@ -1307,10 +1307,37 @@
   "2278": {
     "resource": "codeforces.com",
     "id": "2278",
-    "event": "Codeforces Round (Div. 3)",
+    "event": "Codeforces Round 1131 (Div. 3)",
     "href": "https://codeforces.com/contests/2278",
     "start": "2026-10-31T14:35:00+00:00",
     "end": "2026-10-31T16:50:00+00:00",
     "duration": 8100
+  },
+  "2279": {
+    "resource": "codeforces.com",
+    "id": "2279",
+    "event": "Codeforces Round (Div. 1)",
+    "href": "https://codeforces.com/contests/2279",
+    "start": "2026-11-07T14:35:00+00:00",
+    "end": "2026-11-07T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2280": {
+    "resource": "codeforces.com",
+    "id": "2280",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2280",
+    "start": "2026-11-07T14:35:00+00:00",
+    "end": "2026-11-07T17:05:00+00:00",
+    "duration": 9000
+  },
+  "2281": {
+    "resource": "codeforces.com",
+    "id": "2281",
+    "event": "ICPC 2026 Online Challenge 2 powered by Huawei",
+    "href": "https://codeforces.com/contests/2281",
+    "start": "2026-11-05T11:00:00+00:00",
+    "end": "2026-11-19T11:00:00+00:00",
+    "duration": 1209600
   }
 }

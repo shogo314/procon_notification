@@ -7,5 +7,14 @@
     "start": "2026-10-12T12:20:00+00:00",
     "end": "2026-10-12T14:00:00+00:00",
     "duration": 6000
+  },
+  "565fc3a7-142b-401e-b81e-81f98feb3fed": {
+    "resource": "share-oj.net",
+    "id": "565fc3a7-142b-401e-b81e-81f98feb3fed",
+    "event": "全完早解きコンテスト",
+    "href": "https://www.share-oj.net/contests/565fc3a7-142b-401e-b81e-81f98feb3fed",
+    "start": "2026-10-24T04:00:00+00:00",
+    "end": "2026-10-24T06:00:00+00:00",
+    "duration": 7200
   }
 }

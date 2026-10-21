@@ -1618,5 +1618,23 @@
     "start": "2026-10-25T11:00:00+00:00",
     "end": "2026-10-25T13:00:00+00:00",
     "duration": 7200
+  },
+  "142559": {
+    "resource": "ac.nowcoder.com",
+    "id": "142559",
+    "event": "牛客周赛 Round 168",
+    "href": "https://ac.nowcoder.com/acm/contest/142559",
+    "start": "2026-11-01T11:00:00+00:00",
+    "end": "2026-11-01T13:00:00+00:00",
+    "duration": 7200
+  },
+  "142560": {
+    "resource": "ac.nowcoder.com",
+    "id": "142560",
+    "event": "牛客练习赛159",
+    "href": "https://ac.nowcoder.com/acm/contest/142560",
+    "start": "2026-11-06T11:00:00+00:00",
+    "end": "2026-11-06T13:30:00+00:00",
+    "duration": 9000
   }
 }
