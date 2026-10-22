@@ -43,5 +43,14 @@
     "start": "2026-10-28T15:30:00+00:00",
     "end": "2026-10-28T17:01:00+00:00",
     "duration": 5460
+  },
+  "weekly-contest-254": {
+    "resource": "naukri.com/code360",
+    "id": "weekly-contest-254",
+    "event": "Weekly Contest 254",
+    "href": "https://www.naukri.com/code360/contests/weekly-contest-254",
+    "start": "2026-10-29T15:01:00+00:00",
+    "end": "2026-10-29T17:01:00+00:00",
+    "duration": 7200
   }
 }

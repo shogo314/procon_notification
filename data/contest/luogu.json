@@ -2662,5 +2662,32 @@
     "start": "2026-10-25T05:30:00+00:00",
     "end": "2026-10-25T09:30:00+00:00",
     "duration": 14400
+  },
+  "364829": {
+    "resource": "luogu.com.cn",
+    "id": "364829",
+    "event": "百合不是罪过",
+    "href": "https://www.luogu.com.cn/contest/364829",
+    "start": "2026-10-25T00:00:00+00:00",
+    "end": "2026-10-25T04:00:00+00:00",
+    "duration": 14400
+  },
+  "367097": {
+    "resource": "luogu.com.cn",
+    "id": "367097",
+    "event": "CSP-S 必备模板赛",
+    "href": "https://www.luogu.com.cn/contest/367097",
+    "start": "2026-10-23T02:00:00+00:00",
+    "end": "2026-10-31T10:30:00+00:00",
+    "duration": 721800
+  },
+  "367096": {
+    "resource": "luogu.com.cn",
+    "id": "367096",
+    "event": "CSP-J 必备模板赛",
+    "href": "https://www.luogu.com.cn/contest/367096",
+    "start": "2026-10-23T02:00:00+00:00",
+    "end": "2026-10-31T10:30:00+00:00",
+    "duration": 721800
   }
 }
