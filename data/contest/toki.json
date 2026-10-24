@@ -7,5 +7,14 @@
     "start": "2025-10-13T13:05:00+00:00",
     "end": "2025-10-13T15:35:00+00:00",
     "duration": 9000
+  },
+  "inc-2026-mirror": {
+    "resource": "tlx.toki.id",
+    "id": "inc-2026-mirror",
+    "event": "Indonesia National Contest 2026 Mirror (Rated)",
+    "href": "https://tlx.toki.id/contests/inc-2026-mirror",
+    "start": "2026-10-25T13:05:00+00:00",
+    "end": "2026-10-25T15:05:00+00:00",
+    "duration": 7200
   }
 }
