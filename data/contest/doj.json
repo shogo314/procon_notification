@@ -272,11 +272,11 @@
   "dc9": {
     "resource": "doj.kr",
     "id": "dc9",
-    "event": "DOJ Contest 9",
+    "event": "DOJ Contest++ 9",
     "href": "https://doj.kr/ja/contests/dc9",
     "start": "2026-10-25T01:00:00+00:00",
     "end": "2026-11-01T01:00:00+00:00",
-    "duration": 10800
+    "duration": 16200
   },
   "dmg": {
     "resource": "doj.kr",
@@ -304,5 +304,14 @@
     "start": "2026-10-25T01:00:00+00:00",
     "end": "2026-11-01T01:00:00+00:00",
     "duration": 6000
+  },
+  "2026-gshs-2-1-2-ps-open-contest": {
+    "resource": "doj.kr",
+    "id": "2026-gshs-2-1-2-ps-open-contest",
+    "event": "2026 GSHS 2학년 1반 2학기 PS 대회 Open Contest",
+    "href": "https://doj.kr/ja/contests/2026-gshs-2-1-2-ps-open-contest",
+    "start": "2026-10-31T09:30:00+00:00",
+    "end": "2026-10-31T12:00:00+00:00",
+    "duration": 9000
   }
 }
