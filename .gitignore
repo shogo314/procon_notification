@@ -43,3 +43,6 @@ next-env.d.ts
 # survey
 survey.py
 /survey/
+
+# Python
+__pycache__/
