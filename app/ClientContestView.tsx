@@ -96,8 +96,10 @@ function ContestTable({
   );
 }
 
-export default function ClientContestView() {
-  const [contests, setContests] = useState<ContestEntry[] | null>(null);
+export default function ClientContestView({ contests }: { contests: ContestEntry[] }) {
+  // 静的書き出し時（ビルド時刻）とブラウザでの現在時刻がずれるため、
+  // 時刻に依存する表示はマウント後にだけ行う（ハイドレーション不一致を避ける）
+  const [mounted, setMounted] = useState(false);
   const [locale, setLocale] = useState<Locale>(ja);
   const [timeZone, setTimeZone] = useState('Asia/Tokyo');
 
@@ -107,15 +109,11 @@ export default function ClientContestView() {
     const detectedZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
     setLocale(detectedLocale.startsWith('ja') ? ja : enUS);
     setTimeZone(detectedZone);
-
-    // API から取得
-    fetch('/api/contests')
-      .then((res) => res.json())
-      .then((data: ContestEntry[]) => setContests(data));
+    setMounted(true);
   }, []);
 
   const [ongoing, upcoming, recentlyEnded] = (() => {
-    if (!contests) return [[], [], []];
+    if (!mounted) return [[], [], []];
 
     const now = new Date();
     const ongoing: ContestEntry[] = [];
@@ -143,7 +141,7 @@ export default function ClientContestView() {
     return [ongoing, upcoming, recentlyEnded];
   })();
 
-  if (!contests) {
+  if (!mounted) {
     return <p className="text-gray-500">読み込み中...</p>;
   }
 
