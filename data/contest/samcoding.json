@@ -34,5 +34,14 @@
     "start": "2026-11-01T14:30:00+00:00",
     "end": "2026-11-01T16:30:00+00:00",
     "duration": 7200
+  },
+  "53": {
+    "resource": "samcoding.uz",
+    "id": "53",
+    "event": "SamCoding Round 11 (Div. 1)",
+    "href": "https://samcoding.uz/contests/53",
+    "start": "2026-11-08T14:30:00+00:00",
+    "end": "2026-11-08T17:00:00+00:00",
+    "duration": 9000
   }
 }

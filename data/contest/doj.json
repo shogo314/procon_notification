@@ -313,5 +313,23 @@
     "start": "2026-10-31T09:30:00+00:00",
     "end": "2026-10-31T12:00:00+00:00",
     "duration": 9000
+  },
+  "bcd15": {
+    "resource": "doj.kr",
+    "id": "bcd15",
+    "event": "DOJ Beginner Contest 15",
+    "href": "https://doj.kr/ja/contests/bcd15",
+    "start": "2026-11-01T01:00:00+00:00",
+    "end": "2026-11-08T01:00:00+00:00",
+    "duration": 6000
+  },
+  "car2n-toy": {
+    "resource": "doj.kr",
+    "id": "car2n-toy",
+    "event": "Car2n Cup@Double or Nothing: Toy Division",
+    "href": "https://doj.kr/ja/contests/car2n-toy",
+    "start": "2026-12-26T04:00:00+00:00",
+    "end": "2026-12-26T09:00:00+00:00",
+    "duration": 18000
   }
 }

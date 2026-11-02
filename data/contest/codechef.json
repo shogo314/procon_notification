@@ -1465,5 +1465,41 @@
     "start": "2026-10-26T13:30:00+00:00",
     "end": "2026-10-26T16:30:00+00:00",
     "duration": 10800
+  },
+  "DSAMONDAY027": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY027",
+    "event": "Monday Munch - DSA Challenge 027 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY027",
+    "start": "2026-11-02T13:30:00+00:00",
+    "end": "2026-11-02T16:30:00+00:00",
+    "duration": 10800
+  },
+  "START263": {
+    "resource": "codechef.com",
+    "id": "START263",
+    "event": "Starters 263",
+    "href": "https://www.codechef.com/START263",
+    "start": "2026-11-04T14:30:00+00:00",
+    "end": "2026-11-04T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START264": {
+    "resource": "codechef.com",
+    "id": "START264",
+    "event": "Starters 264",
+    "href": "https://www.codechef.com/START264",
+    "start": "2026-11-11T14:30:00+00:00",
+    "end": "2026-11-11T16:30:00+00:00",
+    "duration": 7200
+  },
+  "START265": {
+    "resource": "codechef.com",
+    "id": "START265",
+    "event": "Starters 265",
+    "href": "https://www.codechef.com/START265",
+    "start": "2026-11-18T14:30:00+00:00",
+    "end": "2026-11-18T16:30:00+00:00",
+    "duration": 7200
   }
 }

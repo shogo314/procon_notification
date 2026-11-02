@@ -1490,8 +1490,8 @@
     "event": "AtCoder Grand Contest 079",
     "href": "https://atcoder.jp/contests/agc079",
     "start": "2026-11-08T12:00:00+00:00",
-    "end": "2026-11-08T15:00:00+00:00",
-    "duration": 10800
+    "end": "2026-11-08T15:30:00+00:00",
+    "duration": 12600
   },
   "arc233": {
     "resource": "atcoder.jp",
@@ -1564,5 +1564,23 @@
     "start": "2026-11-22T12:00:00+00:00",
     "end": "2026-11-22T14:30:00+00:00",
     "duration": 9000
+  },
+  "c-league2026-3": {
+    "resource": "atcoder.jp",
+    "id": "c-league2026-3",
+    "event": "AtCoder 企業対抗リーグ 2026 第3戦",
+    "href": "https://atcoder.jp/contests/c-league2026-3",
+    "start": "2026-11-20T11:00:00+00:00",
+    "end": "2026-11-20T13:00:00+00:00",
+    "duration": 7200
+  },
+  "c-league2026-3-open": {
+    "resource": "atcoder.jp",
+    "id": "c-league2026-3-open",
+    "event": "AtCoder 企業対抗リーグ 2026 第3戦(オープンコンテスト)",
+    "href": "https://atcoder.jp/contests/c-league2026-3-open",
+    "start": "2026-11-20T11:00:00+00:00",
+    "end": "2026-11-20T13:00:00+00:00",
+    "duration": 7200
   }
 }

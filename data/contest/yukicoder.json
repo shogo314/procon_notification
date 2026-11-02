@@ -623,7 +623,7 @@
   "622": {
     "resource": "yukicoder.me",
     "id": "622",
-    "event": "yukicoder contest yukimy32 (hiro1729) お誕生日コンテスト",
+    "event": "yukicoder contest 521 yukimy32 (hiro1729) お誕生日コンテスト",
     "href": "https://yukicoder.me/contests/622",
     "start": "2026-11-06T12:20:00+00:00",
     "end": "2026-11-06T14:20:00+00:00",
@@ -653,8 +653,8 @@
     "event": "TSG LIVE! 17 プログラミングコンテスト",
     "href": "https://yukicoder.me/contests/626",
     "start": "2026-11-22T04:05:00+00:00",
-    "end": "2026-11-22T05:45:00+00:00",
-    "duration": 6000
+    "end": "2026-11-22T05:55:00+00:00",
+    "duration": 6600
   },
   "627": {
     "resource": "yukicoder.me",
@@ -700,5 +700,32 @@
     "start": "2026-12-04T12:20:00+00:00",
     "end": "2026-12-04T15:20:00+00:00",
     "duration": 10800
+  },
+  "633": {
+    "resource": "yukicoder.me",
+    "id": "633",
+    "event": "yukicoder contest Crossword Contest",
+    "href": "https://yukicoder.me/contests/633",
+    "start": "2026-11-14T06:00:00+00:00",
+    "end": "2026-11-14T07:30:00+00:00",
+    "duration": 5400
+  },
+  "632": {
+    "resource": "yukicoder.me",
+    "id": "632",
+    "event": "yukicoder score contest 013",
+    "href": "https://yukicoder.me/contests/632",
+    "start": "2026-11-23T12:00:00+00:00",
+    "end": "2026-11-23T14:00:00+00:00",
+    "duration": 7200
+  },
+  "634": {
+    "resource": "yukicoder.me",
+    "id": "634",
+    "event": "Advent Calendar Contest 2026",
+    "href": "https://yukicoder.me/contests/634",
+    "start": "2026-11-30T15:00:00+00:00",
+    "end": "2026-12-25T14:30:00+00:00",
+    "duration": 2158200
   }
 }
