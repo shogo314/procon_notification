@@ -11,6 +11,7 @@ export default function AboutPage() {
                 <li><a href="https://atcoder.jp/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">AtCoder</a></li>
                 <li><a href="https://codeforces.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Codeforces</a></li>
                 <li><a href="https://yukicoder.me/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">yukicoder</a></li>
+                <li><a href="https://www.qcoder.jp/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">QCoder</a></li>
                 <li><a href="https://leetcode.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">LeetCode</a></li>
                 <li><a href="https://www.codechef.com/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">CodeChef</a></li>
                 <li><a href="https://uoj.ac/" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">Universal Online Judge (UOJ)</a></li>

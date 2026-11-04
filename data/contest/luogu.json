@@ -2734,5 +2734,32 @@
     "start": "2026-10-31T04:15:00+00:00",
     "end": "2026-11-10T10:00:00+00:00",
     "duration": 884700
+  },
+  "368856": {
+    "resource": "luogu.com.cn",
+    "id": "368856",
+    "event": "【LGR-320-Div.3】洛谷基础赛 #43 & Kobe OI Round Ⅰ",
+    "href": "https://www.luogu.com.cn/contest/368856",
+    "start": "2026-12-06T06:00:00+00:00",
+    "end": "2026-12-06T09:30:00+00:00",
+    "duration": 12600
+  },
+  "311136": {
+    "resource": "luogu.com.cn",
+    "id": "311136",
+    "event": "【LGR-315-Div.3】洛谷基础赛 #42 & IXOI Round 4",
+    "href": "https://www.luogu.com.cn/contest/311136",
+    "start": "2026-11-15T06:00:00+00:00",
+    "end": "2026-11-15T09:30:00+00:00",
+    "duration": 12600
+  },
+  "370700": {
+    "resource": "luogu.com.cn",
+    "id": "370700",
+    "event": "【LGR-314】洛谷 NOIP 2026 模拟赛",
+    "href": "https://www.luogu.com.cn/contest/370700",
+    "start": "2026-11-14T00:30:00+00:00",
+    "end": "2026-11-14T05:00:00+00:00",
+    "duration": 16200
   }
 }

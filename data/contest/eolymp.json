@@ -556,5 +556,14 @@
     "start": "2026-11-08T12:00:00+00:00",
     "end": "2026-11-08T14:00:00+00:00",
     "duration": 7200
+  },
+  "br28": {
+    "resource": "basecamp.eolymp.com",
+    "id": "br28",
+    "event": "Blitz Round #28",
+    "href": "https://basecamp.eolymp.com/en/contests/br28",
+    "start": "2026-11-15T11:00:00+00:00",
+    "end": "2026-11-15T12:30:00+00:00",
+    "duration": 5400
   }
 }

@@ -16,5 +16,14 @@
     "start": "2026-10-25T13:05:00+00:00",
     "end": "2026-10-25T15:05:00+00:00",
     "duration": 7200
+  },
+  "troc-44": {
+    "resource": "tlx.toki.id",
+    "id": "troc-44",
+    "event": "TLX Regular Open Contest #44",
+    "href": "https://tlx.toki.id/contests/troc-44",
+    "start": "2026-11-09T13:05:00+00:00",
+    "end": "2026-11-09T15:35:00+00:00",
+    "duration": 9000
   }
 }

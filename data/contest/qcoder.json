@@ -16,5 +16,14 @@
     "start": "2026-03-15T07:00:00+00:00",
     "end": "2026-03-15T09:30:00+00:00",
     "duration": 9000
+  },
+  "QPC007": {
+    "resource": "qcoder.jp",
+    "id": "QPC007",
+    "event": "QCoder Programming Contest 007",
+    "href": "https://www.qcoder.jp/contests/QPC007",
+    "start": "2026-11-15T07:00:00+00:00",
+    "end": "2026-11-15T09:30:00+00:00",
+    "duration": 9000
   }
 }

@@ -331,5 +331,41 @@
     "start": "2026-12-26T04:00:00+00:00",
     "end": "2026-12-26T09:00:00+00:00",
     "duration": 18000
+  },
+  "dsc1": {
+    "resource": "doj.kr",
+    "id": "dsc1",
+    "event": "DOJ Starter Contest 1",
+    "href": "https://doj.kr/ja/contests/dsc1",
+    "start": "2026-11-04T01:00:00+00:00",
+    "end": "2026-11-11T01:00:00+00:00",
+    "duration": 3600
+  },
+  "bcd16": {
+    "resource": "doj.kr",
+    "id": "bcd16",
+    "event": "DOJ Beginner Contest 16",
+    "href": "https://doj.kr/ja/contests/bcd16",
+    "start": "2026-11-08T01:00:00+00:00",
+    "end": "2026-11-15T01:00:00+00:00",
+    "duration": 6000
+  },
+  "pepero-cup-2026": {
+    "resource": "doj.kr",
+    "id": "pepero-cup-2026",
+    "event": "빼빼로컵",
+    "href": "https://doj.kr/ja/contests/pepero-cup-2026",
+    "start": "2026-11-11T10:00:00+00:00",
+    "end": "2026-11-11T14:00:00+00:00",
+    "duration": 14400
+  },
+  "bcd17": {
+    "resource": "doj.kr",
+    "id": "bcd17",
+    "event": "DOJ Beginner Contest 17",
+    "href": "https://doj.kr/ja/contests/bcd17",
+    "start": "2026-11-15T01:00:00+00:00",
+    "end": "2026-11-22T01:00:00+00:00",
+    "duration": 6000
   }
 }
