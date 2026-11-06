@@ -43,5 +43,23 @@
     "start": "2026-11-08T14:30:00+00:00",
     "end": "2026-11-08T17:00:00+00:00",
     "duration": 9000
+  },
+  "56": {
+    "resource": "samcoding.uz",
+    "id": "56",
+    "event": "AIFT-2026 Programming Competition — Practice",
+    "href": "https://samcoding.uz/contests/56",
+    "start": "2026-11-06T05:00:00+00:00",
+    "end": "2026-11-11T05:00:00+00:00",
+    "duration": 432000
+  },
+  "54": {
+    "resource": "samcoding.uz",
+    "id": "54",
+    "event": "AIFT-2026 Programming Competition — SamDU Qualification Round",
+    "href": "https://samcoding.uz/contests/54",
+    "start": "2026-11-05T10:30:00+00:00",
+    "end": "2026-11-05T12:30:00+00:00",
+    "duration": 7200
   }
 }

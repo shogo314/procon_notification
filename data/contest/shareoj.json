@@ -25,5 +25,23 @@
     "start": "2026-11-08T02:00:00+00:00",
     "end": "2026-11-08T04:00:00+00:00",
     "duration": 7200
+  },
+  "8dcf5688-fc1b-42b0-aa8d-39636652f02c": {
+    "resource": "share-oj.net",
+    "id": "8dcf5688-fc1b-42b0-aa8d-39636652f02c",
+    "event": "第1回 manuo杯 Programming Contest ~勤労感謝コンテスト~",
+    "href": "https://www.share-oj.net/contests/8dcf5688-fc1b-42b0-aa8d-39636652f02c",
+    "start": "2026-11-23T12:00:00+00:00",
+    "end": "2026-11-23T13:40:00+00:00",
+    "duration": 6000
+  },
+  "e0d942c3-684f-4305-a910-3d58e1fe3de1": {
+    "resource": "share-oj.net",
+    "id": "e0d942c3-684f-4305-a910-3d58e1fe3de1",
+    "event": "yuki4869杯 Programming Contest vol.3",
+    "href": "https://www.share-oj.net/contests/e0d942c3-684f-4305-a910-3d58e1fe3de1",
+    "start": "2026-11-15T12:00:00+00:00",
+    "end": "2026-11-15T13:40:00+00:00",
+    "duration": 6000
   }
 }

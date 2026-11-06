@@ -355,9 +355,9 @@
     "id": "pepero-cup-2026",
     "event": "빼빼로컵",
     "href": "https://doj.kr/ja/contests/pepero-cup-2026",
-    "start": "2026-11-11T10:00:00+00:00",
-    "end": "2026-11-11T14:00:00+00:00",
-    "duration": 14400
+    "start": "2026-11-10T15:00:00+00:00",
+    "end": "2026-11-11T14:59:00+00:00",
+    "duration": 86340
   },
   "bcd17": {
     "resource": "doj.kr",
@@ -367,5 +367,14 @@
     "start": "2026-11-15T01:00:00+00:00",
     "end": "2026-11-22T01:00:00+00:00",
     "duration": 6000
+  },
+  "dc10": {
+    "resource": "doj.kr",
+    "id": "dc10",
+    "event": "DOJ Contest 10",
+    "href": "https://doj.kr/ja/contests/dc10",
+    "start": "2026-11-08T01:00:00+00:00",
+    "end": "2026-11-15T01:00:00+00:00",
+    "duration": 14400
   }
 }
