@@ -2770,5 +2770,14 @@
     "start": "2026-11-12T05:00:00+00:00",
     "end": "2026-11-12T10:00:00+00:00",
     "duration": 18000
+  },
+  "365827": {
+    "resource": "luogu.com.cn",
+    "id": "365827",
+    "event": "【LGR-317-Div.2】洛谷 11 月月赛 II & P.A.TASKS S1",
+    "href": "https://www.luogu.com.cn/contest/365827",
+    "start": "2026-11-21T06:00:00+00:00",
+    "end": "2026-11-21T11:00:00+00:00",
+    "duration": 18000
   }
 }

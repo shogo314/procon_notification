@@ -295,5 +295,14 @@
     "start": "2026-10-20T14:35:00+00:00",
     "end": "2026-10-20T16:35:00+00:00",
     "duration": 7200
+  },
+  "31": {
+    "resource": "repovive.com",
+    "id": "31",
+    "event": "repovive standard round 10",
+    "href": "https://repovive.com/contests/31",
+    "start": "2026-11-10T14:35:00+00:00",
+    "end": "2026-11-10T16:35:00+00:00",
+    "duration": 7200
   }
 }

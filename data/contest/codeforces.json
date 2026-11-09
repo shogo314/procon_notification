@@ -1402,5 +1402,14 @@
     "start": "2026-11-21T14:35:00+00:00",
     "end": "2026-11-21T16:35:00+00:00",
     "duration": 7200
+  },
+  "2290": {
+    "resource": "codeforces.com",
+    "id": "2290",
+    "event": "Codeforces Round 1134 (Div. 4)",
+    "href": "https://codeforces.com/contests/2290",
+    "start": "2026-11-12T14:35:00+00:00",
+    "end": "2026-11-12T16:50:00+00:00",
+    "duration": 8100
   }
 }

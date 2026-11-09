@@ -151,5 +151,14 @@
     "start": "2026-10-23T10:00:00+00:00",
     "end": "2026-10-23T14:00:00+00:00",
     "duration": 14400
+  },
+  "116": {
+    "resource": "uoj.ac",
+    "id": "116",
+    "event": "UOJ NOIP Round 2026 (UOJ Round #35)",
+    "href": "https://uoj.ac/contest/116",
+    "start": "2026-11-21T00:30:00+00:00",
+    "end": "2026-11-21T05:00:00+00:00",
+    "duration": 16200
   }
 }

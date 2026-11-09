@@ -43,5 +43,14 @@
     "start": "2026-11-15T12:00:00+00:00",
     "end": "2026-11-15T13:40:00+00:00",
     "duration": 6000
+  },
+  "edb20610-e36e-4c7e-9d08-12c29b8bfe69": {
+    "resource": "share-oj.net",
+    "id": "edb20610-e36e-4c7e-9d08-12c29b8bfe69",
+    "event": "Arcaea Unofficial Contest vol.1",
+    "href": "https://www.share-oj.net/contests/edb20610-e36e-4c7e-9d08-12c29b8bfe69",
+    "start": "2026-11-15T06:00:00+00:00",
+    "end": "2026-11-15T08:00:00+00:00",
+    "duration": 7200
   }
 }
