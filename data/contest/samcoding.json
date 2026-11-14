@@ -61,5 +61,14 @@
     "start": "2026-11-05T10:30:00+00:00",
     "end": "2026-11-05T12:30:00+00:00",
     "duration": 7200
+  },
+  "57": {
+    "resource": "samcoding.uz",
+    "id": "57",
+    "event": "SamCoding Round 12 (Div. 3)",
+    "href": "https://samcoding.uz/contests/57",
+    "start": "2026-11-20T14:30:00+00:00",
+    "end": "2026-11-20T16:30:00+00:00",
+    "duration": 7200
   }
 }

@@ -2723,8 +2723,8 @@
     "event": "CSP-S 2026 自测（官方数据）",
     "href": "https://www.luogu.com.cn/contest/369912",
     "start": "2026-10-31T11:00:00+00:00",
-    "end": "2026-11-10T10:00:00+00:00",
-    "duration": 860400
+    "end": "2026-11-13T10:00:00+00:00",
+    "duration": 1119600
   },
   "369911": {
     "resource": "luogu.com.cn",
@@ -2732,8 +2732,8 @@
     "event": "CSP-J 2026 自测（官方数据）",
     "href": "https://www.luogu.com.cn/contest/369911",
     "start": "2026-10-31T04:15:00+00:00",
-    "end": "2026-11-10T10:00:00+00:00",
-    "duration": 884700
+    "end": "2026-11-13T10:00:00+00:00",
+    "duration": 1143900
   },
   "368856": {
     "resource": "luogu.com.cn",
@@ -2778,6 +2778,33 @@
     "href": "https://www.luogu.com.cn/contest/365827",
     "start": "2026-11-21T06:00:00+00:00",
     "end": "2026-11-21T11:00:00+00:00",
+    "duration": 18000
+  },
+  "372200": {
+    "resource": "luogu.com.cn",
+    "id": "372200",
+    "event": "[CCPC 2026 长春站] CCPC 2026 长春站重现赛",
+    "href": "https://www.luogu.com.cn/contest/372200",
+    "start": "2026-11-26T05:00:00+00:00",
+    "end": "2026-11-26T10:00:00+00:00",
+    "duration": 18000
+  },
+  "321119": {
+    "resource": "luogu.com.cn",
+    "id": "321119",
+    "event": "[CPOI] Round 1",
+    "href": "https://www.luogu.com.cn/contest/321119",
+    "start": "2026-11-22T06:00:00+00:00",
+    "end": "2026-11-22T10:00:00+00:00",
+    "duration": 14400
+  },
+  "372198": {
+    "resource": "luogu.com.cn",
+    "id": "372198",
+    "event": "[ICPC2026 Nanchang I] ICPC 2026 邀请赛南昌站重现赛",
+    "href": "https://www.luogu.com.cn/contest/372198",
+    "start": "2026-11-19T05:00:00+00:00",
+    "end": "2026-11-19T10:00:00+00:00",
     "duration": 18000
   }
 }

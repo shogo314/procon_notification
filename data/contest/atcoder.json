@@ -1609,5 +1609,41 @@
     "start": "2026-12-27T12:00:00+00:00",
     "end": "2026-12-27T15:00:00+00:00",
     "duration": 10800
+  },
+  "ahc075": {
+    "resource": "atcoder.jp",
+    "id": "ahc075",
+    "event": "AtCoder Heuristic Contest 075",
+    "href": "https://atcoder.jp/contests/ahc075",
+    "start": "2026-11-29T10:00:00+00:00",
+    "end": "2026-11-29T14:00:00+00:00",
+    "duration": 14400
+  },
+  "abc487": {
+    "resource": "atcoder.jp",
+    "id": "abc487",
+    "event": "AtCoder Beginner Contest 487",
+    "href": "https://atcoder.jp/contests/abc487",
+    "start": "2026-12-05T12:00:00+00:00",
+    "end": "2026-12-05T13:40:00+00:00",
+    "duration": 6000
+  },
+  "agc082": {
+    "resource": "atcoder.jp",
+    "id": "agc082",
+    "event": "AtCoder Grand Contest 082",
+    "href": "https://atcoder.jp/contests/agc082",
+    "start": "2027-01-17T12:00:00+00:00",
+    "end": "2027-01-17T15:00:00+00:00",
+    "duration": 10800
+  },
+  "agc083": {
+    "resource": "atcoder.jp",
+    "id": "agc083",
+    "event": "AtCoder Grand Contest 083",
+    "href": "https://atcoder.jp/contests/agc083",
+    "start": "2027-01-24T12:00:00+00:00",
+    "end": "2027-01-24T15:00:00+00:00",
+    "duration": 10800
   }
 }

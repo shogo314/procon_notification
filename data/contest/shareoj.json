@@ -41,8 +41,8 @@
     "event": "yuki4869杯 Programming Contest vol.3",
     "href": "https://www.share-oj.net/contests/e0d942c3-684f-4305-a910-3d58e1fe3de1",
     "start": "2026-11-15T12:00:00+00:00",
-    "end": "2026-11-15T13:40:00+00:00",
-    "duration": 6000
+    "end": "2026-11-15T14:00:00+00:00",
+    "duration": 7200
   },
   "edb20610-e36e-4c7e-9d08-12c29b8bfe69": {
     "resource": "share-oj.net",
@@ -52,5 +52,23 @@
     "start": "2026-11-15T06:00:00+00:00",
     "end": "2026-11-15T08:00:00+00:00",
     "duration": 7200
+  },
+  "ed867f2c-587b-46fc-af2b-f2ef8e923156": {
+    "resource": "share-oj.net",
+    "id": "ed867f2c-587b-46fc-af2b-f2ef8e923156",
+    "event": "Super Judge Contest",
+    "href": "https://www.share-oj.net/contests/ed867f2c-587b-46fc-af2b-f2ef8e923156",
+    "start": "3000-01-01T04:00:00+00:00",
+    "end": "3000-01-01T05:00:00+00:00",
+    "duration": 3600
+  },
+  "240eedb6-d197-4864-b300-76917b619360": {
+    "resource": "share-oj.net",
+    "id": "240eedb6-d197-4864-b300-76917b619360",
+    "event": "ねこ 18題",
+    "href": "https://www.share-oj.net/contests/240eedb6-d197-4864-b300-76917b619360",
+    "start": "2026-11-22T05:00:00+00:00",
+    "end": "2026-11-22T08:00:00+00:00",
+    "duration": 10800
   }
 }

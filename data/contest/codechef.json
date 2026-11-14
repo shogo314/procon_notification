@@ -1510,5 +1510,14 @@
     "start": "2026-11-09T13:30:05+00:00",
     "end": "2026-11-09T16:30:05+00:00",
     "duration": 10800
+  },
+  "DSAMONDAY029": {
+    "resource": "codechef.com",
+    "id": "DSAMONDAY029",
+    "event": "Monday Munch - DSA Challenge 029 (Rated)",
+    "href": "https://www.codechef.com/DSAMONDAY029",
+    "start": "2026-11-16T13:30:00+00:00",
+    "end": "2026-11-16T16:30:00+00:00",
+    "duration": 10800
   }
 }

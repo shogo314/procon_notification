@@ -736,5 +736,14 @@
     "start": "2026-11-13T13:30:00+00:00",
     "end": "2026-11-13T15:30:00+00:00",
     "duration": 7200
+  },
+  "636": {
+    "resource": "yukicoder.me",
+    "id": "636",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/636",
+    "start": "2027-01-08T12:20:00+00:00",
+    "end": "2027-01-08T14:20:00+00:00",
+    "duration": 7200
   }
 }
