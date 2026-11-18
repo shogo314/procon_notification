@@ -394,5 +394,23 @@
     "start": "2026-11-21T01:40:00+00:00",
     "end": "2026-11-21T03:40:00+00:00",
     "duration": 7200
+  },
+  "dcs2": {
+    "resource": "doj.kr",
+    "id": "dcs2",
+    "event": "DOJ Starter Contest 2",
+    "href": "https://doj.kr/ja/contests/dcs2",
+    "start": "2026-11-18T01:00:00+00:00",
+    "end": "2026-11-25T01:00:00+00:00",
+    "duration": 3600
+  },
+  "bcd18": {
+    "resource": "doj.kr",
+    "id": "bcd18",
+    "event": "DOJ Beginner Contest 18",
+    "href": "https://doj.kr/ja/contests/bcd18",
+    "start": "2026-11-22T01:00:00+00:00",
+    "end": "2026-11-29T01:00:00+00:00",
+    "duration": 6000
   }
 }

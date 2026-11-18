@@ -632,7 +632,7 @@
   "624": {
     "resource": "yukicoder.me",
     "id": "624",
-    "event": "yukicoder contest",
+    "event": "yukicoder contest 524",
     "href": "https://yukicoder.me/contests/624",
     "start": "2026-11-20T12:20:00+00:00",
     "end": "2026-11-20T14:50:00+00:00",
@@ -744,6 +744,15 @@
     "href": "https://yukicoder.me/contests/636",
     "start": "2027-01-08T12:20:00+00:00",
     "end": "2027-01-08T14:20:00+00:00",
+    "duration": 7200
+  },
+  "637": {
+    "resource": "yukicoder.me",
+    "id": "637",
+    "event": "yukicoder contest",
+    "href": "https://yukicoder.me/contests/637",
+    "start": "2026-12-11T12:20:00+00:00",
+    "end": "2026-12-11T14:20:00+00:00",
     "duration": 7200
   }
 }

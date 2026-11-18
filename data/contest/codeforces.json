@@ -1411,5 +1411,14 @@
     "start": "2026-11-12T14:35:00+00:00",
     "end": "2026-11-12T16:50:00+00:00",
     "duration": 8100
+  },
+  "2289": {
+    "resource": "codeforces.com",
+    "id": "2289",
+    "event": "Codeforces Round (Div. 2)",
+    "href": "https://codeforces.com/contests/2289",
+    "start": "2026-11-22T09:05:00+00:00",
+    "end": "2026-11-22T11:05:00+00:00",
+    "duration": 7200
   }
 }
