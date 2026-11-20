@@ -7,6 +7,36 @@ import type { Locale } from 'date-fns';
 import { formatInTimeZone } from 'date-fns-tz';
 import { ja, enUS } from 'date-fns/locale';
 
+function announcementUrl(contest: ContestEntry, contests: ContestEntry[]) {
+  let { event, href } = contest;
+  if (contest.resource === 'codechef.com') {
+    if (!/^CodeChef\b/i.test(event)) event = `CodeChef ${event}`;
+    href = href.replace('https://www.codechef.com/', 'https://codechef.com/');
+  }
+
+  if (contest.resource === 'codeforces.com') {
+    const divisions = event.match(/\bDiv\. \d+\b/g);
+    if (divisions?.length === 1 && ['Div. 1', 'Div. 2'].includes(divisions[0])) {
+      const division = divisions[0];
+      const isFirst = division === 'Div. 1';
+      const partnerName = event.replace(division, isFirst ? 'Div. 2' : 'Div. 1');
+      const partner = contests.find(other =>
+        other.resource === contest.resource && other.event === partnerName &&
+        Date.parse(other.start) === Date.parse(contest.start)
+      );
+      if (partner) {
+        event = event.replace(division, 'Div. 1, Div. 2');
+        const ids = isFirst ? [contest.id, partner.id] : [partner.id, contest.id];
+        href = `https://codeforces.com/contests/${ids.join(',')}`;
+      }
+    }
+  }
+
+  const time = formatInTimeZone(contest.start, 'Asia/Tokyo', 'HH:mm');
+  const text = `${event}\nが ${time} から始まります\n${href}`;
+  return `https://twitter.com/intent/tweet?${new URLSearchParams({ text })}`;
+}
+
 function TimeUntil({ target, locale }: { target: Date; locale?: Locale }) {
   const [text, setText] = useState(() =>
     formatDistanceToNow(target, { addSuffix: true, locale })
@@ -56,6 +86,7 @@ function ContestTable({
                 <th className="px-4 py-2 border">Duration</th>
                 <th className="px-4 py-2 border">Event</th>
                 <th className="px-4 py-2 border">Site</th>
+                {timeTarget === 'start' && <th className="px-4 py-2 border">開始告知</th>}
               </tr>
             </thead>
             <tbody>
@@ -85,6 +116,19 @@ function ContestTable({
                       </a>
                     </td>
                     <td className="px-4 py-2 border">{contest.resource}</td>
+                    {timeTarget === 'start' && (
+                      <td className="px-4 py-2 border whitespace-nowrap">
+                        <a
+                          href={announcementUrl(contest, contests)}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label={`${contest.event} の告知をXで作成`}
+                          className="inline-block rounded border px-3 py-1 text-sm hover:underline"
+                        >
+                          Xで告知を作成
+                        </a>
+                      </td>
+                    )}
                   </tr>
                 );
               })}
