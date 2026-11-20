@@ -2815,5 +2815,23 @@
     "start": "2026-11-27T11:00:00+00:00",
     "end": "2026-11-27T13:00:00+00:00",
     "duration": 7200
+  },
+  "372249": {
+    "resource": "luogu.com.cn",
+    "id": "372249",
+    "event": "第二届“⌬杯”蓝桥杯省赛模拟赛",
+    "href": "https://www.luogu.com.cn/contest/372249",
+    "start": "2026-12-13T06:00:00+00:00",
+    "end": "2026-12-13T10:00:00+00:00",
+    "duration": 14400
+  },
+  "372048": {
+    "resource": "luogu.com.cn",
+    "id": "372048",
+    "event": "LXQ OI Round 2 && 胡桃杯 Round 1",
+    "href": "https://www.luogu.com.cn/contest/372048",
+    "start": "2026-11-22T00:00:00+00:00",
+    "end": "2026-11-22T04:30:00+00:00",
+    "duration": 16200
   }
 }

@@ -1654,5 +1654,14 @@
     "start": "2026-12-12T12:00:00+00:00",
     "end": "2026-12-12T13:40:00+00:00",
     "duration": 6000
+  },
+  "abc489": {
+    "resource": "atcoder.jp",
+    "id": "abc489",
+    "event": "ユニークビジョンプログラミングコンテスト2026 クリスマス（AtCoder Beginner Contest 489）",
+    "href": "https://atcoder.jp/contests/abc489",
+    "start": "2026-12-20T12:00:00+00:00",
+    "end": "2026-12-20T13:40:00+00:00",
+    "duration": 6000
   }
 }
