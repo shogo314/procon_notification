@@ -7,11 +7,15 @@ import type { Locale } from 'date-fns';
 import { formatInTimeZone } from 'date-fns-tz';
 import { ja, enUS } from 'date-fns/locale';
 
-function announcementUrl(contest: ContestEntry, contests: ContestEntry[]) {
+function announcementText(contest: ContestEntry, contests: ContestEntry[]) {
   let { event, href } = contest;
   if (contest.resource === 'codechef.com') {
     if (!/^CodeChef\b/i.test(event)) event = `CodeChef ${event}`;
     href = href.replace('https://www.codechef.com/', 'https://codechef.com/');
+  }
+
+  if (contest.resource === 'leetcode.com' && !/^LeetCode\b/i.test(event)) {
+    event = `LeetCode ${event}`;
   }
 
   if (contest.resource === 'codeforces.com') {
@@ -33,8 +37,75 @@ function announcementUrl(contest: ContestEntry, contests: ContestEntry[]) {
   }
 
   const time = formatInTimeZone(contest.start, 'Asia/Tokyo', 'HH:mm');
-  const text = `${event}\nが ${time} から始まります\n${href}`;
+  return `${event}\nが ${time} から始まります\n${href}`;
+}
+
+function intentUrl(text: string) {
   return `https://twitter.com/intent/tweet?${new URLSearchParams({ text })}`;
+}
+
+// Intent の投稿画面には予約ボタンが無いため、予約したいときは
+// 告知文をクリップボードにコピーしてから通常の投稿画面を開く
+const COMPOSE_URL = 'https://x.com/compose/post';
+
+async function copyText(text: string) {
+  try {
+    await navigator.clipboard.writeText(text);
+    return true;
+  } catch {
+    // Clipboard API が使えない環境（非HTTPSなど）向けのフォールバック
+    const textarea = document.createElement('textarea');
+    textarea.value = text;
+    textarea.style.position = 'fixed';
+    textarea.style.opacity = '0';
+    document.body.appendChild(textarea);
+    textarea.select();
+    const ok = document.execCommand('copy');
+    document.body.removeChild(textarea);
+    return ok;
+  }
+}
+
+function AnnouncementButtons({ contest, contests }: { contest: ContestEntry; contests: ContestEntry[] }) {
+  const text = announcementText(contest, contests);
+  const [status, setStatus] = useState<'idle' | 'copied' | 'failed'>('idle');
+
+  const handleSchedule = async () => {
+    // コピーはページにフォーカスがあるうちに開始し、
+    // タブはポップアップブロックを避けるためクリック直後に同期的に開く
+    const copying = copyText(text);
+    const tab = window.open(COMPOSE_URL, '_blank');
+    if (tab) tab.opener = null;
+    const ok = await copying;
+    setStatus(ok ? 'copied' : 'failed');
+    if (!ok) {
+      window.prompt('コピーできませんでした。以下を手動でコピーしてください', text);
+    }
+  };
+
+  const buttonClass = 'inline-block rounded border px-3 py-1 text-sm hover:underline';
+
+  return (
+    <div className="flex gap-2">
+      <a
+        href={intentUrl(text)}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label={`${contest.event} の告知をXで今すぐ投稿`}
+        className={buttonClass}
+      >
+        今すぐ投稿
+      </a>
+      <button
+        type="button"
+        onClick={handleSchedule}
+        aria-label={`${contest.event} の告知文をコピーしてXの投稿画面を開く`}
+        className={buttonClass}
+      >
+        {status === 'copied' ? 'コピーしました' : 'コピーして予約'}
+      </button>
+    </div>
+  );
 }
 
 function TimeUntil({ target, locale }: { target: Date; locale?: Locale }) {
@@ -118,15 +189,7 @@ function ContestTable({
                     <td className="px-4 py-2 border">{contest.resource}</td>
                     {timeTarget === 'start' && (
                       <td className="px-4 py-2 border whitespace-nowrap">
-                        <a
-                          href={announcementUrl(contest, contests)}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          aria-label={`${contest.event} の告知をXで作成`}
-                          className="inline-block rounded border px-3 py-1 text-sm hover:underline"
-                        >
-                          Xで告知を作成
-                        </a>
+                        <AnnouncementButtons contest={contest} contests={contests} />
                       </td>
                     )}
                   </tr>
