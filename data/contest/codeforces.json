@@ -1420,5 +1420,14 @@
     "start": "2026-11-22T09:05:00+00:00",
     "end": "2026-11-22T11:05:00+00:00",
     "duration": 7200
+  },
+  "2291": {
+    "resource": "codeforces.com",
+    "id": "2291",
+    "event": "ICPC 2026 Online Challenge 2 powered by Huawei",
+    "href": "https://codeforces.com/contests/2291",
+    "start": "2026-12-08T11:00:00+00:00",
+    "end": "2026-12-22T11:00:00+00:00",
+    "duration": 1209600
   }
 }

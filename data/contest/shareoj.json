@@ -29,7 +29,7 @@
   "8dcf5688-fc1b-42b0-aa8d-39636652f02c": {
     "resource": "share-oj.net",
     "id": "8dcf5688-fc1b-42b0-aa8d-39636652f02c",
-    "event": "第1回 manuo杯 Programming Contest ~勤労感謝コンテスト~",
+    "event": "第１回 manuo杯 Programming Contest ~勤労感謝コンテスト~",
     "href": "https://www.share-oj.net/contests/8dcf5688-fc1b-42b0-aa8d-39636652f02c",
     "start": "2026-11-23T12:00:00+00:00",
     "end": "2026-11-23T13:40:00+00:00",
@@ -79,5 +79,14 @@
     "start": "2026-12-29T15:00:00+00:00",
     "end": "2027-01-02T15:00:00+00:00",
     "duration": 345600
+  },
+  "ebf70fcf-e7bc-46d1-a0d6-f4912b92615b": {
+    "resource": "share-oj.net",
+    "id": "ebf70fcf-e7bc-46d1-a0d6-f4912b92615b",
+    "event": "Ultimate Judge Contest",
+    "href": "https://www.share-oj.net/contests/ebf70fcf-e7bc-46d1-a0d6-f4912b92615b",
+    "start": "3999-12-31T15:00:00+00:00",
+    "end": "3999-12-31T17:00:00+00:00",
+    "duration": 7200
   }
 }
