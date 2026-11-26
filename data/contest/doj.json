@@ -412,5 +412,23 @@
     "start": "2026-11-22T01:00:00+00:00",
     "end": "2026-11-29T01:00:00+00:00",
     "duration": 6000
+  },
+  "kupc2026-open": {
+    "resource": "doj.kr",
+    "id": "kupc2026-open",
+    "event": "KUPC 2026 Open Contest",
+    "href": "https://doj.kr/ja/contests/kupc2026-open",
+    "start": "2026-11-28T05:00:00+00:00",
+    "end": "2026-11-28T08:00:00+00:00",
+    "duration": 10800
+  },
+  "car2n-cartoon": {
+    "resource": "doj.kr",
+    "id": "car2n-cartoon",
+    "event": "Car2n Cup@Double or Nothing: Cartoon Division",
+    "href": "https://doj.kr/ja/contests/car2n-cartoon",
+    "start": "2027-01-02T04:00:00+00:00",
+    "end": "2027-01-02T09:00:00+00:00",
+    "duration": 18000
   }
 }

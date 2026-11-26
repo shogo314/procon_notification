@@ -1429,5 +1429,23 @@
     "start": "2026-12-08T11:00:00+00:00",
     "end": "2026-12-22T11:00:00+00:00",
     "duration": 1209600
+  },
+  "2293": {
+    "resource": "codeforces.com",
+    "id": "2293",
+    "event": "Educational Codeforces Round 197 (Rated for Div. 2)",
+    "href": "https://codeforces.com/contests/2293",
+    "start": "2026-12-14T14:35:00+00:00",
+    "end": "2026-12-14T16:35:00+00:00",
+    "duration": 7200
+  },
+  "2292": {
+    "resource": "codeforces.com",
+    "id": "2292",
+    "event": "Codeforces Round 1138 (Div. 3)",
+    "href": "https://codeforces.com/contests/2292",
+    "start": "2026-11-27T14:35:00+00:00",
+    "end": "2026-11-27T16:50:00+00:00",
+    "duration": 8100
   }
 }

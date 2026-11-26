@@ -106,5 +106,14 @@
     "start": "2026-11-26T15:01:00+00:00",
     "end": "2026-11-26T17:01:00+00:00",
     "duration": 7200
+  },
+  "beginner-contest-127": {
+    "resource": "naukri.com/code360",
+    "id": "beginner-contest-127",
+    "event": "Beginner Contest 127",
+    "href": "https://www.naukri.com/code360/contests/beginner-contest-127",
+    "start": "2026-12-09T15:30:00+00:00",
+    "end": "2026-12-09T17:01:00+00:00",
+    "duration": 5460
   }
 }

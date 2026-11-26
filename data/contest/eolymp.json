@@ -592,5 +592,14 @@
     "start": "2026-11-18T17:00:00+00:00",
     "end": "2026-11-18T19:00:00+00:00",
     "duration": 7200
+  },
+  "wp33": {
+    "resource": "basecamp.eolymp.com",
+    "id": "wp33",
+    "event": "Weekend Practice #33",
+    "href": "https://basecamp.eolymp.com/en/contests/wp33",
+    "start": "2026-12-05T12:00:00+00:00",
+    "end": "2026-12-05T14:00:00+00:00",
+    "duration": 7200
   }
 }

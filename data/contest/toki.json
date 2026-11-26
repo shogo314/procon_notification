@@ -25,5 +25,14 @@
     "start": "2026-11-09T13:05:00+00:00",
     "end": "2026-11-09T15:35:00+00:00",
     "duration": 9000
+  },
+  "icpc-jakarta-2026-mirror": {
+    "resource": "tlx.toki.id",
+    "id": "icpc-jakarta-2026-mirror",
+    "event": "The 2026 ICPC Asia Jakarta Regional Contest Mirror (Rated)",
+    "href": "https://tlx.toki.id/contests/icpc-jakarta-2026-mirror",
+    "start": "2026-11-29T03:35:00+00:00",
+    "end": "2026-11-29T05:35:00+00:00",
+    "duration": 7200
   }
 }
